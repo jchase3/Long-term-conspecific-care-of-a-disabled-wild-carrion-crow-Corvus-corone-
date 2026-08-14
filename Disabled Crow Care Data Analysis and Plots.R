@@ -3,7 +3,6 @@ library(lubridate) #change date formats
 library(ggplot2) #plots
 library(ggpubr) #combine plots for publication
 library(ggsignif) #significance bars
-library(emmeans) #check correlation
 library(car) #for type-II anovas
 library(MASS) #for negative binomial glmms
 library(lme4) #for other glmms
