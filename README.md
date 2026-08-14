@@ -13,11 +13,13 @@ attached base packages:
 [1] grid      stats     graphics  grDevices utils     datasets  methods   base 
 
 other attached packages:
- [1] png_0.1-9          MASS_7.3-65        DHARMa_0.5.0       performance_0.17.1
- [5] car_3.1-5          carData_3.0-6      emmeans_2.0.3      forcats_1.0.1     
- [9] stringr_1.6.0      dplyr_1.2.1        purrr_1.2.2        readr_2.2.0       
-[13] tidyr_1.3.2        tibble_3.3.1       tidyverse_2.0.0    ggsignif_0.6.4    
-[17] ggpubr_1.0.0       ggplot2_4.0.3      lubridate_1.9.5    data.table_1.18.4
+ [1] png_0.1-9         forcats_1.0.1     stringr_1.6.0    
+ [4] dplyr_1.2.1       purrr_1.2.2       readr_2.2.0      
+ [7] tidyr_1.3.2       tibble_3.3.1      tidyverse_2.0.0  
+[10] lme4_2.0-1        Matrix_1.7-5      MASS_7.3-65      
+[13] car_3.1-5         carData_3.0-6     emmeans_2.0.3    
+[16] ggsignif_0.6.4    ggpubr_1.0.0      ggplot2_4.0.3    
+[19] lubridate_1.9.5   data.table_1.18.4
 
 
 Folder/file overview:
