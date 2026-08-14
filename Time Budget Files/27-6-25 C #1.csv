@@ -1,0 +1,8 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,No focal subject,Unclear video,,16,71.196,4.45,3.328,56.339,55.761,7.6
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,Other crow #1,Alert,Other crow #1,4,20.557,5.139,3.299,26.534,29.48,2.2
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,Other crow #1,Alert,Other crow #1,4,20.557,5.139,3.299,26.534,29.48,2.2
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,Other crow #1,Foraging,Other crow #1,9,149.314,16.59,20.864,7.076,5.1,15.9
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,Other crow #1,Resting,Other crow #1,12,696.837,58.07,60.744,21.513,52.812,74.3
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,Other crow #1,Alert,Other crow #1,4,20.557,5.139,3.299,26.534,29.48,2.2
+27-6-25 C #1,2025-12-2711:39:37.063,,60,90,11,cloudy,(no record),no,ground,0.000,937.920,937.920,Other crow #1,Alert,Other crow #1,4,20.557,5.139,3.299,26.534,29.48,2.2

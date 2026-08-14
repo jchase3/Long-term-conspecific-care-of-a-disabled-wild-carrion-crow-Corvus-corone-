@@ -1,0 +1,26 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,No focal subject,Close proximity,Mutual|Mutual,6,92.239,15.373,11.067,13.632,24.756,24.3
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,No focal subject,Unclear video,,11,57.859,5.26,4.081,28.24,30.819,15.2
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Preen,Auto-|None,4,84.039,21.01,17.003,21.974,20.22,22.1
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Preen,Auto-|None,4,84.039,21.01,17.003,21.974,20.22,22.1
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Brief flight,Broken beak,1,12.0,12.0,NA,NA,NA,3.2
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Brief flight,Broken beak,1,12.0,12.0,NA,NA,NA,3.2
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Feed,Auto-|Unknown|None,13,NA,NA,NA,11.68,21.146,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Foraging,Broken beak,5,91.279,18.256,9.536,19.61,32.262,24.0
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Resting,Broken beak,3,86.039,28.68,11.606,6.72,2.659,22.6
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Preen,Auto-|None,4,84.039,21.01,17.003,21.974,20.22,22.1
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Preen,Auto-|None,4,84.039,21.01,17.003,21.974,20.22,22.1
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Brief flight,Broken beak,1,12.0,12.0,NA,NA,NA,3.2
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Broken beak,Brief flight,Broken beak,1,12.0,12.0,NA,NA,NA,3.2
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #1,Feed,Auto-|Unknown|None,8,NA,NA,NA,18.389,22.473,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #1,Feed,Auto-|Successful|None,6,NA,NA,NA,20.192,34.671,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #1,Foraging,Other crow #1,8,95.24,11.905,11.088,9.309,13.519,25.0
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #2,Feed,Auto-|Unknown|None,8,NA,NA,NA,17.034,24.413,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #2,Feed,Auto-|Successful|None,5,NA,NA,NA,3.48,3.574,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #2,Foraging,Other crow #2,5,83.879,16.776,6.852,16.68,25.96,22.1
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #3,Feed,Auto-|Unknown|None,4,NA,NA,NA,32.053,27.8,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #3,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #3,Foraging,Other crow #3,8,90.358,11.295,6.997,3.857,2.728,23.8
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #4,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+30-7-25 BB #1,2026-01-0512:40:37.972,,58,95,5,cloudy,hard,no,ground,0.000,380.220,380.220,Other crow #4,Foraging,Other crow #4,1,10.8,10.8,NA,NA,NA,2.8

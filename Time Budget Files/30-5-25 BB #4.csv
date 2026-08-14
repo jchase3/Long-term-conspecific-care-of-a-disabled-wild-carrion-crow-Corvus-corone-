@@ -1,0 +1,7 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+30-5-25 BB #4,2026-01-0508:01:18.245,,,,,(no record),(no record),no,ground,0.000,67.264,67.264,No focal subject,Unclear video,,6,14.623,2.437,1.522,2.384,1.916,21.7
+30-5-25 BB #4,2026-01-0508:01:18.245,,,,,(no record),(no record),no,ground,0.000,67.264,67.264,Broken beak,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+30-5-25 BB #4,2026-01-0508:01:18.245,,,,,(no record),(no record),no,ground,0.000,67.264,67.264,Broken beak,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+30-5-25 BB #4,2026-01-0508:01:18.245,,,,,(no record),(no record),no,ground,0.000,67.264,67.264,Broken beak,Foraging,Broken beak,5,51.479,10.296,17.102,2.7,2.839,76.5
+30-5-25 BB #4,2026-01-0508:01:18.245,,,,,(no record),(no record),no,ground,0.000,67.264,67.264,Other crow #1,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+30-5-25 BB #4,2026-01-0508:01:18.245,,,,,(no record),(no record),no,ground,0.000,67.264,67.264,Other crow #1,Foraging,Other crow #1,1,1.16,1.16,NA,NA,NA,1.7

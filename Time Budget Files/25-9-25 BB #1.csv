@@ -1,0 +1,15 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,No focal subject,Close proximity,Other crow #1|Broken beak,8,26.998,3.375,2.428,20.577,47.218,3.2
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,No focal subject,Close proximity,Mutual|Mutual,2,4.92,2.46,1.329,7.84,NA,0.6
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,No focal subject,Close proximity,Broken beak|Other crow #2,1,8.8,8.8,NA,NA,NA,1.1
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,No focal subject,Close proximity,Broken beak|Other crow #1,2,69.32,34.66,3.253,155.16,NA,8.3
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,No focal subject,Unclear video,,22,103.036,4.683,10.992,32.592,43.006,12.4
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Broken beak,Feed,Auto-|Unknown|None,21,NA,NA,NA,36.514,61.396,NA
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Broken beak,Feed,Auto-|Successful|None,53,NA,NA,NA,14.724,20.17,NA
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Broken beak,Feed,Auto-|Unsuccessful|None,186,NA,NA,NA,4.056,9.485,NA
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Broken beak,Foraging,Broken beak,23,727.098,31.613,39.039,2.448,2.763,87.3
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Other crow #1,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,104.94,115.089,NA
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Other crow #1,Feed,Auto-|Successful|None,2,NA,NA,NA,191.64,NA,NA
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Other crow #1,Foraging,Other crow #1,11,104.799,9.527,13.246,32.648,57.926,12.6
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Other crow #2,Feed,Auto-|Unsuccessful|None,1,NA,NA,NA,NA,NA,NA
+25-9-25 BB #1,2026-01-1014:15:57.820,,50,79,3,cloudy,average,no,ground,0.000,833.280,833.280,Other crow #2,Foraging,Other crow #2,1,8.8,8.8,NA,NA,NA,1.1

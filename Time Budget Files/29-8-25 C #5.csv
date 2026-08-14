@@ -1,0 +1,13 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,No focal subject,Unclear video,,13,4.84,0.372,0.189,24.837,28.921,1.2
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Broken beak,Feed,Auto-|Unknown|None,18,NA,NA,NA,12.946,16.756,NA
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Broken beak,Feed,Auto-|Successful|None,4,NA,NA,NA,11.973,13.58,NA
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Broken beak,Foraging,Broken beak,15,213.278,14.219,22.13,1.82,2.941,54.9
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Preen,Auto-|None,4,10.84,2.71,3.179,10.987,10.365,2.8
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Preen,Auto-|None,4,10.84,2.71,3.179,10.987,10.365,2.8
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Feed,Auto-|Unknown|None,7,NA,NA,NA,23.927,21.943,NA
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Feed,Auto-|Successful|None,4,NA,NA,NA,96.493,77.272,NA
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Foraging,Other crow #1,17,246.238,14.485,20.068,8.88,16.595,63.4
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Preen,Auto-|None,4,10.84,2.71,3.179,10.987,10.365,2.8
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #1,Preen,Auto-|None,4,10.84,2.71,3.179,10.987,10.365,2.8
+29-8-25 C #5,2026-01-1617:14:10.612,,57,91,5,cloudy,soft,yes,ground,0.000,388.320,388.320,Other crow #2,Foraging,Other crow #2,1,0.4,0.4,NA,NA,NA,0.1

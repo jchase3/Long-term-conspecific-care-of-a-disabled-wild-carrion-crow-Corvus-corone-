@@ -1,0 +1,14 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,No focal subject,Close proximity,Mutual|Mutual,7,27.08,3.869,3.206,0.98,1.055,4.4
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,No focal subject,Unclear video,,57,99.676,1.749,2.779,9.088,14.426,16.1
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Broken beak,Feed,Auto-|Unsuccessful|None,186,NA,NA,NA,3.155,6.678,NA
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Broken beak,Feed,Auto-|Successful|None,39,NA,NA,NA,15.278,14.506,NA
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Broken beak,Feed,Auto-|Unknown|None,36,NA,NA,NA,16.411,23.105,NA
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Broken beak,Foraging,Broken beak,58,519.626,8.959,14.229,1.588,2.55,83.8
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Preen,Auto-|None,3,2.96,0.987,0.69,0.38,0.255,0.5
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Preen,Auto-|None,3,2.96,0.987,0.69,0.38,0.255,0.5
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Feed,Auto-|Unsuccessful|None,13,NA,NA,NA,2.523,4.747,NA
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Foraging,Other crow #1,5,24.119,4.824,3.325,2.21,1.629,3.9
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Preen,Auto-|None,3,2.96,0.987,0.69,0.38,0.255,0.5
+25-9-25 BB #2,2026-01-1316:24:51.827,,,,,cloudy,(no record),no,ground,0.000,620.160,620.160,Other crow #1,Preen,Auto-|None,3,2.96,0.987,0.69,0.38,0.255,0.5

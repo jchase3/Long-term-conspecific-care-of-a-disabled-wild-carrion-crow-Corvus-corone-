@@ -1,0 +1,14 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,No focal subject,Within 5m,Mutual|Mutual,7,121.077,17.297,27.102,1.227,1.254,87.0
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,No focal subject,Unclear video,,10,52.2,5.22,6.893,8.636,5.766,37.5
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Alert,Broken beak,1,1.2,1.2,NA,NA,NA,0.9
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Alert,Broken beak,1,1.2,1.2,NA,NA,NA,0.9
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Feed,Auto-|Unknown|None,2,NA,NA,NA,45.24,NA,NA
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Feed,Auto-|Unsuccessful|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Foraging,Broken beak,8,62.6,7.825,4.036,2.863,2.926,45.0
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Alert,Broken beak,1,1.2,1.2,NA,NA,NA,0.9
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Broken beak,Alert,Broken beak,1,1.2,1.2,NA,NA,NA,0.9
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Other crow #1,Feed,Auto-|Unknown|None,3,NA,NA,NA,17.84,14.595,NA
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Other crow #1,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #2,2026-01-1117:12:27.880,,57,91,5,cloudy,soft,yes,ground,0.000,139.200,139.200,Other crow #1,Foraging,Other crow #1,11,61.4,5.582,3.799,6.704,11.568,44.1

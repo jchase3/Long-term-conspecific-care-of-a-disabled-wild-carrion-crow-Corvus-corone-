@@ -1,0 +1,5 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+30-10-25 BB #2,2026-01-0705:26:17.446,,33,90,4,partly cloudy,soft,no,tree,0.000,36.055,36.055,No focal subject,Close proximity,Mutual|Mutual,1,20.68,20.68,NA,NA,NA,57.4
+30-10-25 BB #2,2026-01-0705:26:17.446,,33,90,4,partly cloudy,soft,no,tree,0.000,36.055,36.055,No focal subject,Unclear video,,1,7.295,7.295,NA,NA,NA,20.2
+30-10-25 BB #2,2026-01-0705:26:17.446,,33,90,4,partly cloudy,soft,no,tree,0.000,36.055,36.055,Broken beak,Resting,Broken beak,1,28.76,28.76,NA,NA,NA,79.8
+30-10-25 BB #2,2026-01-0705:26:17.446,,33,90,4,partly cloudy,soft,no,tree,0.000,36.055,36.055,Other crow #1,Resting,Other crow #1,1,20.68,20.68,NA,NA,NA,57.4

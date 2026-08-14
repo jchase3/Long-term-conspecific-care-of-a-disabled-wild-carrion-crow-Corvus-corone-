@@ -1,0 +1,6 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+28-8-25 BB #2,2026-01-1310:01:01.612,,57,90,6,cloudy,soft,yes,ground,0.000,245.280,245.280,No focal subject,Unclear video,,5,15.478,3.096,2.689,24.23,15.758,6.3
+28-8-25 BB #2,2026-01-1310:01:01.612,,57,90,6,cloudy,soft,yes,ground,0.000,245.280,245.280,Broken beak,Feed,Auto-|Unsuccessful|None,9,NA,NA,NA,5.9,6.937,NA
+28-8-25 BB #2,2026-01-1310:01:01.612,,57,90,6,cloudy,soft,yes,ground,0.000,245.280,245.280,Broken beak,Feed,Auto-|Unknown|None,3,NA,NA,NA,46.18,61.971,NA
+28-8-25 BB #2,2026-01-1310:01:01.612,,57,90,6,cloudy,soft,yes,ground,0.000,245.280,245.280,Broken beak,Feed,Auto-|Successful|None,3,NA,NA,NA,43.16,41.748,NA
+28-8-25 BB #2,2026-01-1310:01:01.612,,57,90,6,cloudy,soft,yes,ground,0.000,245.280,245.280,Broken beak,Foraging,Broken beak,5,229.8,45.96,50.47,1.94,0.858,93.7

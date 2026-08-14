@@ -1,0 +1,3 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+24-10-25 BB #2,2026-01-1118:08:14.061,,36,100,5,partly cloudy,average,no,tree,0.000,61.504,61.504,No focal subject,Unclear video,,1,7.304,7.304,NA,NA,NA,11.9
+24-10-25 BB #2,2026-01-1118:08:14.061,,36,100,5,partly cloudy,average,no,tree,0.000,61.504,61.504,Broken beak,Foraging,Broken beak,1,54.199,54.199,NA,NA,NA,88.1

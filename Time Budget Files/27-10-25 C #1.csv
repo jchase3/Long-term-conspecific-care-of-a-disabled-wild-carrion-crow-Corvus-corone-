@@ -1,0 +1,7 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+27-10-25 C #1,2026-01-0316:12:25.705,,41,79,6,sunny,soft,no,ground,0.000,67.740,67.740,No focal subject,Unclear video,,3,23.5,7.833,4.982,6.82,2.857,34.7
+27-10-25 C #1,2026-01-0316:12:25.705,,41,79,6,sunny,soft,no,ground,0.000,67.740,67.740,Other crow #1,Preen,Auto-,1,1.64,1.64,NA,NA,NA,2.4
+27-10-25 C #1,2026-01-0316:12:25.705,,41,79,6,sunny,soft,no,ground,0.000,67.740,67.740,Other crow #1,Preen,Auto-,1,1.64,1.64,NA,NA,NA,2.4
+27-10-25 C #1,2026-01-0316:12:25.705,,41,79,6,sunny,soft,no,ground,0.000,67.740,67.740,Other crow #1,Foraging,Other crow #1,4,42.6,10.65,4.742,4.493,4.466,62.9
+27-10-25 C #1,2026-01-0316:12:25.705,,41,79,6,sunny,soft,no,ground,0.000,67.740,67.740,Other crow #1,Preen,Auto-,1,1.64,1.64,NA,NA,NA,2.4
+27-10-25 C #1,2026-01-0316:12:25.705,,41,79,6,sunny,soft,no,ground,0.000,67.740,67.740,Other crow #1,Preen,Auto-,1,1.64,1.64,NA,NA,NA,2.4

@@ -1,0 +1,13 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,No focal subject,Close proximity,Mutual|Mutual,1,74.84,74.84,NA,NA,NA,32.7
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,No focal subject,Unclear video,,4,18.42,4.605,2.423,44.573,43.283,8.1
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Preen,Auto-|None,6,93.44,15.573,24.722,5.48,3.561,40.9
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Preen,Auto-|None,6,93.44,15.573,24.722,5.48,3.561,40.9
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Alert,Broken beak,5,40.279,8.056,6.845,6.62,4.757,17.6
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Alert,Broken beak,5,40.279,8.056,6.845,6.62,4.757,17.6
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Resting,Broken beak,2,74.24,37.12,23.702,0.6,NA,32.5
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Preen,Auto-|None,6,93.44,15.573,24.722,5.48,3.561,40.9
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Preen,Auto-|None,6,93.44,15.573,24.722,5.48,3.561,40.9
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Alert,Broken beak,5,40.279,8.056,6.845,6.62,4.757,17.6
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Broken beak,Alert,Broken beak,5,40.279,8.056,6.845,6.62,4.757,17.6
+30-10-25 BB #3,2026-01-0705:49:06.867,,33,90,4,partly cloudy,soft,no,tree,0.000,228.540,228.540,Other crow #1,Resting,Other crow #1,1,76.4,76.4,NA,NA,NA,33.4

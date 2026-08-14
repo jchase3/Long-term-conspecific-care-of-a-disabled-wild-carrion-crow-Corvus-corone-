@@ -1,0 +1,10 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,No focal subject,Within 5m,Other crow #1|Broken beak,1,78.52,78.52,NA,NA,NA,15.5
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,No focal subject,Unclear video,,7,13.16,1.88,2.276,47.573,41.368,2.6
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Broken beak,Feed,Auto-|Unknown|None,37,NA,NA,NA,11.308,12.363,NA
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Broken beak,Feed,Auto-|Successful|None,14,NA,NA,NA,22.818,48.758,NA
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Broken beak,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,122.52,170.611,NA
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Broken beak,Foraging,Broken beak,7,443.6,63.371,67.175,1.947,2.606,87.7
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Other crow #1,Feed,Auto-|Unknown|None,13,NA,NA,NA,39.313,89.341,NA
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Other crow #1,Feed,Auto-|Successful|None,9,NA,NA,NA,51.425,68.455,NA
+28-8-25 BB #1,2026-01-1309:21:45.288,,57,90,6,cloudy,soft,yes,ground,0.000,505.920,505.920,Other crow #1,Foraging,Other crow #1,12,210.46,17.538,26.938,25.095,51.259,41.6

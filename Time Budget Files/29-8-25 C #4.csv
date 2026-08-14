@@ -1,0 +1,27 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,No focal subject,Close proximity,Other crow #1|Broken beak,1,191.039,191.039,NA,NA,NA,50.6
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,No focal subject,Close proximity,Mutual|Mutual,2,26.64,13.32,18.272,1.04,NA,7.1
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,No focal subject,Within 5m,Other crow #1|Broken beak,1,21.96,21.96,NA,NA,NA,5.8
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,No focal subject,Unclear video,,5,15.03,3.006,3.1,20.5,31.437,4.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Preen,Auto-|None,2,24.72,12.36,5.713,71.44,NA,6.6
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Preen,Auto-|None,2,24.72,12.36,5.713,71.44,NA,6.6
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Feed,Auto-|Unknown|None,2,NA,NA,NA,5.56,NA,NA
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Feed,Auto-|Unsuccessful|None,2,NA,NA,NA,15.6,NA,NA
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Foraging,Broken beak,7,88.4,12.629,12.009,34.02,28.181,23.4
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Resting,Broken beak,4,166.479,41.62,23.446,14.787,17.23,44.1
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Preen,Auto-|None,2,24.72,12.36,5.713,71.44,NA,6.6
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Broken beak,Preen,Auto-|None,2,24.72,12.36,5.713,71.44,NA,6.6
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Auto-|None,6,147.28,24.547,30.6,41.36,23.487,39.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Allo-|Broken beak,6,64.24,10.707,10.62,25.416,26.865,17.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Auto-|None,6,147.28,24.547,30.6,41.36,23.487,39.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Allo-|Broken beak,6,64.24,10.707,10.62,25.416,26.865,17.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Alert,Other crow #1,4,11.76,2.94,1.999,37.253,29.249,3.1
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Alert,Other crow #1,4,11.76,2.94,1.999,37.253,29.249,3.1
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Feed,Auto-|Unsuccessful|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Foraging,Other crow #1,11,108.159,9.833,7.602,25.672,30.993,28.7
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Auto-|None,6,147.28,24.547,30.6,41.36,23.487,39.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Allo-|Broken beak,6,64.24,10.707,10.62,25.416,26.865,17.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Auto-|None,6,147.28,24.547,30.6,41.36,23.487,39.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Preen,Allo-|Broken beak,6,64.24,10.707,10.62,25.416,26.865,17.0
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Alert,Other crow #1,4,11.76,2.94,1.999,37.253,29.249,3.1
+29-8-25 C #4,2026-01-1518:01:27.665,,57,91,5,cloudy,soft,yes,ground,0.000,377.280,377.280,Other crow #1,Alert,Other crow #1,4,11.76,2.94,1.999,37.253,29.249,3.1

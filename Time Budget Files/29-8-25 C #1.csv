@@ -1,0 +1,19 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,No focal subject,Within 5m,Broken beak|Other crow #1,1,55.12,55.12,NA,NA,NA,24.5
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,No focal subject,Unclear video,,7,19.831,2.833,4.193,31.66,44.71,8.8
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Broken beak,Feed,Auto-|Unknown|None,2,NA,NA,NA,3.68,NA,NA
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Broken beak,Foraging,Broken beak,4,58.48,14.62,5.711,26.693,39.596,26.0
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Preen,Auto-|None,1,7.68,7.68,NA,NA,NA,3.4
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Preen,Auto-|None,1,7.68,7.68,NA,NA,NA,3.4
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Alert,Other crow #1,12,32.119,2.677,2.4,7.364,7.976,14.3
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Alert,Other crow #1,12,32.119,2.677,2.4,7.364,7.976,14.3
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Feed,Auto-|Unsuccessful|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Foraging,Other crow #1,14,158.28,11.306,16.751,3.203,3.825,70.3
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Preen,Auto-|None,1,7.68,7.68,NA,NA,NA,3.4
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Preen,Auto-|None,1,7.68,7.68,NA,NA,NA,3.4
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Alert,Other crow #1,12,32.119,2.677,2.4,7.364,7.976,14.3
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #1,Alert,Other crow #1,12,32.119,2.677,2.4,7.364,7.976,14.3
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #2,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+29-8-25 C #1,2026-01-1116:23:55.286,,57,91,5,cloudy,soft,yes,ground,0.000,225.120,225.120,Other crow #2,Foraging,Other crow #2,3,33.88,11.293,3.871,22.76,6.845,15.0
