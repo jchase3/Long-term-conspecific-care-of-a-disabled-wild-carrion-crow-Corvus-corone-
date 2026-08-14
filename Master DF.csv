@@ -1,0 +1,1232 @@
+"Date","Primary_Bird","Video_Num","Subject","Behavior","Modifiers","Vid_occurrences","Vid_duration","Vid_visible","Day_visible","Day_occurrences","Day_duration","Rate_per_min_vid","Rate_per_min_day","Percent_time_visible_vid","Percent_time_visible_day"
+2025-07-01,"BB","1","No focal subject","Close proximity","Broken beak|Other crow #1",1,13.04,NA,NA,2,42.84,NA,NA,NA,NA
+2025-07-01,"BB","1","No focal subject","Unclear video","",1,1.504,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"BB","1","Broken beak","Feed","Auto-|Unknown|None",3,NA,60,957.957,55,NA,3,3.44483103103793,NA,NA
+2025-07-01,"BB","1","Broken beak","Feed","Auto-|Successful|None",1,NA,60,957.957,4,NA,1,0.250533165893667,NA,NA
+2025-07-01,"BB","1","Broken beak","Foraging","",1,60,60,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"BB","1","Other crow #1","Feed","Auto-|Unknown|None",1,NA,13.04,861.319,42,NA,4.60122699386503,2.92574528136498,NA,NA
+2025-07-01,"BB","1","Other crow #1","Foraging","",1,13.04,13.04,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"BB","2","No focal subject","Close proximity","Mutual|Mutual",1,11.92,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"BB","2","No focal subject","Unclear video","",2,7.8,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"BB","2","Broken beak","Feed","Auto-|Unknown|None",9,NA,56.078,957.957,55,NA,9.62944470202218,3.44483103103793,NA,NA
+2025-07-01,"BB","2","Broken beak","Foraging","",3,56.078,56.078,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"BB","2","Other crow #1","Feed","Auto-|Successful|None",1,NA,11.92,861.319,20,NA,5.03355704697987,1.39321203874523,NA,NA
+2025-07-01,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",1,NA,11.92,861.319,42,NA,5.03355704697987,2.92574528136498,NA,NA
+2025-07-01,"BB","2","Other crow #1","Foraging","",1,11.92,11.92,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"BB","3","No focal subject","Close proximity","Other crow #1|Broken beak",4,143.959,NA,NA,4,143.959,NA,NA,NA,NA
+2025-07-01,"BB","3","No focal subject","Close proximity","Broken beak|Other crow #1",1,29.8,NA,NA,2,42.84,NA,NA,NA,NA
+2025-07-01,"BB","3","No focal subject","Close proximity","Mutual|Mutual",1,7.64,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"BB","3","No focal subject","Unclear video","",22,127.579,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"BB","3","Broken beak","Brief flight","",1,4.6,571.88,957.957,1,4.6,NA,NA,0.804364552003917,0.480188567962863
+2025-07-01,"BB","3","Broken beak","Alert","",2,8.88,571.88,957.957,3,17.92,NA,NA,1.55277330908582,1.87064763867272
+2025-07-01,"BB","3","Broken beak","Feed","Auto-|Unknown|None",31,NA,571.88,957.957,55,NA,3.25243057984193,3.44483103103793,NA,NA
+2025-07-01,"BB","3","Broken beak","Feed","Auto-|Successful|None",2,NA,571.88,957.957,4,NA,0.209834230957544,0.250533165893667,NA,NA
+2025-07-01,"BB","3","Broken beak","Foraging","",25,558.4,571.88,957.957,48,935.437,NA,NA,97.6428621389103,97.6491637933644
+2025-07-01,"BB","3","Broken beak","Open mouth","",1,NA,571.88,957.957,1,NA,0.104917115478772,0.0626332914734169,NA,NA
+2025-07-01,"BB","3","Other crow #1","Alert","",1,0.24,103.2,861.319,2,5.4,NA,NA,0.232558139534884,0.626945417435352
+2025-07-01,"BB","3","Other crow #1","Feed","Auto-|Unknown|None",10,NA,103.2,861.319,42,NA,5.81395348837209,2.92574528136498,NA,NA
+2025-07-01,"BB","3","Other crow #1","Foraging","",9,102.96,103.2,861.319,35,813.479,NA,NA,99.7674418604651,94.4457280055357
+2025-07-01,"BB","3","Other crow #2","Feed","Auto-|Unknown|None",4,NA,63.4,249.56,13,NA,3.78548895899054,3.12550088155153,NA,NA
+2025-07-01,"BB","3","Other crow #2","Foraging","",2,63.4,63.4,249.56,5,237.96,NA,NA,100,95.3518192017952
+2025-07-01,"BB","4","No focal subject","Unclear video","",3,34.742,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"BB","4","Broken beak","Alert","",1,9.04,57.48,957.957,3,17.92,NA,NA,15.7272094641614,1.87064763867272
+2025-07-01,"BB","4","Broken beak","Feed","Auto-|Unknown|None",2,NA,57.48,957.957,55,NA,2.08768267223382,3.44483103103793,NA,NA
+2025-07-01,"BB","4","Broken beak","Foraging","",3,48.44,57.48,957.957,48,935.437,NA,NA,84.2727905358386,97.6491637933644
+2025-07-01,"C","1","No focal subject","Unclear video","",1,1.52,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","1","Other crow #1","Feed","Auto-|Successful|None",9,NA,73.28,861.319,20,NA,7.36899563318777,1.39321203874523,NA,NA
+2025-07-01,"C","1","Other crow #1","Feed","Auto-|Unknown|None",6,NA,73.28,861.319,42,NA,4.91266375545852,2.92574528136498,NA,NA
+2025-07-01,"C","1","Other crow #1","Foraging","",1,73.28,73.28,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","2","No focal subject","Close proximity","Mutual|Mutual",2,35.559,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"C","2","No focal subject","Unclear video","",2,2.36,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","2","Broken beak","Feed","Auto-|Unknown|None",5,NA,26.92,957.957,55,NA,11.1441307578009,3.44483103103793,NA,NA
+2025-07-01,"C","2","Broken beak","Foraging","",4,26.92,26.92,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"C","2","Other crow #1","Feed","Auto-|Unknown|None",3,NA,35.56,861.319,42,NA,5.06186726659168,2.92574528136498,NA,NA
+2025-07-01,"C","2","Other crow #1","Foraging","",2,35.56,35.56,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","2","Other crow #2","Resting","",1,11.6,11.6,249.56,1,11.6,NA,NA,100,4.64818079820484
+2025-07-01,"C","3","No focal subject","Close proximity","Mutual|Mutual",1,25.84,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"C","3","No focal subject","Unclear video","",1,1.92,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","3","Broken beak","Feed","Auto-|Unknown|None",2,NA,28.8,957.957,55,NA,4.16666666666667,3.44483103103793,NA,NA
+2025-07-01,"C","3","Broken beak","Foraging","",1,28.8,28.8,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"C","3","Other crow #1","Feed","Auto-|Unknown|None",5,NA,25.84,861.319,42,NA,11.609907120743,2.92574528136498,NA,NA
+2025-07-01,"C","3","Other crow #1","Foraging","",1,25.84,25.84,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","4","No focal subject","Unclear video","",2,0.24,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","4","Other crow #2","Feed","Auto-|Unknown|None",2,NA,69.76,249.56,13,NA,1.72018348623853,3.12550088155153,NA,NA
+2025-07-01,"C","4","Other crow #2","Foraging","",2,69.76,69.76,249.56,5,237.96,NA,NA,100,95.3518192017952
+2025-07-01,"C","5","No focal subject","Close proximity","Mutual|Mutual",5,85,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"C","5","No focal subject","Unclear video","",6,50.109,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","5","Broken beak","Feed","Auto-|Unknown|None",1,NA,84.32,957.957,55,NA,0.71157495256167,3.44483103103793,NA,NA
+2025-07-01,"C","5","Broken beak","Foraging","",5,84.32,84.32,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"C","5","Other crow #1","Feed","Auto-|Unknown|None",8,NA,85,861.319,42,NA,5.64705882352941,2.92574528136498,NA,NA
+2025-07-01,"C","5","Other crow #1","Foraging","",5,85,85,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","6","No focal subject","Unclear video","",2,15.959,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","6","Other crow #1","Foraging","",2,39.04,39.04,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","7","No focal subject","Close proximity","Other crow #2|Other crow #1",1,30.96,NA,NA,1,30.96,NA,NA,NA,NA
+2025-07-01,"C","7","No focal subject","Close proximity","Mutual|Mutual",1,79.72,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"C","7","Broken beak","Feed","Auto-|Unknown|None",2,NA,68.799,957.957,55,NA,1.74421139842149,3.44483103103793,NA,NA
+2025-07-01,"C","7","Broken beak","Foraging","",3,68.799,68.799,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"C","7","Other crow #1","Feed","Auto-|Unknown|None",3,NA,127.319,861.319,42,NA,1.41377170728642,2.92574528136498,NA,NA
+2025-07-01,"C","7","Other crow #1","Feed","Auto-|Successful|None",1,NA,127.319,861.319,20,NA,0.471257235762141,1.39321203874523,NA,NA
+2025-07-01,"C","7","Other crow #1","Foraging","",3,127.319,127.319,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","7","Other crow #2","Feed","Auto-|Successful|None",2,NA,104.8,249.56,2,NA,1.14503816793893,0.480846289469466,NA,NA
+2025-07-01,"C","7","Other crow #2","Feed","Auto-|Unknown|None",7,NA,104.8,249.56,13,NA,4.00763358778626,3.12550088155153,NA,NA
+2025-07-01,"C","7","Other crow #2","Foraging","",1,104.8,104.8,249.56,5,237.96,NA,NA,100,95.3518192017952
+2025-07-01,"C","8","No focal subject","Unclear video","",4,2.159,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","8","Other crow #1","Feed","Auto-|Unknown|None",5,NA,237.84,861.319,42,NA,1.26135216952573,2.92574528136498,NA,NA
+2025-07-01,"C","8","Other crow #1","Feed","Auto-|Successful|None",7,NA,237.84,861.319,20,NA,1.76589303733602,1.39321203874523,NA,NA
+2025-07-01,"C","8","Other crow #1","Foraging","",4,237.84,237.84,861.319,35,813.479,NA,NA,100,94.4457280055357
+2025-07-01,"C","9","No focal subject","Close proximity","Mutual|Mutual",1,0.76,NA,NA,12,246.439,NA,NA,NA,NA
+2025-07-01,"C","9","No focal subject","Unclear video","",6,23.519,NA,NA,52,269.411,NA,NA,NA,NA
+2025-07-01,"C","9","Broken beak","Feed","Auto-|Successful|None",1,NA,3.68,957.957,4,NA,16.304347826087,0.250533165893667,NA,NA
+2025-07-01,"C","9","Broken beak","Foraging","",3,3.68,3.68,957.957,48,935.437,NA,NA,100,97.6491637933644
+2025-07-01,"C","9","Other crow #1","Alert","",1,5.16,109.28,861.319,2,5.4,NA,NA,4.72181551976574,0.626945417435352
+2025-07-01,"C","9","Other crow #1","Vocal","",1,NA,109.28,861.319,1,NA,0.54904831625183,0.0696606019372613,NA,NA
+2025-07-01,"C","9","Other crow #1","Feed","Auto-|Successful|None",2,NA,109.28,861.319,20,NA,1.09809663250366,1.39321203874523,NA,NA
+2025-07-01,"C","9","Other crow #1","Foraging","",6,61.68,109.28,861.319,35,813.479,NA,NA,56.4421669106881,94.4457280055357
+2025-07-01,"C","9","Other crow #1","Resting","",1,42.44,109.28,861.319,1,42.44,NA,NA,38.8360175695461,4.92732657702895
+2025-10-10,"C","1","No focal subject","Unclear video","",5,10.784,NA,NA,5,10.784,NA,NA,NA,NA
+2025-10-10,"C","1","Other crow #1","Preen","Auto-|None",3,10.64,57.239,57.239,3,10.64,NA,NA,18.5887244710774,18.5887244710774
+2025-10-10,"C","1","Other crow #1","Alert","",1,1.679,57.239,57.239,1,1.679,NA,NA,2.93331469802058,2.93331469802058
+2025-10-10,"C","1","Other crow #1","Resting","",3,44.92,57.239,57.239,3,44.92,NA,NA,78.477960830902,78.477960830902
+2025-06-10,"BB","1","No focal subject","Close proximity","Mutual|Mutual",2,15.04,NA,NA,17,294.558,NA,NA,NA,NA
+2025-06-10,"BB","1","No focal subject","Unclear video","",4,137.235,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","1","Broken beak","Brief flight","",1,1.04,16.438,1741.873,2,5.68,NA,NA,6.32680374741453,0.326085770891448
+2025-06-10,"BB","1","Broken beak","Foraging","",3,15.398,16.438,1741.873,63,1597.954,NA,NA,93.6731962525855,91.7376869611045
+2025-06-10,"BB","1","Other crow #1","Brief flight","",1,1.12,28.84,2006.035,3,6.16,NA,NA,3.88349514563107,0.307073405997403
+2025-06-10,"BB","1","Other crow #1","Feed","Auto-|Successful|None",1,NA,28.84,2006.035,31,NA,2.08044382801664,0.92720216745969,NA,NA
+2025-06-10,"BB","1","Other crow #1","Foraging","",4,27.72,28.84,2006.035,78,1611.199,NA,NA,96.1165048543689,80.3175916671444
+2025-06-10,"BB","2","No focal subject","Close proximity","Broken beak|Other crow #1",1,6.84,NA,NA,5,72.04,NA,NA,NA,NA
+2025-06-10,"BB","2","No focal subject","Close proximity","Mutual|Mutual",2,26.52,NA,NA,17,294.558,NA,NA,NA,NA
+2025-06-10,"BB","2","No focal subject","Close proximity","Other crow #1|Broken beak",1,27.8,NA,NA,8,209.84,NA,NA,NA,NA
+2025-06-10,"BB","2","No focal subject","Close proximity","Other crow #2|Broken beak",1,5.96,NA,NA,1,5.96,NA,NA,NA,NA
+2025-06-10,"BB","2","No focal subject","Unclear video","",3,13.16,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","2","Broken beak","Feed","Auto-|Unknown|None",6,NA,80.28,1741.873,89,NA,4.48430493273543,3.06566552211327,NA,NA
+2025-06-10,"BB","2","Broken beak","Feed","Auto-|Successful|None",1,NA,80.28,1741.873,39,NA,0.747384155455904,1.34338152092604,NA,NA
+2025-06-10,"BB","2","Broken beak","Foraging","",3,80.28,80.28,1741.873,63,1597.954,NA,NA,100,91.7376869611045
+2025-06-10,"BB","2","Other crow #1","Brief flight","",1,1.04,67.32,2006.035,3,6.16,NA,NA,1.54486036838978,0.307073405997403
+2025-06-10,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",1,NA,67.32,2006.035,28,NA,0.89126559714795,0.837472925447462,NA,NA
+2025-06-10,"BB","2","Other crow #1","Foraging","",3,21.68,67.32,2006.035,78,1611.199,NA,NA,32.2043969102793,80.3175916671444
+2025-06-10,"BB","2","Other crow #1","Resting","",2,44.6,67.32,2006.035,5,163.719,NA,NA,66.250742721331,8.16132320722221
+2025-06-10,"BB","2","Other crow #2","Resting","",2,19.12,19.12,135.6,3,48.88,NA,NA,100,36.047197640118
+2025-06-10,"BB","3","No focal subject","Close proximity","Mutual|Mutual",2,65.52,NA,NA,17,294.558,NA,NA,NA,NA
+2025-06-10,"BB","3","No focal subject","Unclear video","",3,33.58,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","3","Broken beak","Alert","",1,1.279,120.919,1741.873,11,68.439,NA,NA,1.05773286249473,3.92904649190842
+2025-06-10,"BB","3","Broken beak","Feed","Auto-|Unknown|None",11,NA,120.919,1741.873,89,NA,5.45819929043409,3.06566552211327,NA,NA
+2025-06-10,"BB","3","Broken beak","Feed","Auto-|Successful|None",1,NA,120.919,1741.873,39,NA,0.496199935494008,1.34338152092604,NA,NA
+2025-06-10,"BB","3","Broken beak","Foraging","",4,119.64,120.919,1741.873,63,1597.954,NA,NA,98.9422671375053,91.7376869611045
+2025-06-10,"BB","3","Other crow #1","Feed","Auto-|Unknown|None",2,NA,54.44,2006.035,28,NA,2.20426157237326,0.837472925447462,NA,NA
+2025-06-10,"BB","3","Other crow #1","Foraging","",1,33.88,54.44,2006.035,78,1611.199,NA,NA,62.2336517266716,80.3175916671444
+2025-06-10,"BB","3","Other crow #1","Resting","",1,20.56,54.44,2006.035,5,163.719,NA,NA,37.7663482733284,8.16132320722221
+2025-06-10,"BB","3","Other crow #2","Preen","Auto-|None",1,13.04,31.32,135.6,2,20.6,NA,NA,41.6347381864623,15.1917404129793
+2025-06-10,"BB","3","Other crow #2","Feed","Auto-|Unknown|None",2,NA,31.32,135.6,4,NA,3.83141762452107,1.76991150442478,NA,NA
+2025-06-10,"BB","3","Other crow #2","Foraging","",2,18.28,31.32,135.6,7,54.12,NA,NA,58.3652618135377,39.9115044247788
+2025-06-10,"BB","4","No focal subject","Unclear video","",3,16.679,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","4","Broken beak","Resting","",1,20.12,20.12,1741.873,1,20.12,NA,NA,100,1.15507847012957
+2025-06-10,"BB","4","Other crow #1","Foraging","",2,11.68,11.68,2006.035,78,1611.199,NA,NA,100,80.3175916671444
+2025-06-10,"BB","5","No focal subject","Close proximity","Mutual|Mutual",7,118.118,NA,NA,17,294.558,NA,NA,NA,NA
+2025-06-10,"BB","5","No focal subject","Close proximity","Other crow #1|Broken beak",4,81.96,NA,NA,8,209.84,NA,NA,NA,NA
+2025-06-10,"BB","5","No focal subject","Close proximity","Broken beak|Other crow #1",1,23.12,NA,NA,5,72.04,NA,NA,NA,NA
+2025-06-10,"BB","5","No focal subject","Begging session","Broken beak,Other crow #1",1,21.88,NA,NA,2,46.04,NA,NA,NA,NA
+2025-06-10,"BB","5","No focal subject","Unclear video","",14,20.956,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","5","Broken beak","Preen","Auto-|None",3,3.64,1078.957,1741.873,3,3.64,NA,NA,0.337362842078044,0.208970458810717
+2025-06-10,"BB","5","Broken beak","Brief flight","",1,4.64,1078.957,1741.873,2,5.68,NA,NA,0.430044941550034,0.326085770891448
+2025-06-10,"BB","5","Broken beak","Alert","",8,50.16,1078.957,1741.873,11,68.439,NA,NA,4.64893410951502,3.92904649190842
+2025-06-10,"BB","5","Broken beak","Vocal","",1,NA,1078.957,1741.873,1,NA,0.055609259683194,0.0344456800237446,NA,NA
+2025-06-10,"BB","5","Broken beak","Feed","Auto-|Unknown|None",36,NA,1078.957,1741.873,89,NA,2.00193334859499,3.06566552211327,NA,NA
+2025-06-10,"BB","5","Broken beak","Feed","Auto-|Unsuccessful|None",40,NA,1078.957,1741.873,63,NA,2.22437038732776,2.17007784149591,NA,NA
+2025-06-10,"BB","5","Broken beak","Feed","Auto-|Successful|None",25,NA,1078.957,1741.873,39,NA,1.39023149207985,1.34338152092604,NA,NA
+2025-06-10,"BB","5","Broken beak","Foraging","",25,998.637,1078.957,1741.873,63,1597.954,NA,NA,92.5557737704097,91.7376869611045
+2025-06-10,"BB","5","Broken beak","Beg call","",5,NA,1078.957,1741.873,6,NA,0.27804629841597,0.206674080142467,NA,NA
+2025-06-10,"BB","5","Broken beak","Wing flutter","",16,NA,1078.957,1741.873,29,NA,0.889748154931105,0.998924720688592,NA,NA
+2025-06-10,"BB","5","Broken beak","Open mouth","",6,NA,1078.957,1741.873,10,NA,0.333655558099164,0.344456800237446,NA,NA
+2025-06-10,"BB","5","Other crow #1","Alert","",2,12.84,238.759,2006.035,28,165.597,NA,NA,5.37780774756135,8.2549407163883
+2025-06-10,"BB","5","Other crow #1","Feed","Auto-|Successful|None",10,NA,238.759,2006.035,31,NA,2.51299427456138,0.92720216745969,NA,NA
+2025-06-10,"BB","5","Other crow #1","Feed","Auto-|Unknown|None",3,NA,238.759,2006.035,28,NA,0.753898282368413,0.837472925447462,NA,NA
+2025-06-10,"BB","5","Other crow #1","Feed","Allo-|Successful|Broken beak",3,NA,238.759,2006.035,6,NA,0.753898282368413,0.179458484024456,NA,NA
+2025-06-10,"BB","5","Other crow #1","Foraging","",15,204.039,238.759,2006.035,78,1611.199,NA,NA,85.4581397978715,80.3175916671444
+2025-06-10,"BB","6","No focal subject","Unclear video","",12,52.615,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","6","Broken beak","Feed","Auto-|Successful|None",7,NA,156.16,1741.873,39,NA,2.68954918032787,1.34338152092604,NA,NA
+2025-06-10,"BB","6","Broken beak","Feed","Auto-|Unknown|None",21,NA,156.16,1741.873,89,NA,8.06864754098361,3.06566552211327,NA,NA
+2025-06-10,"BB","6","Broken beak","Feed","Auto-|Unsuccessful|None",13,NA,156.16,1741.873,63,NA,4.99487704918033,2.17007784149591,NA,NA
+2025-06-10,"BB","6","Broken beak","Foraging","",11,156.16,156.16,1741.873,63,1597.954,NA,NA,100,91.7376869611045
+2025-06-10,"BB","7","No focal subject","Unclear video","",4,4.035,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"BB","7","Broken beak","Alert","",1,0.12,58.839,1741.873,11,68.439,NA,NA,0.203946362106766,3.92904649190842
+2025-06-10,"BB","7","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,58.839,1741.873,63,NA,3.05919543160149,2.17007784149591,NA,NA
+2025-06-10,"BB","7","Broken beak","Feed","Auto-|Unknown|None",1,NA,58.839,1741.873,89,NA,1.01973181053383,3.06566552211327,NA,NA
+2025-06-10,"BB","7","Broken beak","Feed","Auto-|Successful|None",1,NA,58.839,1741.873,39,NA,1.01973181053383,1.34338152092604,NA,NA
+2025-06-10,"BB","7","Broken beak","Foraging","",4,58.719,58.839,1741.873,63,1597.954,NA,NA,99.7960536378932,91.7376869611045
+2025-06-10,"C","1","No focal subject","Close proximity","Broken beak|Other crow #1",1,24.6,NA,NA,5,72.04,NA,NA,NA,NA
+2025-06-10,"C","1","No focal subject","Close proximity","Other crow #1|Broken beak",1,57.84,NA,NA,8,209.84,NA,NA,NA,NA
+2025-06-10,"C","1","Broken beak","Alert","",1,16.88,90.92,1741.873,11,68.439,NA,NA,18.5657721073471,3.92904649190842
+2025-06-10,"C","1","Broken beak","Feed","Auto-|Unknown|None",2,NA,90.92,1741.873,89,NA,1.31984161900572,3.06566552211327,NA,NA
+2025-06-10,"C","1","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,90.92,1741.873,63,NA,1.97976242850858,2.17007784149591,NA,NA
+2025-06-10,"C","1","Broken beak","Feed","Auto-|Successful|None",3,NA,90.92,1741.873,39,NA,1.97976242850858,1.34338152092604,NA,NA
+2025-06-10,"C","1","Broken beak","Foraging","",3,74.04,90.92,1741.873,63,1597.954,NA,NA,81.4342278926529,91.7376869611045
+2025-06-10,"C","1","Other crow #1","Brief flight","",1,4,119.959,2006.035,3,6.16,NA,NA,3.33447261147559,0.307073405997403
+2025-06-10,"C","1","Other crow #1","Alert","",1,5.96,119.959,2006.035,28,165.597,NA,NA,4.96836419109863,8.2549407163883
+2025-06-10,"C","1","Other crow #1","Foraging","",2,11.44,119.959,2006.035,78,1611.199,NA,NA,9.53659166882018,80.3175916671444
+2025-06-10,"C","1","Other crow #1","Resting","",2,98.559,119.959,2006.035,5,163.719,NA,NA,82.1605715286056,8.16132320722221
+2025-06-10,"C","1","Other crow #2","Brief flight","",2,3,48.84,135.6,2,3,NA,NA,6.14250614250614,2.21238938053097
+2025-06-10,"C","1","Other crow #2","Alert","",1,9,48.84,135.6,1,9,NA,NA,18.4275184275184,6.63716814159292
+2025-06-10,"C","1","Other crow #2","Foraging","",1,7.08,48.84,135.6,7,54.12,NA,NA,14.4963144963145,39.9115044247788
+2025-06-10,"C","1","Other crow #2","Resting","",1,29.76,48.84,135.6,3,48.88,NA,NA,60.9336609336609,36.047197640118
+2025-06-10,"C","2","No focal subject","Close proximity","Mutual|Mutual",2,63.72,NA,NA,17,294.558,NA,NA,NA,NA
+2025-06-10,"C","2","No focal subject","Unclear video","",4,33.82,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"C","2","Broken beak","Feed","Auto-|Unknown|None",5,NA,56.76,1741.873,89,NA,5.28541226215645,3.06566552211327,NA,NA
+2025-06-10,"C","2","Broken beak","Feed","Auto-|Successful|None",1,NA,56.76,1741.873,39,NA,1.05708245243129,1.34338152092604,NA,NA
+2025-06-10,"C","2","Broken beak","Feed","Auto-|Unsuccessful|None",2,NA,56.76,1741.873,63,NA,2.11416490486258,2.17007784149591,NA,NA
+2025-06-10,"C","2","Broken beak","Foraging","",3,56.76,56.76,1741.873,63,1597.954,NA,NA,100,91.7376869611045
+2025-06-10,"C","2","Other crow #1","Alert","",2,12.4,125.88,2006.035,28,165.597,NA,NA,9.85065141404512,8.2549407163883
+2025-06-10,"C","2","Other crow #1","Feed","Auto-|Unknown|None",5,NA,125.88,2006.035,28,NA,2.38322211630124,0.837472925447462,NA,NA
+2025-06-10,"C","2","Other crow #1","Feed","Auto-|Successful|None",1,NA,125.88,2006.035,31,NA,0.476644423260248,0.92720216745969,NA,NA
+2025-06-10,"C","2","Other crow #1","Foraging","",6,113.48,125.88,2006.035,78,1611.199,NA,NA,90.1493485859549,80.3175916671444
+2025-06-10,"C","2","Other crow #2","Preen","Auto-|None",1,7.56,36.32,135.6,2,20.6,NA,NA,20.8149779735683,15.1917404129793
+2025-06-10,"C","2","Other crow #2","Feed","Auto-|Successful|None",1,NA,36.32,135.6,1,NA,1.65198237885463,0.442477876106195,NA,NA
+2025-06-10,"C","2","Other crow #2","Feed","Auto-|Unknown|None",2,NA,36.32,135.6,4,NA,3.30396475770925,1.76991150442478,NA,NA
+2025-06-10,"C","2","Other crow #2","Foraging","",4,28.76,36.32,135.6,7,54.12,NA,NA,79.1850220264317,39.9115044247788
+2025-06-10,"C","3","No focal subject","Unclear video","",1,12.144,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"C","3","Other crow #1","Feed","Auto-|Successful|None",1,NA,48.4,2006.035,31,NA,1.2396694214876,0.92720216745969,NA,NA
+2025-06-10,"C","3","Other crow #1","Foraging","",1,48.4,48.4,2006.035,78,1611.199,NA,NA,100,80.3175916671444
+2025-06-10,"C","4","No focal subject","Close proximity","Other crow #1|Broken beak",2,42.24,NA,NA,8,209.84,NA,NA,NA,NA
+2025-06-10,"C","4","No focal subject","Close proximity","Mutual|Mutual",2,5.64,NA,NA,17,294.558,NA,NA,NA,NA
+2025-06-10,"C","4","No focal subject","Close proximity","Broken beak|Other crow #1",2,17.48,NA,NA,5,72.04,NA,NA,NA,NA
+2025-06-10,"C","4","No focal subject","Begging session","Broken beak,Other crow #1",1,24.16,NA,NA,2,46.04,NA,NA,NA,NA
+2025-06-10,"C","4","No focal subject","Unclear video","",23,98.259,NA,NA,71,422.483,NA,NA,NA,NA
+2025-06-10,"C","4","Broken beak","Feed","Auto-|Unknown|None",7,NA,62.48,1741.873,89,NA,6.72215108834827,3.06566552211327,NA,NA
+2025-06-10,"C","4","Broken beak","Feed","Auto-|Unsuccessful|None",2,NA,62.48,1741.873,63,NA,1.92061459667093,2.17007784149591,NA,NA
+2025-06-10,"C","4","Broken beak","Foraging","",7,38.32,62.48,1741.873,63,1597.954,NA,NA,61.3316261203585,91.7376869611045
+2025-06-10,"C","4","Broken beak","Beg call","",1,NA,62.48,1741.873,6,NA,0.960307298335467,0.206674080142467,NA,NA
+2025-06-10,"C","4","Broken beak","Wing flutter","",13,NA,62.48,1741.873,29,NA,12.4839948783611,0.998924720688592,NA,NA
+2025-06-10,"C","4","Broken beak","Open mouth","",4,NA,62.48,1741.873,10,NA,3.84122919334187,0.344456800237446,NA,NA
+2025-06-10,"C","4","Other crow #1","Preen","Auto-|None",1,13.32,1310.757,2006.035,1,13.32,NA,NA,1.01620666530867,0.663996390890488
+2025-06-10,"C","4","Other crow #1","Alert","",23,134.397,1310.757,2006.035,28,165.597,NA,NA,10.2533879277395,8.2549407163883
+2025-06-10,"C","4","Other crow #1","Feed","Auto-|Unknown|None",17,NA,1310.757,2006.035,28,NA,0.778176275236371,0.837472925447462,NA,NA
+2025-06-10,"C","4","Other crow #1","Feed","Auto-|Unsuccessful|None",8,NA,1310.757,2006.035,8,NA,0.366200600111233,0.239277978699275,NA,NA
+2025-06-10,"C","4","Other crow #1","Feed","Auto-|Successful|None",18,NA,1310.757,2006.035,31,NA,0.823951350250275,0.92720216745969,NA,NA
+2025-06-10,"C","4","Other crow #1","Feed","Allo-|Successful|Broken beak",3,NA,1310.757,2006.035,6,NA,0.137325225041713,0.179458484024456,NA,NA
+2025-06-10,"C","4","Other crow #1","Feed","Allo-|Unknown|Broken beak",1,NA,1310.757,2006.035,1,NA,0.0457750750139042,0.0299097473374094,NA,NA
+2025-06-10,"C","4","Other crow #1","Foraging","",44,1138.88,1310.757,2006.035,78,1611.199,NA,NA,86.8871957197253,80.3175916671444
+2025-07-10,"BB","1","No focal subject","Unclear video","",22,120.202,NA,NA,23,124.482,NA,NA,NA,NA
+2025-07-10,"BB","1","Broken beak","Preen","Auto-|None",20,245.32,646.08,691.56,20,245.32,NA,NA,37.9705299653294,35.473422407311
+2025-07-10,"BB","1","Broken beak","Foraging","",1,37.08,646.08,691.56,2,82.56,NA,NA,5.73922734026746,11.9382266180809
+2025-07-10,"BB","1","Broken beak","Resting","",13,363.68,646.08,691.56,13,363.68,NA,NA,56.2902426944032,52.5883509746081
+2025-07-10,"BB","1","Broken beak","Open mouth","",1,NA,646.08,691.56,1,NA,0.0928677563150074,0.0867603678639598,NA,NA
+2025-07-10,"BB","2","No focal subject","Close proximity","Mutual|Mutual",1,47.48,NA,NA,1,47.48,NA,NA,NA,NA
+2025-07-10,"BB","2","No focal subject","Unclear video","",1,4.28,NA,NA,23,124.482,NA,NA,NA,NA
+2025-07-10,"BB","2","Broken beak","Feed","Auto-|Unknown|None",1,NA,45.48,691.56,1,NA,1.31926121372032,0.0867603678639598,NA,NA
+2025-07-10,"BB","2","Broken beak","Foraging","",1,45.48,45.48,691.56,2,82.56,NA,NA,100,11.9382266180809
+2025-07-10,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",1,NA,47.48,47.48,1,NA,1.2636899747262,1.2636899747262,NA,NA
+2025-07-10,"BB","2","Other crow #1","Foraging","",1,47.48,47.48,47.48,1,47.48,NA,NA,100,100
+2025-07-10,"BB","2","Other crow #2","Feed","Auto-|Unknown|None",1,NA,25.8,25.8,1,NA,2.32558139534884,2.32558139534884,NA,NA
+2025-07-10,"BB","2","Other crow #2","Foraging","",1,25.8,25.8,25.8,1,25.8,NA,NA,100,100
+2025-09-10,"BB","1","No focal subject","Unclear video","",8,37,NA,NA,10,53.715,NA,NA,NA,NA
+2025-09-10,"BB","1","Broken beak","Feed","Auto-|Unknown|None",10,NA,204.799,452.759,14,NA,2.9297018051846,1.85529166731087,NA,NA
+2025-09-10,"BB","1","Broken beak","Feed","Auto-|Successful|None",3,NA,204.799,452.759,4,NA,0.878910541555379,0.53008333351739,NA,NA
+2025-09-10,"BB","1","Broken beak","Foraging","",7,204.799,204.799,452.759,9,443.559,NA,NA,100,97.9680138881833
+2025-09-10,"BB","2","No focal subject","Within 5m","Mutual|Mutual",1,78.56,NA,NA,2,204.96,NA,NA,NA,NA
+2025-09-10,"BB","2","No focal subject","Within 5m","Other crow #1|Broken beak",1,17.64,NA,NA,1,17.64,NA,NA,NA,NA
+2025-09-10,"BB","2","No focal subject","Unclear video","",1,9.88,NA,NA,10,53.715,NA,NA,NA,NA
+2025-09-10,"BB","2","Broken beak","Brief flight","",1,2.72,150.16,452.759,1,2.72,NA,NA,1.81140117208311,0.600761111319709
+2025-09-10,"BB","2","Broken beak","Alert","",1,6.48,150.16,452.759,1,6.48,NA,NA,4.31539690996271,1.43122500049695
+2025-09-10,"BB","2","Broken beak","Feed","Auto-|Unknown|None",4,NA,150.16,452.759,14,NA,1.59829515183804,1.85529166731087,NA,NA
+2025-09-10,"BB","2","Broken beak","Feed","Auto-|Successful|None",1,NA,150.16,452.759,4,NA,0.39957378795951,0.53008333351739,NA,NA
+2025-09-10,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",1,NA,150.16,452.759,1,NA,0.39957378795951,0.132520833379348,NA,NA
+2025-09-10,"BB","2","Broken beak","Foraging","",1,140.96,150.16,452.759,9,443.559,NA,NA,93.8732019179542,97.9680138881833
+2025-09-10,"BB","2","Other crow #1","Preen","Auto-|None",1,3.48,110.72,307.52,1,3.48,NA,NA,3.14306358381503,1.13163371488033
+2025-09-10,"BB","2","Other crow #1","Alert","",1,2.52,110.72,307.52,1,2.52,NA,NA,2.27601156069364,0.81945889698231
+2025-09-10,"BB","2","Other crow #1","Foraging","",3,104.72,110.72,307.52,10,301.52,NA,NA,94.5809248554913,98.0489073881374
+2025-09-10,"C","1","No focal subject","Close proximity","Other crow #2|Broken beak",1,97.8,NA,NA,1,97.8,NA,NA,NA,NA
+2025-09-10,"C","1","No focal subject","Within 5m","Mutual|Mutual",1,126.4,NA,NA,2,204.96,NA,NA,NA,NA
+2025-09-10,"C","1","No focal subject","Unclear video","",1,6.835,NA,NA,10,53.715,NA,NA,NA,NA
+2025-09-10,"C","1","Broken beak","Foraging","",1,97.8,97.8,452.759,9,443.559,NA,NA,100,97.9680138881833
+2025-09-10,"C","1","Other crow #1","Feed","Auto-|Unknown|None",3,NA,196.8,307.52,3,NA,0.914634146341463,0.585327783558793,NA,NA
+2025-09-10,"C","1","Other crow #1","Foraging","",7,196.8,196.8,307.52,10,301.52,NA,NA,100,98.0489073881374
+2025-09-10,"C","1","Other crow #2","Preen","Auto-|None",1,6.08,254.88,254.88,1,6.08,NA,NA,2.38543628374137,2.38543628374137
+2025-09-10,"C","1","Other crow #2","Alert","",1,18.6,254.88,254.88,1,18.6,NA,NA,7.29755178907721,7.29755178907721
+2025-09-10,"C","1","Other crow #2","Feed","Auto-|Successful|None",2,NA,254.88,254.88,2,NA,0.470809792843691,0.470809792843691,NA,NA
+2025-09-10,"C","1","Other crow #2","Feed","Auto-|Unknown|None",11,NA,254.88,254.88,11,NA,2.5894538606403,2.5894538606403,NA,NA
+2025-09-10,"C","1","Other crow #2","Foraging","",3,230.2,254.88,254.88,3,230.2,NA,NA,90.3170119271814,90.3170119271814
+2025-07-11,"C","1","No focal subject","Close proximity","Other crow #1|Other crow #2",1,61.64,NA,NA,1,61.64,NA,NA,NA,NA
+2025-07-11,"C","1","No focal subject","Unclear video","",8,17.28,NA,NA,8,17.28,NA,NA,NA,NA
+2025-07-11,"C","1","Other crow #1","Preen","Auto-|None",3,26,1015.637,1015.637,3,26,NA,NA,2.55996975297276,2.55996975297276
+2025-07-11,"C","1","Other crow #1","Alert","",4,22.28,1015.637,1015.637,4,22.28,NA,NA,2.19369715754743,2.19369715754743
+2025-07-11,"C","1","Other crow #1","Feed","Auto-|Unknown|None",5,NA,1015.637,1015.637,5,NA,0.295381125343011,0.295381125343011,NA,NA
+2025-07-11,"C","1","Other crow #1","Feed","Auto-|Successful|None",4,NA,1015.637,1015.637,4,NA,0.236304900274409,0.236304900274409,NA,NA
+2025-07-11,"C","1","Other crow #1","Foraging","",15,360.839,1015.637,1015.637,15,360.839,NA,NA,35.5283432958823,35.5283432958823
+2025-07-11,"C","1","Other crow #1","Resting","",10,606.518,1015.637,1015.637,10,606.518,NA,NA,59.7179897935975,59.7179897935975
+2025-07-11,"C","1","Other crow #2","Feed","Auto-|Unknown|None",1,NA,61.24,61.24,1,NA,0.979751796211626,0.979751796211626,NA,NA
+2025-07-11,"C","1","Other crow #2","Feed","Auto-|Successful|None",3,NA,61.24,61.24,3,NA,2.93925538863488,2.93925538863488,NA,NA
+2025-07-11,"C","1","Other crow #2","Foraging","",1,61.24,61.24,61.24,1,61.24,NA,NA,100,100
+2025-08-12,"C","1","No focal subject","Within 5m","Other crow #1|Other crow #2",1,598.4,NA,NA,1,598.4,NA,NA,NA,NA
+2025-08-12,"C","1","No focal subject","Unclear video","",20,103.72,NA,NA,30,157.329,NA,NA,NA,NA
+2025-08-12,"C","1","Other crow #1","Preen","Auto-|None",14,274.48,2662.353,3394.31,17,292.08,NA,NA,10.309677191567,8.60498893736871
+2025-08-12,"C","1","Other crow #1","Alert","",21,149.598,2662.353,3394.31,31,187.676,NA,NA,5.61901445826305,5.52913552386199
+2025-08-12,"C","1","Other crow #1","Feed","Auto-|Unknown|None",5,NA,2662.353,3394.31,15,NA,0.112682277669415,0.265149618037245,NA,NA
+2025-08-12,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,2662.353,3394.31,6,NA,0.067609366601649,0.106059847214898,NA,NA
+2025-08-12,"C","1","Other crow #1","Feed","Auto-|Successful|None",4,NA,2662.353,3394.31,13,NA,0.090145822135532,0.229796335632279,NA,NA
+2025-08-12,"C","1","Other crow #1","Foraging","",34,312.518,2662.353,3394.31,57,765.917,NA,NA,11.7384133508967,22.5647333331369
+2025-08-12,"C","1","Other crow #1","Resting","",19,1925.757,2662.353,3394.31,25,2148.637,NA,NA,72.3328949992732,63.3011422056324
+2025-08-12,"C","1","Other crow #1","Wing flutter","",5,NA,2662.353,3394.31,7,NA,0.112682277669415,0.123736488417381,NA,NA
+2025-08-12,"C","1","Other crow #1","Open mouth","",2,NA,2662.353,3394.31,2,NA,0.045072911067766,0.035353282404966,NA,NA
+2025-08-12,"C","1","Other crow #2","Preen","Auto-|None",1,8.96,690.759,845.797,2,14.84,NA,NA,1.29712388836048,1.75455812683185
+2025-08-12,"C","1","Other crow #2","Alert","",9,96.76,690.759,845.797,9,96.76,NA,NA,14.0077798479643,11.4400973283187
+2025-08-12,"C","1","Other crow #2","Feed","Auto-|Unknown|None",32,NA,690.759,845.797,37,NA,2.7795511893439,2.62474328946544,NA,NA
+2025-08-12,"C","1","Other crow #2","Feed","Auto-|Successful|None",6,NA,690.759,845.797,12,NA,0.52116584800198,0.851268093880683,NA,NA
+2025-08-12,"C","1","Other crow #2","Feed","Auto-|Unsuccessful|None",2,NA,690.759,845.797,2,NA,0.173721949333993,0.14187801564678,NA,NA
+2025-08-12,"C","1","Other crow #2","Foraging","",17,403.559,690.759,845.797,24,531.317,NA,NA,58.4225467927309,62.8185013661671
+2025-08-12,"C","1","Other crow #2","Resting","",7,181.48,690.759,845.797,8,202.88,NA,NA,26.2725494709443,23.9868431786824
+2025-08-12,"C","2","No focal subject","Within 5m","Mutual|Mutual",1,159.8,NA,NA,1,159.8,NA,NA,NA,NA
+2025-08-12,"C","2","No focal subject","Unclear video","",10,53.609,NA,NA,30,157.329,NA,NA,NA,NA
+2025-08-12,"C","2","Broken beak","Foraging","",2,19.52,19.52,19.52,2,19.52,NA,NA,100,100
+2025-08-12,"C","2","Other crow #1","Preen","Auto-|None",3,17.6,731.957,3394.31,17,292.08,NA,NA,2.40451283340415,8.60498893736871
+2025-08-12,"C","2","Other crow #1","Alert","",10,38.078,731.957,3394.31,31,187.676,NA,NA,5.20221816308882,5.52913552386199
+2025-08-12,"C","2","Other crow #1","Feed","Auto-|Successful|None",9,NA,731.957,3394.31,13,NA,0.737748255703546,0.229796335632279,NA,NA
+2025-08-12,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,731.957,3394.31,6,NA,0.245916085234515,0.106059847214898,NA,NA
+2025-08-12,"C","2","Other crow #1","Feed","Auto-|Unknown|None",10,NA,731.957,3394.31,15,NA,0.81972028411505,0.265149618037245,NA,NA
+2025-08-12,"C","2","Other crow #1","Foraging","",23,453.399,731.957,3394.31,57,765.917,NA,NA,61.94339284958,22.5647333331369
+2025-08-12,"C","2","Other crow #1","Resting","",6,222.88,731.957,3394.31,25,2148.637,NA,NA,30.4498761539271,63.3011422056324
+2025-08-12,"C","2","Other crow #1","Wing flutter","",2,NA,731.957,3394.31,7,NA,0.16394405682301,0.123736488417381,NA,NA
+2025-08-12,"C","2","Other crow #2","Preen","Auto-|None",1,5.88,155.038,845.797,2,14.84,NA,NA,3.79261858383106,1.75455812683185
+2025-08-12,"C","2","Other crow #2","Feed","Auto-|Unknown|None",5,NA,155.038,845.797,37,NA,1.93500948154646,2.62474328946544,NA,NA
+2025-08-12,"C","2","Other crow #2","Feed","Auto-|Successful|None",6,NA,155.038,845.797,12,NA,2.32201137785575,0.851268093880683,NA,NA
+2025-08-12,"C","2","Other crow #2","Foraging","",7,127.758,155.038,845.797,24,531.317,NA,NA,82.4043137811375,62.8185013661671
+2025-08-12,"C","2","Other crow #2","Resting","",1,21.4,155.038,845.797,8,202.88,NA,NA,13.8030676350314,23.9868431786824
+2025-06-13,"BB","1","No focal subject","Close proximity","Mutual|Mutual",1,62.8,NA,NA,8,518.557,NA,NA,NA,NA
+2025-06-13,"BB","1","Broken beak","Preen","Auto-|None",1,59.56,59.56,1474.52,7,222.24,NA,NA,100,15.0720234381358
+2025-06-13,"BB","1","Other crow #1","Preen","Auto-|None",1,2.12,58.2,730.22,2,8.36,NA,NA,3.6426116838488,1.14486045301416
+2025-06-13,"BB","1","Other crow #1","Alert","",1,3.56,58.2,730.22,1,3.56,NA,NA,6.11683848797251,0.487524307742872
+2025-06-13,"BB","1","Other crow #1","Resting","",1,52.52,58.2,730.22,4,228.92,NA,NA,90.2405498281787,31.3494563282299
+2025-06-13,"BB","2","No focal subject","Close proximity","Mutual|Mutual",1,128.64,NA,NA,8,518.557,NA,NA,NA,NA
+2025-06-13,"BB","2","Broken beak","Preen","Auto-|None",2,118.4,139.2,1474.52,7,222.24,NA,NA,85.0574712643678,15.0720234381358
+2025-06-13,"BB","2","Broken beak","Alert","",2,20.8,139.2,1474.52,4,34.08,NA,NA,14.9425287356322,2.31126061362342
+2025-06-13,"BB","2","Other crow #1","Resting","",1,128.12,128.12,730.22,4,228.92,NA,NA,100,31.3494563282299
+2025-06-13,"BB","3","No focal subject","Close proximity","Mutual|Mutual",4,298.438,NA,NA,8,518.557,NA,NA,NA,NA
+2025-06-13,"BB","3","No focal subject","Close proximity","Broken beak|Other crow #1",1,88.119,NA,NA,1,88.119,NA,NA,NA,NA
+2025-06-13,"BB","3","No focal subject","Close proximity","Other crow #1|Broken beak",1,96.039,NA,NA,1,96.039,NA,NA,NA,NA
+2025-06-13,"BB","3","No focal subject","Unclear video","",14,86.12,NA,NA,24,236.339,NA,NA,NA,NA
+2025-06-13,"BB","3","Broken beak","Preen","Auto-|None",4,44.28,1216.84,1474.52,7,222.24,NA,NA,3.63893363137306,15.0720234381358
+2025-06-13,"BB","3","Broken beak","Alert","",2,13.28,1216.84,1474.52,4,34.08,NA,NA,1.09135136912002,2.31126061362342
+2025-06-13,"BB","3","Broken beak","Feed","Auto-|Unknown|None",97,NA,1216.84,1474.52,101,NA,4.78288024719766,4.1098120066191,NA,NA
+2025-06-13,"BB","3","Broken beak","Feed","Auto-|Unsuccessful|None",83,NA,1216.84,1474.52,83,NA,4.09256763420006,3.3773702628652,NA,NA
+2025-06-13,"BB","3","Broken beak","Feed","Auto-|Successful|None",18,NA,1216.84,1474.52,20,NA,0.887544788139772,0.813824159726555,NA,NA
+2025-06-13,"BB","3","Broken beak","Feed","Auto-|Unknown|None",1,NA,1216.84,1474.52,101,NA,0.0493080437855429,4.1098120066191,NA,NA
+2025-06-13,"BB","3","Broken beak","Foraging","",18,1077.08,1216.84,1474.52,22,1100.8,NA,NA,88.5145130008875,74.654802918916
+2025-06-13,"BB","3","Broken beak","Resting","",2,82.2,1216.84,1474.52,2,82.2,NA,NA,6.75520199861938,5.5746954941269
+2025-06-13,"BB","3","Other crow #1","Preen","Auto-|None",1,6.24,431.72,730.22,2,8.36,NA,NA,1.44538126563513,1.14486045301416
+2025-06-13,"BB","3","Other crow #1","Feed","Auto-|Unknown|None",6,NA,431.72,730.22,7,NA,0.833873807097193,0.575169127112377,NA,NA
+2025-06-13,"BB","3","Other crow #1","Feed","Auto-|Successful|None",9,NA,431.72,730.22,11,NA,1.25081071064579,0.903837199748021,NA,NA
+2025-06-13,"BB","3","Other crow #1","Foraging","",13,377.2,431.72,730.22,17,454.18,NA,NA,87.3714444547392,62.1976938456903
+2025-06-13,"BB","3","Other crow #1","Resting","",2,48.28,431.72,730.22,4,228.92,NA,NA,11.1831742796257,31.3494563282299
+2025-06-13,"BB","4","No focal subject","Close proximity","Mutual|Mutual",1,19.679,NA,NA,8,518.557,NA,NA,NA,NA
+2025-06-13,"BB","4","No focal subject","Unclear video","",5,57.2,NA,NA,24,236.339,NA,NA,NA,NA
+2025-06-13,"BB","4","Broken beak","Feed","Auto-|Successful|None",2,NA,23.72,1474.52,20,NA,5.05902192242833,0.813824159726555,NA,NA
+2025-06-13,"BB","4","Broken beak","Feed","Auto-|Unknown|None",3,NA,23.72,1474.52,101,NA,7.5885328836425,4.1098120066191,NA,NA
+2025-06-13,"BB","4","Broken beak","Foraging","",4,23.72,23.72,1474.52,22,1100.8,NA,NA,100,74.654802918916
+2025-06-13,"BB","4","Other crow #1","Feed","Auto-|Successful|None",2,NA,22.32,730.22,11,NA,5.37634408602151,0.903837199748021,NA,NA
+2025-06-13,"BB","4","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,22.32,730.22,1,NA,2.68817204301075,0.082167018158911,NA,NA
+2025-06-13,"BB","4","Other crow #1","Feed","Auto-|Unknown|None",1,NA,22.32,730.22,7,NA,2.68817204301075,0.575169127112377,NA,NA
+2025-06-13,"BB","4","Other crow #1","Foraging","",2,22.32,22.32,730.22,17,454.18,NA,NA,100,62.1976938456903
+2025-06-13,"BB","5","No focal subject","Close proximity","None|None",1,21.8,NA,NA,1,21.8,NA,NA,NA,NA
+2025-06-13,"BB","5","No focal subject","Begging session","Broken beak,Other crow #1",1,26.2,NA,NA,2,35.2,NA,NA,NA,NA
+2025-06-13,"BB","5","No focal subject","Unclear video","",2,33.2,NA,NA,24,236.339,NA,NA,NA,NA
+2025-06-13,"BB","5","Broken beak","Beg call","",7,NA,26.2,1474.52,11,NA,16.030534351145,0.447603287849605,NA,NA
+2025-06-13,"BB","5","Broken beak","Wing flutter","",4,NA,26.2,1474.52,8,NA,9.16030534351145,0.325529663890622,NA,NA
+2025-06-13,"BB","5","Other crow #1","Feed","Allo-|Unknown|Broken beak",1,NA,26.2,730.22,2,NA,2.29007633587786,0.164334036317822,NA,NA
+2025-06-13,"C","1","No focal subject","Unclear video","",1,9.66,NA,NA,24,236.339,NA,NA,NA,NA
+2025-06-13,"C","1","Other crow #1","Foraging","",1,48.96,48.96,730.22,17,454.18,NA,NA,100,62.1976938456903
+2025-06-13,"C","2","No focal subject","Close proximity","Mutual|Mutual",1,9,NA,NA,8,518.557,NA,NA,NA,NA
+2025-06-13,"C","2","No focal subject","Begging session","Broken beak,Other crow #1",1,9,NA,NA,2,35.2,NA,NA,NA,NA
+2025-06-13,"C","2","No focal subject","Unclear video","",2,50.159,NA,NA,24,236.339,NA,NA,NA,NA
+2025-06-13,"C","2","Broken beak","Beg call","",4,NA,9,1474.52,11,NA,26.6666666666667,0.447603287849605,NA,NA
+2025-06-13,"C","2","Broken beak","Wing flutter","",4,NA,9,1474.52,8,NA,26.6666666666667,0.325529663890622,NA,NA
+2025-06-13,"C","2","Other crow #1","Feed","Allo-|Unknown|Broken beak",1,NA,14.7,730.22,2,NA,4.08163265306122,0.164334036317822,NA,NA
+2025-06-13,"C","2","Other crow #1","Foraging","",1,5.7,14.7,730.22,17,454.18,NA,NA,38.7755102040816,62.1976938456903
+2025-05-14,"C","1","No focal subject","Unclear video","",16,96.48,NA,NA,35,157.748,NA,NA,NA,NA
+2025-05-14,"C","1","Other crow #1","Alert","",2,5.56,278.879,748.421,4,8.2,NA,NA,1.99369619082111,1.09564002079044
+2025-05-14,"C","1","Other crow #1","Feed","Auto-|Successful|None",32,NA,278.879,748.421,117,NA,6.88470627046138,9.3797474950596,NA,NA
+2025-05-14,"C","1","Other crow #1","Feed","Auto-|Unknown|None",10,NA,278.879,748.421,38,NA,2.15147070951918,3.04641371634414,NA,NA
+2025-05-14,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",4,NA,278.879,748.421,14,NA,0.860588283807673,1.12236294812679,NA,NA
+2025-05-14,"C","1","Other crow #1","Foraging","",18,273.319,278.879,748.421,38,691.107,NA,NA,98.0063038091789,92.3420107132216
+2025-05-14,"C","2","No focal subject","Close proximity","Other crow #1|Broken beak",6,61.88,NA,NA,6,61.88,NA,NA,NA,NA
+2025-05-14,"C","2","No focal subject","Unclear video","",15,49.828,NA,NA,35,157.748,NA,NA,NA,NA
+2025-05-14,"C","2","Broken beak","Brief flight","",1,0.159,86.389,86.389,1,0.159,NA,NA,0.184051210223524,0.184051210223524
+2025-05-14,"C","2","Broken beak","Alert","",1,0.96,86.389,86.389,1,0.96,NA,NA,1.11125259002882,1.11125259002882
+2025-05-14,"C","2","Broken beak","Feed","Auto-|Unknown|None",4,NA,86.389,86.389,4,NA,2.77813147507206,2.77813147507206,NA,NA
+2025-05-14,"C","2","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,86.389,86.389,3,NA,2.08359860630404,2.08359860630404,NA,NA
+2025-05-14,"C","2","Broken beak","Foraging","",6,33.717,86.389,86.389,6,33.717,NA,NA,39.0292745604186,39.0292745604186
+2025-05-14,"C","2","Broken beak","Resting","",2,2.439,86.389,86.389,2,2.439,NA,NA,2.82327611154198,2.82327611154198
+2025-05-14,"C","2","No focal subject","Begging session","Broken beak,Other crow #1",9,49.114,NA,NA,9,49.114,NA,NA,NA,NA
+2025-05-14,"C","2","Broken beak","Beg call","",7,NA,86.389,86.389,7,NA,4.8617300813761,4.8617300813761,NA,NA
+2025-05-14,"C","2","Broken beak","Wing flutter","",45,NA,86.389,86.389,45,NA,31.2539790945606,31.2539790945606,NA,NA
+2025-05-14,"C","2","Broken beak","Open mouth","",17,NA,86.389,86.389,17,NA,11.8070587690562,11.8070587690562,NA,NA
+2025-05-14,"C","2","Other crow #1","Alert","",1,1.36,398.822,748.421,4,8.2,NA,NA,0.341004257538451,1.09564002079044
+2025-05-14,"C","2","Other crow #1","Feed","Auto-|Successful|None",50,NA,398.822,748.421,117,NA,7.52215273981877,9.3797474950596,NA,NA
+2025-05-14,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",9,NA,398.822,748.421,14,NA,1.35398749316738,1.12236294812679,NA,NA
+2025-05-14,"C","2","Other crow #1","Feed","Auto-|Unknown|None",21,NA,398.822,748.421,38,NA,3.15930415072388,3.04641371634414,NA,NA
+2025-05-14,"C","2","Other crow #1","Feed","Allo-|Successful|Broken beak",1,NA,398.822,748.421,1,NA,0.150443054796375,0.0801687820090564,NA,NA
+2025-05-14,"C","2","Other crow #1","Foraging","",15,348.348,398.822,748.421,38,691.107,NA,NA,87.3442287536796,92.3420107132216
+2025-05-14,"C","3","No focal subject","Unclear video","",4,11.44,NA,NA,35,157.748,NA,NA,NA,NA
+2025-05-14,"C","3","Other crow #1","Alert","",1,1.28,70.72,748.421,4,8.2,NA,NA,1.80995475113122,1.09564002079044
+2025-05-14,"C","3","Other crow #1","Feed","Auto-|Successful|None",35,NA,70.72,748.421,117,NA,29.6945701357466,9.3797474950596,NA,NA
+2025-05-14,"C","3","Other crow #1","Feed","Auto-|Unknown|None",7,NA,70.72,748.421,38,NA,5.93891402714932,3.04641371634414,NA,NA
+2025-05-14,"C","3","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,70.72,748.421,14,NA,0.84841628959276,1.12236294812679,NA,NA
+2025-05-14,"C","3","Other crow #1","Foraging","",5,69.44,70.72,748.421,38,691.107,NA,NA,98.1900452488688,92.3420107132216
+2025-08-14,"C","1","No focal subject","Unclear video","",9,29.24,NA,NA,14,85.24,NA,NA,NA,NA
+2025-08-14,"C","1","Other crow #1","Preen","Auto-|None",11,99.584,505.104,1030.524,16,147.384,NA,NA,19.7155437296082,14.3018503208077
+2025-08-14,"C","1","Other crow #1","Alert","",2,10.12,505.104,1030.524,4,35.76,NA,NA,2.0035477842187,3.47007929946319
+2025-08-14,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,505.104,1030.524,6,NA,0.237574836073363,0.349336842227837,NA,NA
+2025-08-14,"C","1","Other crow #1","Feed","Auto-|Unknown|None",4,NA,505.104,1030.524,12,NA,0.475149672146726,0.698673684455675,NA,NA
+2025-08-14,"C","1","Other crow #1","Feed","Auto-|Successful|None",4,NA,505.104,1030.524,13,NA,0.475149672146726,0.756896491493648,NA,NA
+2025-08-14,"C","1","Other crow #1","Foraging","",15,387.16,505.104,1030.524,28,730.1,NA,NA,76.6495612784694,70.84745236404
+2025-08-14,"C","1","Other crow #1","Aggression","Eurasian Magpie|Other crow #1|Supplanting",1,8.24,505.104,1030.524,1,8.24,NA,NA,1.63134720770376,0.799593216654828
+2025-08-14,"C","2","No focal subject","Unclear video","",5,56,NA,NA,14,85.24,NA,NA,NA,NA
+2025-08-14,"C","2","Other crow #1","Preen","Auto-|None",5,47.8,525.42,1030.524,16,147.384,NA,NA,9.0974839176278,14.3018503208077
+2025-08-14,"C","2","Other crow #1","Alert","",2,25.64,525.42,1030.524,4,35.76,NA,NA,4.87990559933006,3.47007929946319
+2025-08-14,"C","2","Other crow #1","Feed","Auto-|Unknown|None",8,NA,525.42,1030.524,12,NA,0.913554870389403,0.698673684455675,NA,NA
+2025-08-14,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",4,NA,525.42,1030.524,6,NA,0.456777435194701,0.349336842227837,NA,NA
+2025-08-14,"C","2","Other crow #1","Feed","Auto-|Successful|None",9,NA,525.42,1030.524,13,NA,1.02774922918808,0.756896491493648,NA,NA
+2025-08-14,"C","2","Other crow #1","Foraging","",13,342.94,525.42,1030.524,28,730.1,NA,NA,65.2696890106962,70.84745236404
+2025-08-14,"C","2","Other crow #1","Resting","",4,109.04,525.42,1030.524,4,109.04,NA,NA,20.7529214723459,10.5810247990343
+2025-05-15,"C","1","No focal subject","Unclear video","",1,4.94,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","1","Other crow #1","Alert","",4,24.96,51.76,1295.101,20,98.6,NA,NA,48.2225656877898,7.6133058348345
+2025-05-15,"C","1","Other crow #1","Feed","Auto-|Unknown|None",2,NA,51.76,1295.101,82,NA,2.31839258114374,3.79893151190525,NA,NA
+2025-05-15,"C","1","Other crow #1","Feed","Auto-|Successful|None",2,NA,51.76,1295.101,87,NA,2.31839258114374,4.03057367726533,NA,NA
+2025-05-15,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,51.76,1295.101,37,NA,1.15919629057187,1.71415202366456,NA,NA
+2025-05-15,"C","1","Other crow #1","Foraging","",4,26.8,51.76,1295.101,38,1196.501,NA,NA,51.7774343122102,92.3866941651655
+2025-05-15,"C","2","No focal subject","Unclear video","",3,9.485,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","2","Other crow #1","Alert","",4,11.08,153.76,1295.101,20,98.6,NA,NA,7.2060353798127,7.6133058348345
+2025-05-15,"C","2","Other crow #1","Feed","Auto-|Successful|None",11,NA,153.76,1295.101,87,NA,4.29240374609781,4.03057367726533,NA,NA
+2025-05-15,"C","2","Other crow #1","Feed","Auto-|Unknown|None",10,NA,153.76,1295.101,82,NA,3.90218522372529,3.79893151190525,NA,NA
+2025-05-15,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,153.76,1295.101,37,NA,0.780437044745057,1.71415202366456,NA,NA
+2025-05-15,"C","2","Other crow #1","Foraging","",6,142.68,153.76,1295.101,38,1196.501,NA,NA,92.7939646201873,92.3866941651655
+2025-05-15,"C","3","No focal subject","Unclear video","",3,20.255,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","3","Other crow #1","Alert","",3,13.28,105.079,1295.101,20,98.6,NA,NA,12.6381103740995,7.6133058348345
+2025-05-15,"C","3","Other crow #1","Feed","Auto-|Successful|None",5,NA,105.079,1295.101,87,NA,2.85499481342609,4.03057367726533,NA,NA
+2025-05-15,"C","3","Other crow #1","Feed","Auto-|Unknown|None",6,NA,105.079,1295.101,82,NA,3.42599377611131,3.79893151190525,NA,NA
+2025-05-15,"C","3","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,105.079,1295.101,37,NA,1.14199792537044,1.71415202366456,NA,NA
+2025-05-15,"C","3","Other crow #1","Foraging","",5,91.799,105.079,1295.101,38,1196.501,NA,NA,87.3618896259005,92.3866941651655
+2025-05-15,"C","4","No focal subject","Unclear video","",3,4.884,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","4","Other crow #1","Alert","",3,18.2,106.04,1295.101,20,98.6,NA,NA,17.1633345907205,7.6133058348345
+2025-05-15,"C","4","Other crow #1","Feed","Auto-|Successful|None",4,NA,106.04,1295.101,87,NA,2.263296869106,4.03057367726533,NA,NA
+2025-05-15,"C","4","Other crow #1","Feed","Auto-|Unknown|None",9,NA,106.04,1295.101,82,NA,5.09241795548849,3.79893151190525,NA,NA
+2025-05-15,"C","4","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,106.04,1295.101,37,NA,0.565824217276499,1.71415202366456,NA,NA
+2025-05-15,"C","4","Other crow #1","Foraging","",5,87.84,106.04,1295.101,38,1196.501,NA,NA,82.8366654092795,92.3866941651655
+2025-05-15,"C","5","No focal subject","Unclear video","",4,10.2,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","5","Other crow #1","Alert","",1,7.08,222.184,1295.101,20,98.6,NA,NA,3.18654808627084,7.6133058348345
+2025-05-15,"C","5","Other crow #1","Feed","Auto-|Unknown|None",21,NA,222.184,1295.101,82,NA,5.67097540777014,3.79893151190525,NA,NA
+2025-05-15,"C","5","Other crow #1","Feed","Auto-|Successful|None",16,NA,222.184,1295.101,87,NA,4.32074316782487,4.03057367726533,NA,NA
+2025-05-15,"C","5","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,222.184,1295.101,37,NA,0.270046447989054,1.71415202366456,NA,NA
+2025-05-15,"C","5","Other crow #1","Foraging","",6,215.104,222.184,1295.101,38,1196.501,NA,NA,96.8134519137292,92.3866941651655
+2025-05-15,"C","6","No focal subject","Unclear video","",2,3.26,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","6","Other crow #1","Feed","Auto-|Unknown|None",9,NA,162.88,1295.101,82,NA,3.31532416502947,3.79893151190525,NA,NA
+2025-05-15,"C","6","Other crow #1","Feed","Auto-|Successful|None",18,NA,162.88,1295.101,87,NA,6.63064833005894,4.03057367726533,NA,NA
+2025-05-15,"C","6","Other crow #1","Foraging","",2,162.88,162.88,1295.101,38,1196.501,NA,NA,100,92.3866941651655
+2025-05-15,"C","7","No focal subject","Unclear video","",7,13.54,NA,NA,23,66.564,NA,NA,NA,NA
+2025-05-15,"C","7","Other crow #1","Alert","",5,24,493.398,1295.101,20,98.6,NA,NA,4.86422725669743,7.6133058348345
+2025-05-15,"C","7","Other crow #1","Feed","Auto-|Successful|None",31,NA,493.398,1295.101,87,NA,3.76977612394051,4.03057367726533,NA,NA
+2025-05-15,"C","7","Other crow #1","Feed","Auto-|Unknown|None",25,NA,493.398,1295.101,82,NA,3.0401420354359,3.79893151190525,NA,NA
+2025-05-15,"C","7","Other crow #1","Feed","Auto-|Unsuccessful|None",30,NA,493.398,1295.101,37,NA,3.64817044252307,1.71415202366456,NA,NA
+2025-05-15,"C","7","Other crow #1","Foraging","",10,469.398,493.398,1295.101,38,1196.501,NA,NA,95.1357727433026,92.3866941651655
+2025-07-15,"BB","1","No focal subject","Close proximity","None|None",1,5.199,NA,NA,4,82.677,NA,NA,NA,NA
+2025-07-15,"BB","1","No focal subject","Unclear video","",4,34.839,NA,NA,166,706.543,NA,NA,NA,NA
+2025-07-15,"BB","1","Broken beak","Alert","",1,1.88,35.76,2524.799,17,47.96,NA,NA,5.2572706935123,1.89955715286643
+2025-07-15,"BB","1","Broken beak","Feed","Auto-|Unknown|None",4,NA,35.76,2524.799,212,NA,6.71140939597315,5.03802480910362,NA,NA
+2025-07-15,"BB","1","Broken beak","Feed","Auto-|Successful|None",2,NA,35.76,2524.799,122,NA,3.35570469798658,2.89924069203133,NA,NA
+2025-07-15,"BB","1","Broken beak","Foraging","",4,33.88,35.76,2524.799,164,2271.679,NA,NA,94.7427293064877,89.97464748679
+2025-07-15,"BB","1","Other crow #1","Foraging","",1,5.2,5.2,507.56,38,375.08,NA,NA,100,73.8986523760738
+2025-07-15,"BB","2","No focal subject","Close proximity","Other crow #1|Broken beak",3,96.879,NA,NA,4,140.158,NA,NA,NA,NA
+2025-07-15,"BB","2","No focal subject","Close proximity","Mutual|Mutual",2,37.439,NA,NA,2,37.439,NA,NA,NA,NA
+2025-07-15,"BB","2","No focal subject","Within 5m","Mutual|Mutual",3,72.04,NA,NA,3,72.04,NA,NA,NA,NA
+2025-07-15,"BB","2","No focal subject","Unclear video","",140,636.428,NA,NA,166,706.543,NA,NA,NA,NA
+2025-07-15,"BB","2","Broken beak","Preen","Auto-|None",1,5.16,2073.998,2524.799,6,42.84,NA,NA,0.248794839725014,1.69676873287735
+2025-07-15,"BB","2","Broken beak","Alert","",10,24.72,2073.998,2524.799,17,47.96,NA,NA,1.19190086007797,1.89955715286643
+2025-07-15,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",14,NA,2073.998,2524.799,22,NA,0.405014855366302,0.522813895284338,NA,NA
+2025-07-15,"BB","2","Broken beak","Feed","Auto-|Unknown|None",192,NA,2073.998,2524.799,212,NA,5.55448944502357,5.03802480910362,NA,NA
+2025-07-15,"BB","2","Broken beak","Feed","Auto-|Successful|None",115,NA,2073.998,2524.799,122,NA,3.32690774050891,2.89924069203133,NA,NA
+2025-07-15,"BB","2","Broken beak","Foraging","",138,2044.118,2073.998,2524.799,164,2271.679,NA,NA,98.559304300197,89.97464748679
+2025-07-15,"BB","2","Other crow #1","Preen","Auto-|None",1,2.24,383.92,507.56,1,2.24,NA,NA,0.583454886434674,0.441327133737883
+2025-07-15,"BB","2","Other crow #1","Alert","",1,2.48,383.92,507.56,1,2.48,NA,NA,0.645967909981246,0.488612183781228
+2025-07-15,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",44,NA,383.92,507.56,44,NA,6.87643259012294,5.20135550476791,NA,NA
+2025-07-15,"BB","2","Other crow #1","Feed","Auto-|Successful|None",31,NA,383.92,507.56,31,NA,4.84475932485935,3.66459137835921,NA,NA
+2025-07-15,"BB","2","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,383.92,507.56,2,NA,0.312565117732861,0.236425250216723,NA,NA
+2025-07-15,"BB","2","Other crow #1","Foraging","",35,354,383.92,507.56,38,375.08,NA,NA,92.206709731194,73.8986523760738
+2025-07-15,"BB","2","Other crow #1","Resting","",1,25.2,383.92,507.56,7,127.76,NA,NA,6.56386747239008,25.1714083064071
+2025-07-15,"BB","2","Other crow #1","Open mouth","",1,NA,383.92,507.56,1,NA,0.15628255886643,0.118212625108362,NA,NA
+2025-07-15,"BB","2","Other crow #2","Feed","Auto-|Unknown|None",3,NA,16.8,57.76,7,NA,10.7142857142857,7.27146814404432,NA,NA
+2025-07-15,"BB","2","Other crow #2","Foraging","",3,16.8,16.8,57.76,10,57.16,NA,NA,100,98.9612188365651
+2025-07-15,"BB","3","No focal subject","Close proximity","Other crow #1|Broken beak",1,43.279,NA,NA,4,140.158,NA,NA,NA,NA
+2025-07-15,"BB","3","No focal subject","Close proximity","None|None",3,77.478,NA,NA,4,82.677,NA,NA,NA,NA
+2025-07-15,"BB","3","No focal subject","Unclear video","",22,35.276,NA,NA,166,706.543,NA,NA,NA,NA
+2025-07-15,"BB","3","Broken beak","Preen","Auto-|None",5,37.68,415.041,2524.799,6,42.84,NA,NA,9.0786211482721,1.69676873287735
+2025-07-15,"BB","3","Broken beak","Brief flight","",1,2.28,415.041,2524.799,1,2.28,NA,NA,0.549343317889076,0.0903042182763856
+2025-07-15,"BB","3","Broken beak","Alert","",6,21.36,415.041,2524.799,17,47.96,NA,NA,5.1464795044345,1.89955715286643
+2025-07-15,"BB","3","Broken beak","Feed","Auto-|Unsuccessful|None",8,NA,415.041,2524.799,22,NA,1.15651224818753,0.522813895284338,NA,NA
+2025-07-15,"BB","3","Broken beak","Feed","Auto-|Successful|None",5,NA,415.041,2524.799,122,NA,0.722820155117205,2.89924069203133,NA,NA
+2025-07-15,"BB","3","Broken beak","Feed","Auto-|Unknown|None",16,NA,415.041,2524.799,212,NA,2.31302449637506,5.03802480910362,NA,NA
+2025-07-15,"BB","3","Broken beak","Foraging","",22,193.681,415.041,2524.799,164,2271.679,NA,NA,46.6655101544185,89.97464748679
+2025-07-15,"BB","3","Broken beak","Resting","",5,160.04,415.041,2524.799,5,160.04,NA,NA,38.5600458749858,6.3387224091898
+2025-07-15,"BB","3","Other crow #1","Foraging","",2,15.88,118.44,507.56,38,375.08,NA,NA,13.4076325565687,73.8986523760738
+2025-07-15,"BB","3","Other crow #1","Resting","",6,102.56,118.44,507.56,7,127.76,NA,NA,86.5923674434313,25.1714083064071
+2025-07-15,"BB","3","Other crow #2","Alert","",1,0.6,40.96,57.76,1,0.6,NA,NA,1.46484375,1.0387811634349
+2025-07-15,"BB","3","Other crow #2","Feed","Auto-|Unknown|None",4,NA,40.96,57.76,7,NA,5.859375,7.27146814404432,NA,NA
+2025-07-15,"BB","3","Other crow #2","Feed","Auto-|Unsuccessful|None",1,NA,40.96,57.76,1,NA,1.46484375,1.0387811634349,NA,NA
+2025-07-15,"BB","3","Other crow #2","Foraging","",7,40.36,40.96,57.76,10,57.16,NA,NA,98.53515625,98.9612188365651
+2025-09-15,"C","1","No focal subject","Unclear video","",1,3.96,NA,NA,8,15.92,NA,NA,NA,NA
+2025-09-15,"C","1","Other crow #1","Alert","",1,4.079,60.359,1229.317,3,11.839,NA,NA,6.75789857353501,0.963055094820945
+2025-09-15,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,60.359,1229.317,304,NA,0.994052254013486,14.8375073313067,NA,NA
+2025-09-15,"C","1","Other crow #1","Foraging","",2,56.28,60.359,1229.317,15,1097.598,NA,NA,93.242101426465,89.2851884420373
+2025-09-15,"C","2","No focal subject","Close proximity","Broken beak|Other crow #1",2,102.718,NA,NA,2,102.718,NA,NA,NA,NA
+2025-09-15,"C","2","No focal subject","Close proximity","Broken beak|Other crow #2",1,10,NA,NA,1,10,NA,NA,NA,NA
+2025-09-15,"C","2","No focal subject","Close proximity","Mutual|Mutual",1,6.04,NA,NA,1,6.04,NA,NA,NA,NA
+2025-09-15,"C","2","No focal subject","Within 5m","Broken beak|Other crow #1",1,4.92,NA,NA,1,4.92,NA,NA,NA,NA
+2025-09-15,"C","2","No focal subject","Within 5m","Mutual|Mutual",1,64.48,NA,NA,1,64.48,NA,NA,NA,NA
+2025-09-15,"C","2","No focal subject","Unclear video","",7,11.96,NA,NA,8,15.92,NA,NA,NA,NA
+2025-09-15,"C","2","Broken beak","Alert","",3,1.24,114.36,114.36,3,1.24,NA,NA,1.08429520811473,1.08429520811473
+2025-09-15,"C","2","Broken beak","Feed","Auto-|Unsuccessful|None",32,NA,114.36,114.36,32,NA,16.7890870933893,16.7890870933893,NA,NA
+2025-09-15,"C","2","Broken beak","Feed","Auto-|Successful|None",10,NA,114.36,114.36,10,NA,5.24658971668415,5.24658971668415,NA,NA
+2025-09-15,"C","2","Broken beak","Feed","Auto-|Unknown|None",10,NA,114.36,114.36,10,NA,5.24658971668415,5.24658971668415,NA,NA
+2025-09-15,"C","2","Broken beak","Foraging","",6,113.12,114.36,114.36,6,113.12,NA,NA,98.9157047918853,98.9157047918853
+2025-09-15,"C","2","Other crow #1","Preen","Auto-|None",4,31.84,1168.958,1229.317,4,31.84,NA,NA,2.72379332704853,2.5900561043246
+2025-09-15,"C","2","Other crow #1","Brief flight","",1,3.52,1168.958,1229.317,1,3.52,NA,NA,0.301122880377225,0.286337860779604
+2025-09-15,"C","2","Other crow #1","Alert","",2,7.76,1168.958,1229.317,3,11.839,NA,NA,0.663839077195246,0.963055094820945
+2025-09-15,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",303,NA,1168.958,1229.317,304,NA,15.552312401301,14.8375073313067,NA,NA
+2025-09-15,"C","2","Other crow #1","Feed","Auto-|Successful|None",62,NA,1168.958,1229.317,62,NA,3.18232134944113,3.02607057414808,NA,NA
+2025-09-15,"C","2","Other crow #1","Feed","Auto-|Unknown|None",39,NA,1168.958,1229.317,39,NA,2.00178278432587,1.90349600631896,NA,NA
+2025-09-15,"C","2","Other crow #1","Foraging","",13,1041.318,1168.958,1229.317,15,1097.598,NA,NA,89.0808737354122,89.2851884420373
+2025-09-15,"C","2","Other crow #1","Resting","",1,84.52,1168.958,1229.317,1,84.52,NA,NA,7.23037097996677,6.87536249803753
+2025-09-15,"C","2","Other crow #1","Unclear video","",1,1.791,1168.958,1229.317,1,1.791,NA,NA,0.15321337464648,0.145690655868259
+2025-09-15,"C","2","Other crow #2","Foraging","",1,10,10,10,1,10,NA,NA,100,100
+2025-09-16,"BB","1","No focal subject","Unclear video","",1,7.04,NA,NA,1,7.04,NA,NA,NA,NA
+2025-09-16,"BB","1","Broken beak","Alert","",2,12.6,48.56,48.56,2,12.6,NA,NA,25.9472817133443,25.9472817133443
+2025-09-16,"BB","1","Broken beak","Foraging","",2,35.96,48.56,48.56,2,35.96,NA,NA,74.0527182866557,74.0527182866557
+2025-10-17,"BB","1","No focal subject","Unclear video","",6,16.617,NA,NA,22,58.116,NA,NA,NA,NA
+2025-10-17,"BB","1","Broken beak","Feed","Auto-|Unknown|None",6,NA,25.24,33.64,6,NA,14.2630744849445,10.7015457788347,NA,NA
+2025-10-17,"BB","1","Broken beak","Foraging","",3,25.24,25.24,33.64,6,28.76,NA,NA,100,85.4934601664685
+2025-10-17,"BB","1","Other crow #1","Foraging","",4,16.28,16.28,326.959,24,249.519,NA,NA,100,76.3150731437275
+2025-10-17,"C","1","No focal subject","Unclear video","",13,26.539,NA,NA,22,58.116,NA,NA,NA,NA
+2025-10-17,"C","1","Broken beak","Foraging","",3,3.52,3.52,33.64,6,28.76,NA,NA,100,85.4934601664685
+2025-10-17,"C","1","Other crow #1","Preen","Auto-|None",3,10.92,201.039,326.959,3,10.92,NA,NA,5.43178189306553,3.33986830153016
+2025-10-17,"C","1","Other crow #1","Alert","",8,28.36,201.039,326.959,10,38.72,NA,NA,14.1067156123936,11.8424634281362
+2025-10-17,"C","1","Other crow #1","Vocal","",4,NA,201.039,326.959,4,NA,1.19379821825616,0.734036989347288,NA,NA
+2025-10-17,"C","1","Other crow #1","Feed","Auto-|Unknown|None",8,NA,201.039,326.959,10,NA,2.38759643651232,1.83509247336822,NA,NA
+2025-10-17,"C","1","Other crow #1","Feed","Auto-|Successful|None",14,NA,201.039,326.959,18,NA,4.17829376389656,3.3031664520628,NA,NA
+2025-10-17,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,201.039,326.959,6,NA,0.59689910912808,1.10105548402093,NA,NA
+2025-10-17,"C","1","Other crow #1","Foraging","",16,161.759,201.039,326.959,24,249.519,NA,NA,80.4615024945409,76.3150731437275
+2025-10-17,"C","2","No focal subject","Close proximity","Other crow #1|Broken beak",2,7.36,NA,NA,2,7.36,NA,NA,NA,NA
+2025-10-17,"C","2","No focal subject","Begging session","Broken beak,Other crow #1",1,4.88,NA,NA,1,4.88,NA,NA,NA,NA
+2025-10-17,"C","2","No focal subject","Unclear video","",3,14.96,NA,NA,22,58.116,NA,NA,NA,NA
+2025-10-17,"C","2","Broken beak","Wing flutter","",3,NA,4.88,33.64,3,NA,36.8852459016393,5.35077288941736,NA,NA
+2025-10-17,"C","2","Broken beak","Open mouth","",1,NA,4.88,33.64,1,NA,12.2950819672131,1.78359096313912,NA,NA
+2025-10-17,"C","2","Other crow #1","Brief flight","",1,22.92,109.64,326.959,1,22.92,NA,NA,20.9047792776359,7.0100532482666
+2025-10-17,"C","2","Other crow #1","Alert","",2,10.36,109.64,326.959,10,38.72,NA,NA,9.44910616563298,11.8424634281362
+2025-10-17,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",4,NA,109.64,326.959,6,NA,2.18898212331266,1.10105548402093,NA,NA
+2025-10-17,"C","2","Other crow #1","Feed","Auto-|Successful|None",4,NA,109.64,326.959,18,NA,2.18898212331266,3.3031664520628,NA,NA
+2025-10-17,"C","2","Other crow #1","Feed","Auto-|Unknown|None",2,NA,109.64,326.959,10,NA,1.09449106165633,1.83509247336822,NA,NA
+2025-10-17,"C","2","Other crow #1","Foraging","",4,71.48,109.64,326.959,24,249.519,NA,NA,65.1951842393287,76.3150731437275
+2025-07-17,"C","1","No focal subject","Close proximity","Other crow #2|Broken beak",3,413.118,NA,NA,3,413.118,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Close proximity","Mutual|Mutual",4,59.238,NA,NA,4,59.238,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Close proximity","None|None",2,84.44,NA,NA,2,84.44,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Close proximity","Broken beak|Other crow #1",1,7.2,NA,NA,1,7.2,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Within 5m","Mutual|Mutual",4,210.48,NA,NA,4,210.48,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Within 5m","Other crow #1|Other crow #2",1,102.759,NA,NA,1,102.759,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Within 5m","Other crow #2|Broken beak",1,3.4,NA,NA,1,3.4,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Within 5m","Broken beak|Other crow #1",1,60.76,NA,NA,1,60.76,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Within 5m","None|None",32,405.193,NA,NA,32,405.193,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Within 5m","Other crow #2|Other crow #1",1,16.92,NA,NA,1,16.92,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Begging session","Broken beak,Other crow #2",10,215.156,NA,NA,10,215.156,NA,NA,NA,NA
+2025-07-17,"C","1","No focal subject","Unclear video","",90,127.428,NA,NA,90,127.428,NA,NA,NA,NA
+2025-07-17,"C","1","Broken beak","Alert","",4,4.24,749.076,749.076,4,4.24,NA,NA,0.566030683134956,0.566030683134956
+2025-07-17,"C","1","Broken beak","Feed","Auto-|Unknown|None",50,NA,749.076,749.076,50,NA,4.00493407878506,4.00493407878506,NA,NA
+2025-07-17,"C","1","Broken beak","Feed","Auto-|Successful|None",5,NA,749.076,749.076,5,NA,0.400493407878506,0.400493407878506,NA,NA
+2025-07-17,"C","1","Broken beak","Feed","Auto-|Unsuccessful|None",1,NA,749.076,749.076,1,NA,0.0800986815757013,0.0800986815757013,NA,NA
+2025-07-17,"C","1","Broken beak","Foraging","",43,502.36,749.076,749.076,43,502.36,NA,NA,67.0639561272821,67.0639561272821
+2025-07-17,"C","1","Broken beak","Resting","",2,27.32,749.076,749.076,2,27.32,NA,NA,3.64715996774693,3.64715996774693
+2025-07-17,"C","1","Broken beak","Open mouth","",46,NA,749.076,749.076,46,NA,3.68453935248226,3.68453935248226,NA,NA
+2025-07-17,"C","1","Broken beak","Present head","",12,125.8,749.076,749.076,12,125.8,NA,NA,16.794023570372,16.794023570372
+2025-07-17,"C","1","Other crow #1","Preen","Auto-|None",4,32.48,2940.199,2940.199,4,32.48,NA,NA,1.10468713172136,1.10468713172136
+2025-07-17,"C","1","Other crow #1","Brief flight","",1,10.68,2940.199,2940.199,1,10.68,NA,NA,0.363240719420692,0.363240719420692
+2025-07-17,"C","1","Other crow #1","Alert","",58,184.72,2940.199,2940.199,58,184.72,NA,NA,6.28256794863205,6.28256794863205
+2025-07-17,"C","1","Other crow #1","Vocal","",1,NA,2940.199,2940.199,1,NA,0.0204067819899265,0.0204067819899265,NA,NA
+2025-07-17,"C","1","Other crow #1","Feed","Auto-|Unknown|None",137,NA,2940.199,2940.199,137,NA,2.79572913261994,2.79572913261994,NA,NA
+2025-07-17,"C","1","Other crow #1","Feed","Auto-|Successful|None",77,NA,2940.199,2940.199,77,NA,1.57132221322434,1.57132221322434,NA,NA
+2025-07-17,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",7,NA,2940.199,2940.199,7,NA,0.142847473929486,0.142847473929486,NA,NA
+2025-07-17,"C","1","Other crow #1","Foraging","",129,2105.239,2940.199,2940.199,129,2105.239,NA,NA,71.6019221828182,71.6019221828182
+2025-07-17,"C","1","Other crow #1","Resting","",12,607.08,2940.199,2940.199,12,607.08,NA,NA,20.6475820174077,20.6475820174077
+2025-07-17,"C","1","Other crow #1","Open mouth","",5,NA,2940.199,2940.199,5,NA,0.102033909949633,0.102033909949633,NA,NA
+2025-07-17,"C","1","Other crow #2","Preen","Allo-|Broken beak",6,59.52,812.336,812.336,6,59.52,NA,NA,7.32701739181816,7.32701739181816
+2025-07-17,"C","1","Other crow #2","Alert","",3,4.62,812.336,812.336,3,4.62,NA,NA,0.568730180614918,0.568730180614918
+2025-07-17,"C","1","Other crow #2","Feed","Auto-|Successful|None",2,NA,812.336,812.336,2,NA,0.147722124835044,0.147722124835044,NA,NA
+2025-07-17,"C","1","Other crow #2","Feed","Auto-|Unknown|None",7,NA,812.336,812.336,7,NA,0.517027436922653,0.517027436922653,NA,NA
+2025-07-17,"C","1","Other crow #2","Foraging","",37,487.2,812.336,812.336,37,487.2,NA,NA,59.9751826830277,59.9751826830277
+2025-07-17,"C","1","Other crow #2","Resting","",2,45.84,812.336,812.336,2,45.84,NA,NA,5.64298516869867,5.64298516869867
+2025-07-17,"C","1","Other crow #2","Open mouth","",1,NA,812.336,812.336,1,NA,0.0738610624175218,0.0738610624175218,NA,NA
+2025-07-17,"C","1","Other crow #3","Foraging","Other crow #1",2,1,20.16,20.16,2,1,NA,NA,4.96031746031746,4.96031746031746
+2025-07-17,"C","1","Other crow #3","Foraging","",5,19.16,20.16,20.16,5,19.16,NA,NA,95.0396825396825,95.0396825396825
+2025-11-19,"C","1","No focal subject","Unclear video","",12,53.956,NA,NA,12,53.956,NA,NA,NA,NA
+2025-11-19,"C","1","Broken beak","Feed","Auto-|Unknown|None",1,NA,10.12,10.12,1,NA,5.92885375494071,5.92885375494071,NA,NA
+2025-11-19,"C","1","Broken beak","Foraging","",1,10.12,10.12,10.12,1,10.12,NA,NA,100,100
+2025-11-19,"C","1","Other crow #1","Preen","Auto-|None",1,23.28,362.238,362.238,1,23.28,NA,NA,6.42671392841171,6.42671392841171
+2025-11-19,"C","1","Other crow #1","Alert","",14,46.079,362.238,362.238,14,46.079,NA,NA,12.7206422296943,12.7206422296943
+2025-11-19,"C","1","Other crow #1","Feed","Auto-|Unknown|None",4,NA,362.238,362.238,4,NA,0.66254782767131,0.66254782767131,NA,NA
+2025-11-19,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",4,NA,362.238,362.238,4,NA,0.66254782767131,0.66254782767131,NA,NA
+2025-11-19,"C","1","Other crow #1","Feed","Auto-|Successful|None",3,NA,362.238,362.238,3,NA,0.496910870753482,0.496910870753482,NA,NA
+2025-11-19,"C","1","Other crow #1","Foraging","",23,272.639,362.238,362.238,23,272.639,NA,NA,75.265157161866,75.265157161866
+2025-11-19,"C","1","Other crow #1","Resting","",1,20.24,362.238,362.238,1,20.24,NA,NA,5.58748668002805,5.58748668002805
+2025-06-19,"BB","1","No focal subject","Unclear video","",6,11.9,NA,NA,15,29.258,NA,NA,NA,NA
+2025-06-19,"BB","1","Broken beak","Preen","Auto-|None",2,7.2,144.999,196.818,4,11.64,NA,NA,4.96555148656198,5.91409322318081
+2025-06-19,"BB","1","Broken beak","Alert","",2,24.12,144.999,196.818,2,24.12,NA,NA,16.6345974799826,12.2549766789623
+2025-06-19,"BB","1","Broken beak","Feed","Auto-|Successful|None",6,NA,144.999,196.818,7,NA,2.48277574328099,2.13395116300338,NA,NA
+2025-06-19,"BB","1","Broken beak","Feed","Auto-|Unknown|None",6,NA,144.999,196.818,26,NA,2.48277574328099,7.92610431972685,NA,NA
+2025-06-19,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,144.999,196.818,3,NA,1.24138787164049,0.914550498430022,NA,NA
+2025-06-19,"BB","1","Broken beak","Foraging","",7,113.679,144.999,196.818,20,160.258,NA,NA,78.3998510334554,81.4244632096658
+2025-06-19,"C","1","No focal subject","Close proximity","Other crow #1|Broken beak",1,0.2,NA,NA,1,0.2,NA,NA,NA,NA
+2025-06-19,"C","1","No focal subject","Unclear video","",6,6.518,NA,NA,15,29.258,NA,NA,NA,NA
+2025-06-19,"C","1","Broken beak","Preen","Auto-|None",2,4.44,6.18,196.818,4,11.64,NA,NA,71.8446601941748,5.91409322318081
+2025-06-19,"C","1","Broken beak","Foraging","",6,1.74,6.18,196.818,20,160.258,NA,NA,28.1553398058252,81.4244632096658
+2025-06-19,"C","1","Other crow #1","Preen","Auto-|None",1,5.04,28.16,387.388,6,16.44,NA,NA,17.8977272727273,4.24380724235134
+2025-06-19,"C","1","Other crow #1","Feed","Auto-|Unknown|None",1,NA,28.16,387.388,4,NA,2.13068181818182,0.619533903992896,NA,NA
+2025-06-19,"C","1","Other crow #1","Foraging","",2,5.6,28.16,387.388,11,245.071,NA,NA,19.8863636363636,63.2624139106013
+2025-06-19,"C","1","Other crow #1","Resting","",1,17.52,28.16,387.388,5,125.877,NA,NA,62.2159090909091,32.4937788470474
+2025-06-19,"C","2","No focal subject","Close proximity","Mutual|Mutual",6,45.64,NA,NA,6,45.64,NA,NA,NA,NA
+2025-06-19,"C","2","No focal subject","Unclear video","",3,10.84,NA,NA,15,29.258,NA,NA,NA,NA
+2025-06-19,"C","2","Broken beak","Preen","Auto-|Broken beak",1,0.8,45.639,196.818,1,0.8,NA,NA,1.75288678542475,0.406466888191121
+2025-06-19,"C","2","Broken beak","Feed","Auto-|Unknown|None",20,NA,45.639,196.818,26,NA,26.2933017813712,7.92610431972685,NA,NA
+2025-06-19,"C","2","Broken beak","Feed","Auto-|Successful|None",1,NA,45.639,196.818,7,NA,1.31466508906856,2.13395116300338,NA,NA
+2025-06-19,"C","2","Broken beak","Foraging","",7,44.839,45.639,196.818,20,160.258,NA,NA,98.2471132145753,81.4244632096658
+2025-06-19,"C","2","Other crow #1","Preen","Auto-|None",5,11.4,359.228,387.388,6,16.44,NA,NA,3.17347200106896,4.24380724235134
+2025-06-19,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",6,NA,359.228,387.388,6,NA,1.00214905296915,0.929300855989344,NA,NA
+2025-06-19,"C","2","Other crow #1","Feed","Auto-|Unknown|None",3,NA,359.228,387.388,4,NA,0.501074526484573,0.619533903992896,NA,NA
+2025-06-19,"C","2","Other crow #1","Foraging","",9,239.471,359.228,387.388,11,245.071,NA,NA,66.6626766287706,63.2624139106013
+2025-06-19,"C","2","Other crow #1","Resting","",4,108.357,359.228,387.388,5,125.877,NA,NA,30.1638513701605,32.4937788470474
+2025-09-19,"C","1","No focal subject","Close proximity","Mutual|Mutual",2,49.04,NA,NA,2,49.04,NA,NA,NA,NA
+2025-09-19,"C","1","No focal subject","Close proximity","Other crow #1|Broken beak",1,31.08,NA,NA,1,31.08,NA,NA,NA,NA
+2025-09-19,"C","1","No focal subject","Unclear video","",2,9.36,NA,NA,2,9.36,NA,NA,NA,NA
+2025-09-19,"C","1","Broken beak","Feed","Auto-|Unknown|None",15,NA,78.879,78.879,15,NA,11.4098809569087,11.4098809569087,NA,NA
+2025-09-19,"C","1","Broken beak","Feed","Auto-|Successful|None",10,NA,78.879,78.879,10,NA,7.60658730460579,7.60658730460579,NA,NA
+2025-09-19,"C","1","Broken beak","Feed","Auto-|Unsuccessful|None",5,NA,78.879,78.879,5,NA,3.80329365230289,3.80329365230289,NA,NA
+2025-09-19,"C","1","Broken beak","Foraging","",3,78.879,78.879,78.879,3,78.879,NA,NA,100,100
+2025-09-19,"C","1","Other crow #1","Preen","Auto-|None",1,7.76,655.417,655.417,1,7.76,NA,NA,1.18397905455611,1.18397905455611
+2025-09-19,"C","1","Other crow #1","Alert","",14,38.799,655.417,655.417,14,38.799,NA,NA,5.9197426981601,5.9197426981601
+2025-09-19,"C","1","Other crow #1","Vocal","",5,NA,655.417,655.417,5,NA,0.457723861297464,0.457723861297464,NA,NA
+2025-09-19,"C","1","Other crow #1","Feed","Auto-|Unknown|None",14,NA,655.417,655.417,14,NA,1.2816268116329,1.2816268116329,NA,NA
+2025-09-19,"C","1","Other crow #1","Feed","Auto-|Successful|None",36,NA,655.417,655.417,36,NA,3.29561180134174,3.29561180134174,NA,NA
+2025-09-19,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,655.417,655.417,3,NA,0.274634316778478,0.274634316778478,NA,NA
+2025-09-19,"C","1","Other crow #1","Foraging","",18,608.858,655.417,655.417,18,608.858,NA,NA,92.8962782472838,92.8962782472838
+2025-09-02,"C","1","No focal subject","Unclear video","",3,2.92,NA,NA,10,50.635,NA,NA,NA,NA
+2025-09-02,"C","1","Other crow #1","Preen","Auto-|None",2,8.56,251.637,486.156,3,12.68,NA,NA,3.40172550141672,2.60821629271263
+2025-09-02,"C","1","Other crow #1","Alert","",1,3.8,251.637,486.156,2,11.6,NA,NA,1.5101117880121,2.38606537819136
+2025-09-02,"C","1","Other crow #1","Feed","Auto-|Unknown|None",11,NA,251.637,486.156,14,NA,2.62282573707364,1.7278404462765,NA,NA
+2025-09-02,"C","1","Other crow #1","Feed","Auto-|Successful|None",13,NA,251.637,486.156,14,NA,3.0997031438143,1.7278404462765,NA,NA
+2025-09-02,"C","1","Other crow #1","Foraging","",7,239.277,251.637,486.156,15,461.876,NA,NA,95.0881627105712,95.005718329096
+2025-09-02,"C","2","No focal subject","Unclear video","",7,47.715,NA,NA,10,50.635,NA,NA,NA,NA
+2025-09-02,"C","2","Other crow #1","Preen","Auto-|None",1,4.12,234.519,486.156,3,12.68,NA,NA,1.75678729655167,2.60821629271263
+2025-09-02,"C","2","Other crow #1","Alert","",1,7.8,234.519,486.156,2,11.6,NA,NA,3.32595653230655,2.38606537819136
+2025-09-02,"C","2","Other crow #1","Feed","Auto-|Unknown|None",3,NA,234.519,486.156,14,NA,0.767528430532281,1.7278404462765,NA,NA
+2025-09-02,"C","2","Other crow #1","Feed","Auto-|Successful|None",1,NA,234.519,486.156,14,NA,0.255842810177427,1.7278404462765,NA,NA
+2025-09-02,"C","2","Other crow #1","Foraging","",8,222.599,234.519,486.156,15,461.876,NA,NA,94.9172561711418,95.005718329096
+2025-11-20,"BB","1","No focal subject","Unclear video","",15,25.88,NA,NA,20,45.464,NA,NA,NA,NA
+2025-11-20,"BB","1","Broken beak","Feed","Auto-|Unknown|None",19,NA,222.32,250.6,27,NA,5.1277437927312,6.46448523543496,NA,NA
+2025-11-20,"BB","1","Broken beak","Feed","Auto-|Successful|None",27,NA,222.32,250.6,28,NA,7.28679381072328,6.70391061452514,NA,NA
+2025-11-20,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",20,NA,222.32,250.6,21,NA,5.39762504498021,5.02793296089385,NA,NA
+2025-11-20,"BB","1","Broken beak","Foraging","",15,222.32,222.32,250.6,17,250.6,NA,NA,100,100
+2025-11-20,"BB","2","No focal subject","Unclear video","",3,15.44,NA,NA,20,45.464,NA,NA,NA,NA
+2025-11-20,"BB","2","Broken beak","Feed","Auto-|Unknown|None",8,NA,28.28,250.6,27,NA,16.973125884017,6.46448523543496,NA,NA
+2025-11-20,"BB","2","Broken beak","Feed","Auto-|Successful|None",1,NA,28.28,250.6,28,NA,2.12164073550212,6.70391061452514,NA,NA
+2025-11-20,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",1,NA,28.28,250.6,21,NA,2.12164073550212,5.02793296089385,NA,NA
+2025-11-20,"BB","2","Broken beak","Foraging","",2,28.28,28.28,250.6,17,250.6,NA,NA,100,100
+2025-11-20,"C","1","No focal subject","Unclear video","",2,4.144,NA,NA,20,45.464,NA,NA,NA,NA
+2025-11-20,"C","1","Other crow #1","Preen","Auto-|None",2,13.36,128.4,128.4,2,13.36,NA,NA,10.404984423676,10.404984423676
+2025-11-20,"C","1","Other crow #1","Alert","",1,4,128.4,128.4,1,4,NA,NA,3.11526479750779,3.11526479750779
+2025-11-20,"C","1","Other crow #1","Resting","",3,111.04,128.4,128.4,3,111.04,NA,NA,86.4797507788162,86.4797507788162
+2025-06-20,"BB","1","No focal subject","Unclear video","",1,0.84,NA,NA,15,46.738,NA,NA,NA,NA
+2025-06-20,"BB","1","Broken beak","Preen","Auto-|None",3,23.119,170.999,170.999,3,23.119,NA,NA,13.5199621050416,13.5199621050416
+2025-06-20,"BB","1","Broken beak","Alert","",4,25.72,170.999,170.999,4,25.72,NA,NA,15.0410236317171,15.0410236317171
+2025-06-20,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,170.999,170.999,3,NA,1.05263773472359,1.05263773472359,NA,NA
+2025-06-20,"BB","1","Broken beak","Feed","Auto-|Successful|None",1,NA,170.999,170.999,1,NA,0.350879244907865,0.350879244907865,NA,NA
+2025-06-20,"BB","1","Broken beak","Feed","Auto-|Unknown|None",3,NA,170.999,170.999,3,NA,1.05263773472359,1.05263773472359,NA,NA
+2025-06-20,"BB","1","Broken beak","Foraging","",6,122.16,170.999,170.999,6,122.16,NA,NA,71.4390142632413,71.4390142632413
+2025-06-20,"C","1","No focal subject","Unclear video","",2,6.82,NA,NA,15,46.738,NA,NA,NA,NA
+2025-06-20,"C","1","Other crow #1","Preen","Auto-|None",1,69.72,240.439,592.239,2,71.88,NA,NA,28.9969597278312,12.1369919914089
+2025-06-20,"C","1","Other crow #1","Alert","",1,6.24,240.439,592.239,3,14.52,NA,NA,2.59525284999522,2.45171290644486
+2025-06-20,"C","1","Other crow #1","Feed","Auto-|Unknown|None",7,NA,240.439,592.239,30,NA,1.7468048028814,3.03931352038619,NA,NA
+2025-06-20,"C","1","Other crow #1","Feed","Auto-|Successful|None",2,NA,240.439,592.239,19,NA,0.499087086537542,1.92489856291126,NA,NA
+2025-06-20,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,240.439,592.239,2,NA,0.249543543268771,0.20262090135908,NA,NA
+2025-06-20,"C","1","Other crow #1","Foraging","",3,138.479,240.439,592.239,14,479.839,NA,NA,57.5942338805269,81.0211755726995
+2025-06-20,"C","1","Other crow #1","Resting","",1,26,240.439,592.239,1,26,NA,NA,10.8135535416467,4.39011952944673
+2025-06-20,"C","2","No focal subject","Unclear video","",3,6.45,NA,NA,15,46.738,NA,NA,NA,NA
+2025-06-20,"C","2","Other crow #1","Preen","Auto-|None",1,2.16,33.44,592.239,2,71.88,NA,NA,6.45933014354067,12.1369919914089
+2025-06-20,"C","2","Other crow #1","Alert","",1,6.92,33.44,592.239,3,14.52,NA,NA,20.6937799043062,2.45171290644486
+2025-06-20,"C","2","Other crow #1","Feed","Auto-|Unknown|None",1,NA,33.44,592.239,30,NA,1.79425837320574,3.03931352038619,NA,NA
+2025-06-20,"C","2","Other crow #1","Foraging","",3,24.36,33.44,592.239,14,479.839,NA,NA,72.8468899521531,81.0211755726995
+2025-06-20,"C","3","No focal subject","Unclear video","",4,10.42,NA,NA,15,46.738,NA,NA,NA,NA
+2025-06-20,"C","3","Other crow #1","Feed","Auto-|Successful|None",13,NA,222.44,592.239,19,NA,3.50656356770365,1.92489856291126,NA,NA
+2025-06-20,"C","3","Other crow #1","Feed","Auto-|Unknown|None",15,NA,222.44,592.239,30,NA,4.0460348858119,3.03931352038619,NA,NA
+2025-06-20,"C","3","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,222.44,592.239,2,NA,0.269735659054127,0.20262090135908,NA,NA
+2025-06-20,"C","3","Other crow #1","Foraging","",3,222.44,222.44,592.239,14,479.839,NA,NA,100,81.0211755726995
+2025-06-20,"C","4","No focal subject","Unclear video","",5,22.208,NA,NA,15,46.738,NA,NA,NA,NA
+2025-06-20,"C","4","Other crow #1","Alert","",1,1.36,95.92,592.239,3,14.52,NA,NA,1.41784820683903,2.45171290644486
+2025-06-20,"C","4","Other crow #1","Feed","Auto-|Unknown|None",7,NA,95.92,592.239,30,NA,4.37864887406172,3.03931352038619,NA,NA
+2025-06-20,"C","4","Other crow #1","Feed","Auto-|Successful|None",4,NA,95.92,592.239,19,NA,2.50208507089241,1.92489856291126,NA,NA
+2025-06-20,"C","4","Other crow #1","Foraging","",5,94.56,95.92,592.239,14,479.839,NA,NA,98.582151793161,81.0211755726995
+2025-08-21,"BB","1","No focal subject","Unclear video","",11,10.504,NA,NA,63,276.74,NA,NA,NA,NA
+2025-08-21,"BB","1","Broken beak","Preen","Auto-|None",1,2.36,699.92,2485.759,2,6.28,NA,NA,0.337181392159104,0.252639133560414
+2025-08-21,"BB","1","Broken beak","Alert","",2,15.52,699.92,2485.759,6,28.68,NA,NA,2.21739627385987,1.15377234880775
+2025-08-21,"BB","1","Broken beak","Vocal","",1,NA,699.92,2485.759,1,NA,0.0857240827523146,0.0241374968369822,NA,NA
+2025-08-21,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",19,NA,699.92,2485.759,41,NA,1.62875757229398,0.98963737031627,NA,NA
+2025-08-21,"BB","1","Broken beak","Feed","Auto-|Unknown|None",13,NA,699.92,2485.759,114,NA,1.11441307578009,2.75167463941597,NA,NA
+2025-08-21,"BB","1","Broken beak","Feed","Auto-|Successful|None",3,NA,699.92,2485.759,102,NA,0.257172248256944,2.46202467737218,NA,NA
+2025-08-21,"BB","1","Broken beak","Foraging","",20,265.76,699.92,2485.759,77,2034.519,NA,NA,37.9700537204252,81.8469932121336
+2025-08-21,"BB","1","Broken beak","Resting","",8,416.28,699.92,2485.759,8,416.28,NA,NA,59.4753686135558,16.7465953054982
+2025-08-21,"BB","2","No focal subject","Close proximity","Mutual|Mutual",4,25.24,NA,NA,5,50.439,NA,NA,NA,NA
+2025-08-21,"BB","2","No focal subject","Close proximity","Other crow #1|Broken beak",5,74.678,NA,NA,6,93.358,NA,NA,NA,NA
+2025-08-21,"BB","2","No focal subject","Close proximity","Broken beak|Other crow #1",2,39.52,NA,NA,2,39.52,NA,NA,NA,NA
+2025-08-21,"BB","2","No focal subject","Within 5m","Other crow #1|Broken beak",2,10.8,NA,NA,2,10.8,NA,NA,NA,NA
+2025-08-21,"BB","2","No focal subject","Within 5m","Mutual|Mutual",5,263.76,NA,NA,8,344.439,NA,NA,NA,NA
+2025-08-21,"BB","2","No focal subject","Within 5m","Broken beak|Other crow #1",1,23.32,NA,NA,1,23.32,NA,NA,NA,NA
+2025-08-21,"BB","2","No focal subject","Unclear video","",44,241.597,NA,NA,63,276.74,NA,NA,NA,NA
+2025-08-21,"BB","2","Broken beak","Preen","Auto-|None",1,3.92,1655.399,2485.759,2,6.28,NA,NA,0.236800916274566,0.252639133560414
+2025-08-21,"BB","2","Broken beak","Alert","",3,9.08,1655.399,2485.759,6,28.68,NA,NA,0.548508244840066,1.15377234880775
+2025-08-21,"BB","2","Broken beak","Feed","Auto-|Successful|None",90,NA,1655.399,2485.759,102,NA,3.26205343847616,2.46202467737218,NA,NA
+2025-08-21,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",19,NA,1655.399,2485.759,41,NA,0.688655725900523,0.98963737031627,NA,NA
+2025-08-21,"BB","2","Broken beak","Feed","Auto-|Unknown|None",95,NA,1655.399,2485.759,114,NA,3.44327862950262,2.75167463941597,NA,NA
+2025-08-21,"BB","2","Broken beak","Foraging","",49,1642.399,1655.399,2485.759,77,2034.519,NA,NA,99.2146908388854,81.8469932121336
+2025-08-21,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",9,NA,336.961,671.081,28,NA,1.60255934663062,2.50342358076,NA,NA
+2025-08-21,"BB","2","Other crow #1","Feed","Auto-|Successful|None",21,NA,336.961,671.081,31,NA,3.73930514213811,2.77164753584143,NA,NA
+2025-08-21,"BB","2","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,336.961,671.081,5,NA,0.356124299251249,0.447039925135714,NA,NA
+2025-08-21,"BB","2","Other crow #1","Foraging","",28,336.961,336.961,671.081,39,662.761,NA,NA,100,98.7602092742903
+2025-08-21,"BB","3","No focal subject","Close proximity","Other crow #1|Broken beak",1,18.68,NA,NA,6,93.358,NA,NA,NA,NA
+2025-08-21,"BB","3","No focal subject","Close proximity","Mutual|Mutual",1,25.199,NA,NA,5,50.439,NA,NA,NA,NA
+2025-08-21,"BB","3","No focal subject","Within 5m","Mutual|Mutual",3,80.679,NA,NA,8,344.439,NA,NA,NA,NA
+2025-08-21,"BB","3","No focal subject","Unclear video","",8,24.639,NA,NA,63,276.74,NA,NA,NA,NA
+2025-08-21,"BB","3","Broken beak","Alert","",1,4.08,130.44,2485.759,6,28.68,NA,NA,3.1278748850046,1.15377234880775
+2025-08-21,"BB","3","Broken beak","Feed","Auto-|Unknown|None",6,NA,130.44,2485.759,114,NA,2.75988960441582,2.75167463941597,NA,NA
+2025-08-21,"BB","3","Broken beak","Feed","Auto-|Successful|None",9,NA,130.44,2485.759,102,NA,4.13983440662374,2.46202467737218,NA,NA
+2025-08-21,"BB","3","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,130.44,2485.759,41,NA,1.37994480220791,0.98963737031627,NA,NA
+2025-08-21,"BB","3","Broken beak","Foraging","",8,126.36,130.44,2485.759,77,2034.519,NA,NA,96.8721251149954,81.8469932121336
+2025-08-21,"BB","3","Other crow #1","Preen","Auto-|None",1,8.32,334.12,671.081,1,8.32,NA,NA,2.49012330899078,1.23979072570971
+2025-08-21,"BB","3","Other crow #1","Feed","Auto-|Successful|None",10,NA,334.12,671.081,31,NA,1.79576200167604,2.77164753584143,NA,NA
+2025-08-21,"BB","3","Other crow #1","Feed","Auto-|Unknown|None",19,NA,334.12,671.081,28,NA,3.41194780318448,2.50342358076,NA,NA
+2025-08-21,"BB","3","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,334.12,671.081,5,NA,0.538728600502813,0.447039925135714,NA,NA
+2025-08-21,"BB","3","Other crow #1","Foraging","",11,325.8,334.12,671.081,39,662.761,NA,NA,97.5098766910092,98.7602092742903
+2025-07-22,"C","1","No focal subject","Close proximity","Mutual|Mutual",2,76.36,NA,NA,2,76.36,NA,NA,NA,NA
+2025-07-22,"C","1","No focal subject","Close proximity","Other crow #2|Broken beak",1,193.639,NA,NA,1,193.639,NA,NA,NA,NA
+2025-07-22,"C","1","No focal subject","Close proximity","Other crow #1|Broken beak",2,65.24,NA,NA,2,65.24,NA,NA,NA,NA
+2025-07-22,"C","1","No focal subject","Within 5m","Mutual|Mutual",2,111.798,NA,NA,2,111.798,NA,NA,NA,NA
+2025-07-22,"C","1","No focal subject","Begging session","Broken beak,Other crow #1",4,38.24,NA,NA,4,38.24,NA,NA,NA,NA
+2025-07-22,"C","1","No focal subject","Unclear video","",17,48.4,NA,NA,17,48.4,NA,NA,NA,NA
+2025-07-22,"C","1","Broken beak","Feed","Auto-|Unknown|None",1,NA,94.197,94.197,1,NA,0.636962960603841,0.636962960603841,NA,NA
+2025-07-22,"C","1","Broken beak","Foraging","",5,39.839,94.197,94.197,5,39.839,NA,NA,42.2932789791607,42.2932789791607
+2025-07-22,"C","1","Broken beak","Resting","",4,16.118,94.197,94.197,4,16.118,NA,NA,17.1109483316878,17.1109483316878
+2025-07-22,"C","1","Broken beak","Present head","",4,38.242,94.197,94.197,4,38.242,NA,NA,40.5978958990201,40.5978958990201
+2025-07-22,"C","1","Other crow #1","Preen","Auto-|None",4,22.24,1315.474,1315.474,4,22.24,NA,NA,1.69064534912891,1.69064534912891
+2025-07-22,"C","1","Other crow #1","Preen","Allo-|Broken beak",3,90.2,1315.474,1315.474,3,90.2,NA,NA,6.8568439969167,6.8568439969167
+2025-07-22,"C","1","Other crow #1","Alert","",6,21.439,1315.474,1315.474,6,21.439,NA,NA,1.62975474999886,1.62975474999886
+2025-07-22,"C","1","Other crow #1","Vocal","",1,NA,1315.474,1315.474,1,NA,0.0456109356779381,0.0456109356779381,NA,NA
+2025-07-22,"C","1","Other crow #1","Feed","Auto-|Unknown|None",5,NA,1315.474,1315.474,5,NA,0.228054678389691,0.228054678389691,NA,NA
+2025-07-22,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,1315.474,1315.474,3,NA,0.136832807033814,0.136832807033814,NA,NA
+2025-07-22,"C","1","Other crow #1","Feed","Auto-|Successful|None",7,NA,1315.474,1315.474,7,NA,0.319276549745567,0.319276549745567,NA,NA
+2025-07-22,"C","1","Other crow #1","Foraging","",23,537.636,1315.474,1315.474,23,537.636,NA,NA,40.8701350235732,40.8701350235732
+2025-07-22,"C","1","Other crow #1","Resting","",8,605.719,1315.474,1315.474,8,605.719,NA,NA,46.045683913175,46.045683913175
+2025-07-22,"C","1","Other crow #1","Open mouth","",1,NA,1315.474,1315.474,1,NA,0.0456109356779381,0.0456109356779381,NA,NA
+2025-07-22,"C","1","Other crow #2","Preen","Auto-|None",4,70.84,190.399,190.399,4,70.84,NA,NA,37.2060777630135,37.2060777630135
+2025-07-22,"C","1","Other crow #2","Preen","Allo-|Broken beak",2,8.56,190.399,190.399,2,8.56,NA,NA,4.49582193183788,4.49582193183788
+2025-07-22,"C","1","Other crow #2","Alert","",1,7.08,190.399,190.399,1,7.08,NA,NA,3.71850692493133,3.71850692493133
+2025-07-22,"C","1","Other crow #2","Feed","Auto-|Unknown|None",2,NA,190.399,190.399,2,NA,0.63025541100531,0.63025541100531,NA,NA
+2025-07-22,"C","1","Other crow #2","Foraging","",6,73.639,190.399,190.399,6,73.639,NA,NA,38.6761485091833,38.6761485091833
+2025-07-22,"C","1","Other crow #2","Resting","",1,30.28,190.399,190.399,1,30.28,NA,NA,15.903444871034,15.903444871034
+2025-05-23,"BB","1","No focal subject","Unclear video","",3,25.1,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","1","Broken beak","Vocal","",7,NA,130.96,1059.548,32,NA,3.20708613317043,1.81209345872013,NA,NA
+2025-05-23,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",10,NA,130.96,1059.548,59,NA,4.58155161881491,3.34104731451525,NA,NA
+2025-05-23,"BB","1","Broken beak","Feed","Auto-|Unknown|None",5,NA,130.96,1059.548,18,NA,2.29077580940745,1.01930257053008,NA,NA
+2025-05-23,"BB","1","Broken beak","Feed","Auto-|Successful|None",1,NA,130.96,1059.548,29,NA,0.458155161881491,1.64220969696512,NA,NA
+2025-05-23,"BB","1","Broken beak","Foraging","",3,130.96,130.96,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"BB","2","No focal subject","Close proximity","Mutual|Mutual",1,4.96,NA,NA,5,56.679,NA,NA,NA,NA
+2025-05-23,"BB","2","No focal subject","Unclear video","",3,24.38,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","2","Broken beak","Foraging","",3,25.119,25.119,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"BB","2","Other crow #1","Foraging","",1,4.96,4.96,806.291,40,661.877,NA,NA,100,82.0890968645315
+2025-05-23,"BB","3","No focal subject","Close proximity","Other crow #1|Broken beak",1,12.16,NA,NA,2,54.12,NA,NA,NA,NA
+2025-05-23,"BB","3","No focal subject","Close proximity","Broken beak|Other crow #1",1,14.32,NA,NA,1,14.32,NA,NA,NA,NA
+2025-05-23,"BB","3","No focal subject","Unclear video","",2,6.944,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","3","Broken beak","Feed","Auto-|Unknown|None",1,NA,29.589,1059.548,18,NA,2.02778059413971,1.01930257053008,NA,NA
+2025-05-23,"BB","3","Broken beak","Foraging","",2,29.589,29.589,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"BB","3","Other crow #1","Preen","Auto-|None",1,3.4,26.28,806.291,4,16.8,NA,NA,12.937595129376,2.08361497275797
+2025-05-23,"BB","3","Other crow #1","Feed","Auto-|Successful|None",4,NA,26.28,806.291,30,NA,9.1324200913242,2.23244461366926,NA,NA
+2025-05-23,"BB","3","Other crow #1","Feed","Auto-|Unknown|None",3,NA,26.28,806.291,26,NA,6.84931506849315,1.93478533184669,NA,NA
+2025-05-23,"BB","3","Other crow #1","Foraging","",2,22.88,26.28,806.291,40,661.877,NA,NA,87.0624048706241,82.0890968645315
+2025-05-23,"BB","4","No focal subject","Unclear video","",1,3.064,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","4","Broken beak","Alert","",1,1.28,183.24,1059.548,6,62.96,NA,NA,0.698537437240777,5.94215646671977
+2025-05-23,"BB","4","Broken beak","Feed","Auto-|Successful|None",7,NA,183.24,1059.548,29,NA,2.2920759659463,1.64220969696512,NA,NA
+2025-05-23,"BB","4","Broken beak","Feed","Auto-|Unsuccessful|None",9,NA,183.24,1059.548,59,NA,2.94695481335953,3.34104731451525,NA,NA
+2025-05-23,"BB","4","Broken beak","Feed","Auto-|Unknown|None",6,NA,183.24,1059.548,18,NA,1.96463654223969,1.01930257053008,NA,NA
+2025-05-23,"BB","4","Broken beak","Foraging","",2,181.96,183.24,1059.548,33,996.588,NA,NA,99.3014625627592,94.0578435332802
+2025-05-23,"BB","5","No focal subject","Unclear video","",1,1.7,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","5","Broken beak","Alert","",3,43.52,109.24,1059.548,6,62.96,NA,NA,39.838886854632,5.94215646671977
+2025-05-23,"BB","5","Broken beak","Feed","Auto-|Unknown|None",3,NA,109.24,1059.548,18,NA,1.64774807762724,1.01930257053008,NA,NA
+2025-05-23,"BB","5","Broken beak","Feed","Auto-|Unsuccessful|None",5,NA,109.24,1059.548,59,NA,2.7462467960454,3.34104731451525,NA,NA
+2025-05-23,"BB","5","Broken beak","Feed","Auto-|Successful|None",3,NA,109.24,1059.548,29,NA,1.64774807762724,1.64220969696512,NA,NA
+2025-05-23,"BB","5","Broken beak","Foraging","",3,65.72,109.24,1059.548,33,996.588,NA,NA,60.161113145368,94.0578435332802
+2025-05-23,"BB","6","No focal subject","Unclear video","",4,9.339,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","6","Broken beak","Alert","",1,8.52,98.72,1059.548,6,62.96,NA,NA,8.63047001620745,5.94215646671977
+2025-05-23,"BB","6","Broken beak","Feed","Auto-|Unknown|None",1,NA,98.72,1059.548,18,NA,0.607779578606159,1.01930257053008,NA,NA
+2025-05-23,"BB","6","Broken beak","Feed","Auto-|Successful|None",6,NA,98.72,1059.548,29,NA,3.64667747163695,1.64220969696512,NA,NA
+2025-05-23,"BB","6","Broken beak","Feed","Auto-|Unsuccessful|None",5,NA,98.72,1059.548,59,NA,3.03889789303079,3.34104731451525,NA,NA
+2025-05-23,"BB","6","Broken beak","Foraging","",4,90.2,98.72,1059.548,33,996.588,NA,NA,91.3695299837925,94.0578435332802
+2025-05-23,"BB","7","No focal subject","Unclear video","",2,5.215,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","7","Broken beak","Foraging","",2,47.64,47.64,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"BB","8","No focal subject","Unclear video","",4,10.38,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","8","Broken beak","Vocal","",25,NA,330,1059.548,32,NA,4.54545454545455,1.81209345872013,NA,NA
+2025-05-23,"BB","8","Broken beak","Feed","Auto-|Successful|None",12,NA,330,1059.548,29,NA,2.18181818181818,1.64220969696512,NA,NA
+2025-05-23,"BB","8","Broken beak","Feed","Auto-|Unsuccessful|None",30,NA,330,1059.548,59,NA,5.45454545454546,3.34104731451525,NA,NA
+2025-05-23,"BB","8","Broken beak","Feed","Auto-|Unknown|None",1,NA,330,1059.548,18,NA,0.181818181818182,1.01930257053008,NA,NA
+2025-05-23,"BB","8","Broken beak","Foraging","",4,330,330,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"BB","9","No focal subject","Close proximity","Mutual|Mutual",1,20.16,NA,NA,5,56.679,NA,NA,NA,NA
+2025-05-23,"BB","9","No focal subject","Unclear video","",1,1.144,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"BB","9","Broken beak","Alert","",1,9.64,42.12,1059.548,6,62.96,NA,NA,22.8869895536562,5.94215646671977
+2025-05-23,"BB","9","Broken beak","Foraging","",1,32.48,42.12,1059.548,33,996.588,NA,NA,77.1130104463438,94.0578435332802
+2025-05-23,"BB","9","Other crow #1","Feed","Auto-|Successful|None",1,NA,20.16,806.291,30,NA,2.97619047619048,2.23244461366926,NA,NA
+2025-05-23,"BB","9","Other crow #1","Foraging","",1,20.16,20.16,806.291,40,661.877,NA,NA,100,82.0890968645315
+2025-05-23,"BB","9","Other crow #2","Foraging","",1,18.56,18.56,87.278,6,87.278,NA,NA,100,100
+2025-05-23,"C","1","No focal subject","Unclear video","",16,134.639,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"C","1","Other crow #1","Alert","",4,40.439,208.558,806.291,7,56.279,NA,NA,19.3898100288649,6.97998613403846
+2025-05-23,"C","1","Other crow #1","Feed","Auto-|Successful|None",3,NA,208.558,806.291,30,NA,0.863069266103434,2.23244461366926,NA,NA
+2025-05-23,"C","1","Other crow #1","Feed","Auto-|Unknown|None",12,NA,208.558,806.291,26,NA,3.45227706441374,1.93478533184669,NA,NA
+2025-05-23,"C","1","Other crow #1","Foraging","",18,168.119,208.558,806.291,40,661.877,NA,NA,80.6101899711351,82.0890968645315
+2025-05-23,"C","2","No focal subject","Close proximity","Mutual|Mutual",3,31.559,NA,NA,5,56.679,NA,NA,NA,NA
+2025-05-23,"C","2","No focal subject","Close proximity","Other crow #1|Broken beak",1,41.96,NA,NA,2,54.12,NA,NA,NA,NA
+2025-05-23,"C","2","No focal subject","Unclear video","",7,31.429,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"C","2","Broken beak","Feed","Auto-|Unknown|None",1,NA,56.12,1059.548,18,NA,1.06913756236636,1.01930257053008,NA,NA
+2025-05-23,"C","2","Broken beak","Foraging","",7,56.12,56.12,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"C","2","Other crow #1","Preen","Auto-|None",3,13.4,188.398,806.291,4,16.8,NA,NA,7.11260204460769,2.08361497275797
+2025-05-23,"C","2","Other crow #1","Feed","Auto-|Successful|None",13,NA,188.398,806.291,30,NA,4.14017133939851,2.23244461366926,NA,NA
+2025-05-23,"C","2","Other crow #1","Feed","Auto-|Unknown|None",6,NA,188.398,806.291,26,NA,1.91084831049162,1.93478533184669,NA,NA
+2025-05-23,"C","2","Other crow #1","Foraging","",8,174.998,188.398,806.291,40,661.877,NA,NA,92.8873979553923,82.0890968645315
+2025-05-23,"C","3","No focal subject","Unclear video","",3,8.6,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"C","3","Other crow #1","Alert","",2,6.72,62.4,806.291,7,56.279,NA,NA,10.7692307692308,6.97998613403846
+2025-05-23,"C","3","Other crow #1","Feed","Auto-|Successful|None",2,NA,62.4,806.291,30,NA,1.92307692307692,2.23244461366926,NA,NA
+2025-05-23,"C","3","Other crow #1","Feed","Auto-|Unknown|None",1,NA,62.4,806.291,26,NA,0.961538461538462,1.93478533184669,NA,NA
+2025-05-23,"C","3","Other crow #1","Foraging","",4,55.68,62.4,806.291,40,661.877,NA,NA,89.2307692307692,82.0890968645315
+2025-05-23,"C","4","Other crow #1","Brief flight","",2,2.64,97.9,806.291,3,6,NA,NA,2.69662921348315,0.74414820455642
+2025-05-23,"C","4","Other crow #1","Feed","Auto-|Successful|None",3,NA,97.9,806.291,30,NA,1.83861082737487,2.23244461366926,NA,NA
+2025-05-23,"C","4","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,97.9,806.291,3,NA,1.83861082737487,0.223244461366926,NA,NA
+2025-05-23,"C","4","Other crow #1","Foraging","",2,63.12,97.9,806.291,40,661.877,NA,NA,64.4739530132789,82.0890968645315
+2025-05-23,"C","4","Other crow #1","Resting","",1,32.14,97.9,806.291,2,65.335,NA,NA,32.829417773238,8.10315382411561
+2025-05-23,"C","5","No focal subject","Unclear video","",8,21.435,NA,NA,55,283.369,NA,NA,NA,NA
+2025-05-23,"C","5","Broken beak","Foraging","",2,6.8,6.8,1059.548,33,996.588,NA,NA,100,94.0578435332802
+2025-05-23,"C","5","Other crow #1","Feed","Auto-|Unknown|None",2,NA,10.92,806.291,26,NA,10.989010989011,1.93478533184669,NA,NA
+2025-05-23,"C","5","Other crow #1","Foraging","",2,10.92,10.92,806.291,40,661.877,NA,NA,100,82.0890968645315
+2025-05-23,"C","5","Other crow #2","Feed","Auto-|Unknown|None",9,NA,68.718,87.278,9,NA,7.85820309089322,6.18712619445908,NA,NA
+2025-05-23,"C","5","Other crow #2","Feed","Auto-|Successful|None",1,NA,68.718,87.278,1,NA,0.873133676765913,0.687458466051009,NA,NA
+2025-05-23,"C","5","Other crow #2","Foraging","",5,68.718,68.718,87.278,6,87.278,NA,NA,100,100
+2025-05-23,"C","6","Other crow #1","Brief flight","",1,3.36,186.715,806.291,3,6,NA,NA,1.7995340492194,0.74414820455642
+2025-05-23,"C","6","Other crow #1","Alert","",1,9.12,186.715,806.291,7,56.279,NA,NA,4.88444956216694,6.97998613403846
+2025-05-23,"C","6","Other crow #1","Feed","Auto-|Successful|None",4,NA,186.715,806.291,30,NA,1.28538146372814,2.23244461366926,NA,NA
+2025-05-23,"C","6","Other crow #1","Feed","Auto-|Unknown|None",2,NA,186.715,806.291,26,NA,0.642690731864071,1.93478533184669,NA,NA
+2025-05-23,"C","6","Other crow #1","Foraging","",2,141.04,186.715,806.291,40,661.877,NA,NA,75.5375840184238,82.0890968645315
+2025-05-23,"C","6","Other crow #1","Resting","",1,33.195,186.715,806.291,2,65.335,NA,NA,17.7784323701899,8.10315382411561
+2025-10-24,"BB","1","No focal subject","Close proximity","Other crow #1|Broken beak",1,26.119,NA,NA,1,26.119,NA,NA,NA,NA
+2025-10-24,"BB","1","No focal subject","Close proximity","Mutual|Mutual",2,3.88,NA,NA,2,3.88,NA,NA,NA,NA
+2025-10-24,"BB","1","No focal subject","Unclear video","",8,89.435,NA,NA,15,126.714,NA,NA,NA,NA
+2025-10-24,"BB","1","Broken beak","Alert","",1,0.88,115.519,296.757,1,0.88,NA,NA,0.761779447536769,0.296538919048245
+2025-10-24,"BB","1","Broken beak","Vocal","",2,NA,115.519,296.757,2,NA,1.03879015573196,0.404371253247607,NA,NA
+2025-10-24,"BB","1","Broken beak","Feed","Auto-|Unknown|None",16,NA,115.519,296.757,32,NA,8.31032124585566,6.46994005196171,NA,NA
+2025-10-24,"BB","1","Broken beak","Feed","Auto-|Successful|None",4,NA,115.519,296.757,12,NA,2.07758031146391,2.42622751948564,NA,NA
+2025-10-24,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",5,NA,115.519,296.757,29,NA,2.59697538932989,5.8633831720903,NA,NA
+2025-10-24,"BB","1","Broken beak","Foraging","",7,88.519,115.519,296.757,13,269.757,NA,NA,76.627221496031,90.9016468019288
+2025-10-24,"BB","1","Broken beak","Resting","",1,26.12,115.519,296.757,1,26.12,NA,NA,22.6109990564323,8.8018142790229
+2025-10-24,"BB","1","Other crow #1","Feed","Auto-|Successful|None",2,NA,30.001,41,2,NA,3.99986667111096,2.92682926829268,NA,NA
+2025-10-24,"BB","1","Other crow #1","Feed","Auto-|Unknown|None",4,NA,30.001,41,4,NA,7.99973334222193,5.85365853658537,NA,NA
+2025-10-24,"BB","1","Other crow #1","Foraging","",3,30.001,30.001,41,6,41,NA,NA,100,100
+2025-10-24,"BB","2","No focal subject","Unclear video","",1,7.304,NA,NA,15,126.714,NA,NA,NA,NA
+2025-10-24,"BB","2","Broken beak","Foraging","",1,54.199,54.199,296.757,13,269.757,NA,NA,100,90.9016468019288
+2025-10-24,"BB","3","No focal subject","Within 5m","Mutual|Mutual",1,8.6,NA,NA,1,8.6,NA,NA,NA,NA
+2025-10-24,"BB","3","No focal subject","Unclear video","",6,29.975,NA,NA,15,126.714,NA,NA,NA,NA
+2025-10-24,"BB","3","Broken beak","Feed","Auto-|Unknown|None",16,NA,127.039,296.757,32,NA,7.55673454608427,6.46994005196171,NA,NA
+2025-10-24,"BB","3","Broken beak","Feed","Auto-|Unsuccessful|None",24,NA,127.039,296.757,29,NA,11.3351018191264,5.8633831720903,NA,NA
+2025-10-24,"BB","3","Broken beak","Feed","Auto-|Successful|None",8,NA,127.039,296.757,12,NA,3.77836727304214,2.42622751948564,NA,NA
+2025-10-24,"BB","3","Broken beak","Foraging","",5,127.039,127.039,296.757,13,269.757,NA,NA,100,90.9016468019288
+2025-10-24,"BB","3","Other crow #1","Foraging","",3,10.999,10.999,41,6,41,NA,NA,100,100
+2025-07-24,"BB","1","No focal subject","Close proximity","Mutual|Mutual",7,158.76,NA,NA,8,169.88,NA,NA,NA,NA
+2025-07-24,"BB","1","No focal subject","Close proximity","Other crow #2|Broken beak",1,14.88,NA,NA,1,14.88,NA,NA,NA,NA
+2025-07-24,"BB","1","No focal subject","Close proximity","Other crow #1|Broken beak",1,21.799,NA,NA,4,151.839,NA,NA,NA,NA
+2025-07-24,"BB","1","No focal subject","Close proximity","Broken beak|Other crow #1",1,9.16,NA,NA,1,9.16,NA,NA,NA,NA
+2025-07-24,"BB","1","No focal subject","Within 5m","Mutual|Mutual",8,1058.921,NA,NA,10,1336.481,NA,NA,NA,NA
+2025-07-24,"BB","1","No focal subject","Within 5m","Broken beak|Other crow #1",1,501.08,NA,NA,1,501.08,NA,NA,NA,NA
+2025-07-24,"BB","1","No focal subject","Unclear video","",54,188.4,NA,NA,72,233.719,NA,NA,NA,NA
+2025-07-24,"BB","1","Broken beak","Preen","Auto-|None",4,40.48,2610.475,3321.363,5,50.72,NA,NA,1.55067564332162,1.52708391103291
+2025-07-24,"BB","1","Broken beak","Alert","",13,88.68,2610.475,3321.363,16,111.88,NA,NA,3.39708290636762,3.3684966081696
+2025-07-24,"BB","1","Broken beak","Feed","Auto-|Successful|None",39,NA,2610.475,3321.363,69,NA,0.896388588283741,1.24647622075636,NA,NA
+2025-07-24,"BB","1","Broken beak","Feed","Auto-|Unknown|None",56,NA,2610.475,3321.363,85,NA,1.28712207548435,1.53551418498972,NA,NA
+2025-07-24,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",75,NA,2610.475,3321.363,125,NA,1.72382420823796,2.25810909557311,NA,NA
+2025-07-24,"BB","1","Broken beak","Foraging","",79,1856.195,2610.475,3321.363,101,2479.044,NA,NA,71.1056416935615,74.639357396346
+2025-07-24,"BB","1","Broken beak","Resting","",7,625.12,2610.475,3321.363,9,679.719,NA,NA,23.9465997567493,20.4650620844515
+2025-07-24,"BB","1","Other crow #1","Feed","Auto-|Successful|None",14,NA,479.2,616.838,16,NA,1.75292153589316,1.55632435096411,NA,NA
+2025-07-24,"BB","1","Other crow #1","Feed","Auto-|Unknown|None",20,NA,479.2,616.838,23,NA,2.50417362270451,2.23721625451091,NA,NA
+2025-07-24,"BB","1","Other crow #1","Foraging","",24,479.2,479.2,616.838,35,594.918,NA,NA,100,96.4463927319653
+2025-07-24,"BB","1","Other crow #2","Feed","Auto-|Unknown|None",2,NA,27.44,27.44,2,NA,4.3731778425656,4.3731778425656,NA,NA
+2025-07-24,"BB","1","Other crow #2","Foraging","",3,27.44,27.44,27.44,3,27.44,NA,NA,100,100
+2025-07-24,"BB","2","No focal subject","Close proximity","Other crow #1|Broken beak",3,130.04,NA,NA,4,151.839,NA,NA,NA,NA
+2025-07-24,"BB","2","No focal subject","Close proximity","Mutual|Mutual",1,11.12,NA,NA,8,169.88,NA,NA,NA,NA
+2025-07-24,"BB","2","No focal subject","Within 5m","Mutual|Mutual",2,277.56,NA,NA,10,1336.481,NA,NA,NA,NA
+2025-07-24,"BB","2","No focal subject","Unclear video","",18,45.319,NA,NA,72,233.719,NA,NA,NA,NA
+2025-07-24,"BB","2","Broken beak","Preen","Auto-|None",1,10.24,710.888,3321.363,5,50.72,NA,NA,1.44045194179674,1.52708391103291
+2025-07-24,"BB","2","Broken beak","Alert","",3,23.2,710.888,3321.363,16,111.88,NA,NA,3.26352393063324,3.3684966081696
+2025-07-24,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",50,NA,710.888,3321.363,125,NA,4.22007404823263,2.25810909557311,NA,NA
+2025-07-24,"BB","2","Broken beak","Feed","Auto-|Successful|None",30,NA,710.888,3321.363,69,NA,2.53204442893958,1.24647622075636,NA,NA
+2025-07-24,"BB","2","Broken beak","Feed","Auto-|Unknown|None",29,NA,710.888,3321.363,85,NA,2.44764294797493,1.53551418498972,NA,NA
+2025-07-24,"BB","2","Broken beak","Foraging","",22,622.849,710.888,3321.363,101,2479.044,NA,NA,87.6156300289216,74.639357396346
+2025-07-24,"BB","2","Broken beak","Resting","",2,54.599,710.888,3321.363,9,679.719,NA,NA,7.68039409864845,20.4650620844515
+2025-07-24,"BB","2","Broken beak","Open mouth","",1,NA,710.888,3321.363,1,NA,0.0844014809646527,0.0180648727645849,NA,NA
+2025-07-24,"BB","2","Other crow #1","Preen","Auto-|None",1,1.68,137.638,616.838,1,1.68,NA,NA,1.22059315014749,0.272356761418719
+2025-07-24,"BB","2","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,137.638,616.838,2,NA,0.871852250105349,0.194540543870514,NA,NA
+2025-07-24,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",3,NA,137.638,616.838,23,NA,1.30777837515802,2.23721625451091,NA,NA
+2025-07-24,"BB","2","Other crow #1","Feed","Auto-|Successful|None",2,NA,137.638,616.838,16,NA,0.871852250105349,1.55632435096411,NA,NA
+2025-07-24,"BB","2","Other crow #1","Foraging","",11,115.718,137.638,616.838,35,594.918,NA,NA,84.0741655647423,96.4463927319653
+2025-07-24,"BB","2","Other crow #1","Resting","",1,20.24,137.638,616.838,1,20.24,NA,NA,14.7052412851102,3.281250506616
+2025-09-25,"BB","1","No focal subject","Close proximity","Other crow #1|Broken beak",8,26.998,NA,NA,8,26.998,NA,NA,NA,NA
+2025-09-25,"BB","1","No focal subject","Close proximity","Mutual|Mutual",2,4.92,NA,NA,9,32,NA,NA,NA,NA
+2025-09-25,"BB","1","No focal subject","Close proximity","Broken beak|Other crow #2",1,8.8,NA,NA,1,8.8,NA,NA,NA,NA
+2025-09-25,"BB","1","No focal subject","Close proximity","Broken beak|Other crow #1",2,69.32,NA,NA,2,69.32,NA,NA,NA,NA
+2025-09-25,"BB","1","No focal subject","Unclear video","",22,103.036,NA,NA,97,279.264,NA,NA,NA,NA
+2025-09-25,"BB","1","Broken beak","Feed","Auto-|Unknown|None",21,NA,727.098,1584.403,80,NA,1.73291633314904,3.02953225915376,NA,NA
+2025-09-25,"BB","1","Broken beak","Feed","Auto-|Successful|None",53,NA,727.098,1584.403,130,NA,4.37355074556662,4.92298992112487,NA,NA
+2025-09-25,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",186,NA,727.098,1584.403,375,NA,15.3486875221772,14.2009324647833,NA,NA
+2025-09-25,"BB","1","Broken beak","Foraging","",23,727.098,727.098,1584.403,100,1581.723,NA,NA,100,99.8308511155306
+2025-09-25,"BB","1","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,104.799,131.878,16,NA,1.71757364096986,7.27945525409848,NA,NA
+2025-09-25,"BB","1","Other crow #1","Feed","Auto-|Successful|None",2,NA,104.799,131.878,2,NA,1.1450490939799,0.909931906762311,NA,NA
+2025-09-25,"BB","1","Other crow #1","Foraging","",11,104.799,104.799,131.878,16,128.918,NA,NA,100,97.755501296653
+2025-09-25,"BB","1","Other crow #2","Feed","Auto-|Unsuccessful|None",1,NA,8.8,8.8,1,NA,6.81818181818182,6.81818181818182,NA,NA
+2025-09-25,"BB","1","Other crow #2","Foraging","",1,8.8,8.8,8.8,1,8.8,NA,NA,100,100
+2025-09-25,"BB","2","No focal subject","Close proximity","Mutual|Mutual",7,27.08,NA,NA,9,32,NA,NA,NA,NA
+2025-09-25,"BB","2","No focal subject","Unclear video","",57,99.676,NA,NA,97,279.264,NA,NA,NA,NA
+2025-09-25,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",186,NA,519.626,1584.403,375,NA,21.4769853702471,14.2009324647833,NA,NA
+2025-09-25,"BB","2","Broken beak","Feed","Auto-|Successful|None",39,NA,519.626,1584.403,130,NA,4.50323886795503,4.92298992112487,NA,NA
+2025-09-25,"BB","2","Broken beak","Feed","Auto-|Unknown|None",36,NA,519.626,1584.403,80,NA,4.15683587811233,3.02953225915376,NA,NA
+2025-09-25,"BB","2","Broken beak","Foraging","",58,519.626,519.626,1584.403,100,1581.723,NA,NA,100,99.8308511155306
+2025-09-25,"BB","2","Other crow #1","Preen","Auto-|None",3,2.96,27.079,131.878,3,2.96,NA,NA,10.9309797259869,2.24449870334703
+2025-09-25,"BB","2","Other crow #1","Feed","Auto-|Unsuccessful|None",13,NA,27.079,131.878,16,NA,28.804608737398,7.27945525409848,NA,NA
+2025-09-25,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",1,NA,27.079,131.878,1,NA,2.215739133646,0.454965953381155,NA,NA
+2025-09-25,"BB","2","Other crow #1","Foraging","",5,24.119,27.079,131.878,16,128.918,NA,NA,89.0690202740131,97.755501296653
+2025-09-25,"BB","3","No focal subject","Unclear video","",18,76.552,NA,NA,97,279.264,NA,NA,NA,NA
+2025-09-25,"BB","3","Broken beak","Alert","",1,2.68,337.679,1584.403,1,2.68,NA,NA,0.793653143962165,0.169148884469418
+2025-09-25,"BB","3","Broken beak","Feed","Auto-|Unknown|None",23,NA,337.679,1584.403,80,NA,4.08672141293951,3.02953225915376,NA,NA
+2025-09-25,"BB","3","Broken beak","Feed","Auto-|Successful|None",38,NA,337.679,1584.403,130,NA,6.75197450833484,4.92298992112487,NA,NA
+2025-09-25,"BB","3","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,337.679,1584.403,375,NA,0.533050619079066,14.2009324647833,NA,NA
+2025-09-25,"BB","3","Broken beak","Foraging","",19,334.999,337.679,1584.403,100,1581.723,NA,NA,99.2063468560378,99.8308511155306
+2025-10-27,"C","1","No focal subject","Unclear video","",3,23.5,NA,NA,3,23.5,NA,NA,NA,NA
+2025-10-27,"C","1","Other crow #1","Preen","Auto-|None",1,1.64,44.24,44.24,1,1.64,NA,NA,3.70705244122966,3.70705244122966
+2025-10-27,"C","1","Other crow #1","Foraging","",4,42.6,44.24,44.24,4,42.6,NA,NA,96.2929475587704,96.2929475587704
+2025-06-27,"C","1","No focal subject","Unclear video","",16,71.196,NA,NA,17,72.856,NA,NA,NA,NA
+2025-06-27,"C","1","Other crow #1","Alert","",4,20.557,866.708,943.748,5,30.277,NA,NA,2.37184841953691,3.20816573915918
+2025-06-27,"C","1","Other crow #1","Foraging","",9,149.314,866.708,943.748,12,165.194,NA,NA,17.2277168319665,17.5040370946481
+2025-06-27,"C","1","Other crow #1","Resting","",12,696.837,866.708,943.748,14,748.277,NA,NA,80.4004347484966,79.2877971661927
+2025-06-27,"C","2","No focal subject","Unclear video","",1,1.66,NA,NA,17,72.856,NA,NA,NA,NA
+2025-06-27,"C","2","Other crow #1","Alert","",1,9.72,77.04,943.748,5,30.277,NA,NA,12.6168224299065,3.20816573915918
+2025-06-27,"C","2","Other crow #1","Vocal","",3,NA,77.04,943.748,3,NA,2.33644859813084,0.190728881014847,NA,NA
+2025-06-27,"C","2","Other crow #1","Foraging","",3,15.88,77.04,943.748,12,165.194,NA,NA,20.6126687435099,17.5040370946481
+2025-06-27,"C","2","Other crow #1","Resting","",2,51.44,77.04,943.748,14,748.277,NA,NA,66.7705088265836,79.2877971661927
+2025-08-27,"C","1","No focal subject","Unclear video","",11,68.55,NA,NA,26,104.109,NA,NA,NA,NA
+2025-08-27,"C","1","Other crow #1","Preen","Auto-|None",1,5.32,668.719,1635.89,3,14.36,NA,NA,0.795550896564925,0.877809632677014
+2025-08-27,"C","1","Other crow #1","Alert","",9,19.88,668.719,1635.89,12,30.92,NA,NA,2.97284808716367,1.89010263526276
+2025-08-27,"C","1","Other crow #1","Feed","Auto-|Successful|None",23,NA,668.719,1635.89,74,NA,2.06364706251804,2.71411891997628,NA,NA
+2025-08-27,"C","1","Other crow #1","Feed","Auto-|Unknown|None",28,NA,668.719,1635.89,75,NA,2.51226598915239,2.75079620267866,NA,NA
+2025-08-27,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",7,NA,668.719,1635.89,9,NA,0.628066497288099,0.33009554432144,NA,NA
+2025-08-27,"C","1","Other crow #1","Foraging","",16,643.519,668.719,1635.89,36,1590.61,NA,NA,96.2316010162714,97.2320877320602
+2025-08-27,"C","2","No focal subject","Unclear video","",3,4.96,NA,NA,26,104.109,NA,NA,NA,NA
+2025-08-27,"C","2","Other crow #1","Feed","Auto-|Unknown|None",7,NA,61.771,1635.89,75,NA,6.799307118227,2.75079620267866,NA,NA
+2025-08-27,"C","2","Other crow #1","Foraging","",4,61.771,61.771,1635.89,36,1590.61,NA,NA,100,97.2320877320602
+2025-08-27,"C","3","No focal subject","Unclear video","",12,30.599,NA,NA,26,104.109,NA,NA,NA,NA
+2025-08-27,"C","3","Other crow #1","Preen","Auto-|None",2,9.04,905.4,1635.89,3,14.36,NA,NA,0.998453722111774,0.877809632677014
+2025-08-27,"C","3","Other crow #1","Alert","",3,11.04,905.4,1635.89,12,30.92,NA,NA,1.21935056328694,1.89010263526276
+2025-08-27,"C","3","Other crow #1","Feed","Auto-|Unknown|None",40,NA,905.4,1635.89,75,NA,2.65076209410205,2.75079620267866,NA,NA
+2025-08-27,"C","3","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,905.4,1635.89,9,NA,0.132538104705103,0.33009554432144,NA,NA
+2025-08-27,"C","3","Other crow #1","Feed","Auto-|Successful|None",51,NA,905.4,1635.89,74,NA,3.37972166998012,2.71411891997628,NA,NA
+2025-08-27,"C","3","Other crow #1","Foraging","",16,885.32,905.4,1635.89,36,1590.61,NA,NA,97.7821957146013,97.2320877320602
+2025-08-28,"BB","1","No focal subject","Within 5m","Other crow #1|Broken beak",1,78.52,NA,NA,1,78.52,NA,NA,NA,NA
+2025-08-28,"BB","1","No focal subject","Unclear video","",7,13.16,NA,NA,12,28.638,NA,NA,NA,NA
+2025-08-28,"BB","1","Broken beak","Feed","Auto-|Unknown|None",37,NA,443.6,673.4,40,NA,5.00450856627592,3.56400356400356,NA,NA
+2025-08-28,"BB","1","Broken beak","Feed","Auto-|Successful|None",14,NA,443.6,673.4,17,NA,1.89359783588819,1.51470151470151,NA,NA
+2025-08-28,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,443.6,673.4,12,NA,0.405770964833183,1.06920106920107,NA,NA
+2025-08-28,"BB","1","Broken beak","Foraging","",7,443.6,443.6,673.4,12,673.4,NA,NA,100,100
+2025-08-28,"BB","1","Other crow #1","Feed","Auto-|Unknown|None",13,NA,210.46,210.46,13,NA,3.70616744274446,3.70616744274446,NA,NA
+2025-08-28,"BB","1","Other crow #1","Feed","Auto-|Successful|None",9,NA,210.46,210.46,9,NA,2.56580822959232,2.56580822959232,NA,NA
+2025-08-28,"BB","1","Other crow #1","Foraging","",12,210.46,210.46,210.46,12,210.46,NA,NA,100,100
+2025-08-28,"BB","2","No focal subject","Unclear video","",5,15.478,NA,NA,12,28.638,NA,NA,NA,NA
+2025-08-28,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",9,NA,229.8,673.4,12,NA,2.34986945169713,1.06920106920107,NA,NA
+2025-08-28,"BB","2","Broken beak","Feed","Auto-|Unknown|None",3,NA,229.8,673.4,40,NA,0.783289817232376,3.56400356400356,NA,NA
+2025-08-28,"BB","2","Broken beak","Feed","Auto-|Successful|None",3,NA,229.8,673.4,17,NA,0.783289817232376,1.51470151470151,NA,NA
+2025-08-28,"BB","2","Broken beak","Foraging","",5,229.8,229.8,673.4,12,673.4,NA,NA,100,100
+2025-07-29,"C","1","No focal subject","Within 5m","Broken beak|Other crow #1",1,36.36,NA,NA,1,36.36,NA,NA,NA,NA
+2025-07-29,"C","1","No focal subject","Unclear video","",11,28.559,NA,NA,11,28.559,NA,NA,NA,NA
+2025-07-29,"C","1","Broken beak","Preen","Auto-|None",1,2.2,69.759,69.759,1,2.2,NA,NA,3.15371493284021,3.15371493284021
+2025-07-29,"C","1","Broken beak","Feed","Auto-|Unknown|None",4,NA,69.759,69.759,4,NA,3.44041629037114,3.44041629037114,NA,NA
+2025-07-29,"C","1","Broken beak","Foraging","",8,67.559,69.759,69.759,8,67.559,NA,NA,96.8462850671598,96.8462850671598
+2025-07-29,"C","1","Other crow #1","Preen","Auto-|None",3,31.479,577.918,577.918,3,31.479,NA,NA,5.44696652466267,5.44696652466267
+2025-07-29,"C","1","Other crow #1","Alert","",4,13.759,577.918,577.918,4,13.759,NA,NA,2.38078758578207,2.38078758578207
+2025-07-29,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",12,NA,577.918,577.918,12,NA,1.24585148758128,1.24585148758128,NA,NA
+2025-07-29,"C","1","Other crow #1","Feed","Auto-|Successful|None",13,NA,577.918,577.918,13,NA,1.34967244487972,1.34967244487972,NA,NA
+2025-07-29,"C","1","Other crow #1","Feed","Auto-|Unknown|None",10,NA,577.918,577.918,10,NA,1.0382095729844,1.0382095729844,NA,NA
+2025-07-29,"C","1","Other crow #1","Foraging","",21,532.68,577.918,577.918,21,532.68,NA,NA,92.1722458895553,92.1722458895553
+2025-08-29,"C","1","No focal subject","Within 5m","Broken beak|Other crow #1",1,55.12,NA,NA,1,55.12,NA,NA,NA,NA
+2025-08-29,"C","1","No focal subject","Unclear video","",7,19.831,NA,NA,37,106.012,NA,NA,NA,NA
+2025-08-29,"C","1","Broken beak","Feed","Auto-|Unknown|None",2,NA,58.48,852.837,36,NA,2.05198358413133,2.532723134667,NA,NA
+2025-08-29,"C","1","Broken beak","Foraging","",4,58.48,58.48,852.837,38,660.438,NA,NA,100,77.4401204450557
+2025-08-29,"C","1","Other crow #1","Preen","Auto-|None",1,7.68,198.079,1087.796,12,174.52,NA,NA,3.87724089883329,16.0434493232187
+2025-08-29,"C","1","Other crow #1","Alert","",12,32.119,198.079,1087.796,16,43.879,NA,NA,16.2152474517743,4.03375265215169
+2025-08-29,"C","1","Other crow #1","Feed","Auto-|Successful|None",1,NA,198.079,1087.796,15,NA,0.302909445221351,0.827361012542793,NA,NA
+2025-08-29,"C","1","Other crow #1","Feed","Auto-|Unknown|None",1,NA,198.079,1087.796,19,NA,0.302909445221351,1.04799061588754,NA,NA
+2025-08-29,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,198.079,1087.796,2,NA,0.302909445221351,0.110314801672372,NA,NA
+2025-08-29,"C","1","Other crow #1","Foraging","",14,158.28,198.079,1087.796,56,805.157,NA,NA,79.9075116493924,74.017278975102
+2025-08-29,"C","1","Other crow #2","Feed","Auto-|Unknown|None",1,NA,33.88,34.28,1,NA,1.77095631641086,1.75029171528588,NA,NA
+2025-08-29,"C","1","Other crow #2","Foraging","",3,33.88,33.88,34.28,4,34.28,NA,NA,100,100
+2025-08-29,"C","2","No focal subject","Within 5m","Mutual|Mutual",7,121.077,NA,NA,10,263.716,NA,NA,NA,NA
+2025-08-29,"C","2","No focal subject","Unclear video","",10,52.2,NA,NA,37,106.012,NA,NA,NA,NA
+2025-08-29,"C","2","Broken beak","Alert","",1,1.2,63.8,852.837,1,1.2,NA,NA,1.88087774294671,0.140706840814833
+2025-08-29,"C","2","Broken beak","Feed","Auto-|Successful|None",1,NA,63.8,852.837,17,NA,0.940438871473354,1.19600814692608,NA,NA
+2025-08-29,"C","2","Broken beak","Feed","Auto-|Unknown|None",2,NA,63.8,852.837,36,NA,1.88087774294671,2.532723134667,NA,NA
+2025-08-29,"C","2","Broken beak","Feed","Auto-|Unsuccessful|None",1,NA,63.8,852.837,3,NA,0.940438871473354,0.21106026122225,NA,NA
+2025-08-29,"C","2","Broken beak","Foraging","",8,62.6,63.8,852.837,38,660.438,NA,NA,98.1191222570533,77.4401204450557
+2025-08-29,"C","2","Other crow #1","Feed","Auto-|Unknown|None",3,NA,61.4,1087.796,19,NA,2.93159609120521,1.04799061588754,NA,NA
+2025-08-29,"C","2","Other crow #1","Feed","Auto-|Successful|None",1,NA,61.4,1087.796,15,NA,0.977198697068404,0.827361012542793,NA,NA
+2025-08-29,"C","2","Other crow #1","Foraging","",11,61.4,61.4,1087.796,56,805.157,NA,NA,100,74.017278975102
+2025-08-29,"C","3","No focal subject","Within 5m","Mutual|Mutual",3,142.639,NA,NA,10,263.716,NA,NA,NA,NA
+2025-08-29,"C","3","No focal subject","Within 5m","Other crow #1|Broken beak",1,21.84,NA,NA,2,43.8,NA,NA,NA,NA
+2025-08-29,"C","3","No focal subject","Unclear video","",2,14.111,NA,NA,37,106.012,NA,NA,NA,NA
+2025-08-29,"C","3","Broken beak","Feed","Auto-|Successful|None",12,NA,237.68,852.837,17,NA,3.02928306967351,1.19600814692608,NA,NA
+2025-08-29,"C","3","Broken beak","Feed","Auto-|Unknown|None",12,NA,237.68,852.837,36,NA,3.02928306967351,2.532723134667,NA,NA
+2025-08-29,"C","3","Broken beak","Foraging","",4,237.68,237.68,852.837,38,660.438,NA,NA,100,77.4401204450557
+2025-08-29,"C","3","Other crow #1","Preen","Auto-|None",1,8.72,239.8,1087.796,12,174.52,NA,NA,3.63636363636364,16.0434493232187
+2025-08-29,"C","3","Other crow #1","Feed","Auto-|Unknown|None",8,NA,239.8,1087.796,19,NA,2.00166805671393,1.04799061588754,NA,NA
+2025-08-29,"C","3","Other crow #1","Feed","Auto-|Successful|None",9,NA,239.8,1087.796,15,NA,2.25187656380317,0.827361012542793,NA,NA
+2025-08-29,"C","3","Other crow #1","Foraging","",3,231.08,239.8,1087.796,56,805.157,NA,NA,96.3636363636364,74.017278975102
+2025-08-29,"C","4","No focal subject","Close proximity","Other crow #1|Broken beak",1,191.039,NA,NA,1,191.039,NA,NA,NA,NA
+2025-08-29,"C","4","No focal subject","Close proximity","Mutual|Mutual",2,26.64,NA,NA,2,26.64,NA,NA,NA,NA
+2025-08-29,"C","4","No focal subject","Within 5m","Other crow #1|Broken beak",1,21.96,NA,NA,2,43.8,NA,NA,NA,NA
+2025-08-29,"C","4","No focal subject","Unclear video","",5,15.03,NA,NA,37,106.012,NA,NA,NA,NA
+2025-08-29,"C","4","Broken beak","Preen","Auto-|None",2,24.72,279.599,852.837,2,24.72,NA,NA,8.84123333774441,2.89856092078557
+2025-08-29,"C","4","Broken beak","Feed","Auto-|Unknown|None",2,NA,279.599,852.837,36,NA,0.429186084356525,2.532723134667,NA,NA
+2025-08-29,"C","4","Broken beak","Feed","Auto-|Unsuccessful|None",2,NA,279.599,852.837,3,NA,0.429186084356525,0.21106026122225,NA,NA
+2025-08-29,"C","4","Broken beak","Foraging","",7,88.4,279.599,852.837,38,660.438,NA,NA,31.616708214264,77.4401204450557
+2025-08-29,"C","4","Broken beak","Resting","",4,166.479,279.599,852.837,4,166.479,NA,NA,59.5420584479916,19.5206117933439
+2025-08-29,"C","4","Other crow #1","Preen","Auto-|None",6,147.28,331.439,1087.796,12,174.52,NA,NA,44.4365328159933,16.0434493232187
+2025-08-29,"C","4","Other crow #1","Preen","Allo-|Broken beak",6,64.24,331.439,1087.796,6,64.24,NA,NA,19.3821487513539,5.90551904952767
+2025-08-29,"C","4","Other crow #1","Alert","",4,11.76,331.439,1087.796,16,43.879,NA,NA,3.54816421724661,4.03375265215169
+2025-08-29,"C","4","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,331.439,1087.796,2,NA,0.181028786594215,0.110314801672372,NA,NA
+2025-08-29,"C","4","Other crow #1","Foraging","",11,108.159,331.439,1087.796,56,805.157,NA,NA,32.6331542154062,74.017278975102
+2025-08-29,"C","5","No focal subject","Unclear video","",13,4.84,NA,NA,37,106.012,NA,NA,NA,NA
+2025-08-29,"C","5","Broken beak","Feed","Auto-|Unknown|None",18,NA,213.278,852.837,36,NA,5.06381342660753,2.532723134667,NA,NA
+2025-08-29,"C","5","Broken beak","Feed","Auto-|Successful|None",4,NA,213.278,852.837,17,NA,1.12529187257945,1.19600814692608,NA,NA
+2025-08-29,"C","5","Broken beak","Foraging","",15,213.278,213.278,852.837,38,660.438,NA,NA,100,77.4401204450557
+2025-08-29,"C","5","Other crow #1","Preen","Auto-|None",4,10.84,257.078,1087.796,12,174.52,NA,NA,4.21661908059033,16.0434493232187
+2025-08-29,"C","5","Other crow #1","Feed","Auto-|Unknown|None",7,NA,257.078,1087.796,19,NA,1.63374540022872,1.04799061588754,NA,NA
+2025-08-29,"C","5","Other crow #1","Feed","Auto-|Successful|None",4,NA,257.078,1087.796,15,NA,0.9335688001307,0.827361012542793,NA,NA
+2025-08-29,"C","5","Other crow #1","Foraging","",17,246.238,257.078,1087.796,56,805.157,NA,NA,95.7833809194097,74.017278975102
+2025-08-29,"C","5","Other crow #2","Foraging","",1,0.4,0.4,34.28,4,34.28,NA,NA,100,100
+2025-10-30,"BB","1","No focal subject","Unclear video","",1,5.17,NA,NA,11,37.942,NA,NA,NA,NA
+2025-10-30,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",4,NA,30.88,477.078,55,NA,7.7720207253886,6.91710789430659,NA,NA
+2025-10-30,"BB","1","Broken beak","Foraging","",1,30.88,30.88,477.078,6,240.359,NA,NA,100,50.3814889808375
+2025-10-30,"BB","2","No focal subject","Close proximity","Mutual|Mutual",1,20.68,NA,NA,2,95.52,NA,NA,NA,NA
+2025-10-30,"BB","2","No focal subject","Unclear video","",1,7.295,NA,NA,11,37.942,NA,NA,NA,NA
+2025-10-30,"BB","2","Broken beak","Resting","",1,28.76,28.76,477.078,3,103,NA,NA,100,21.5897610034418
+2025-10-30,"BB","2","Other crow #1","Resting","",1,20.68,20.68,97.08,2,97.08,NA,NA,100,100
+2025-10-30,"BB","3","No focal subject","Close proximity","Mutual|Mutual",1,74.84,NA,NA,2,95.52,NA,NA,NA,NA
+2025-10-30,"BB","3","No focal subject","Unclear video","",4,18.42,NA,NA,11,37.942,NA,NA,NA,NA
+2025-10-30,"BB","3","Broken beak","Preen","Auto-|None",6,93.44,207.959,477.078,6,93.44,NA,NA,44.9319336984694,19.5858958073942
+2025-10-30,"BB","3","Broken beak","Alert","",5,40.279,207.959,477.078,5,40.279,NA,NA,19.368721719185,8.44285420832652
+2025-10-30,"BB","3","Broken beak","Resting","",2,74.24,207.959,477.078,3,103,NA,NA,35.6993445823456,21.5897610034418
+2025-10-30,"BB","3","Other crow #1","Resting","",1,76.4,76.4,97.08,2,97.08,NA,NA,100,100
+2025-10-30,"BB","4","No focal subject","Unclear video","",5,7.057,NA,NA,11,37.942,NA,NA,NA,NA
+2025-10-30,"BB","4","Broken beak","Feed","Auto-|Successful|None",5,NA,209.479,477.078,5,NA,1.43212446116317,0.628827990391508,NA,NA
+2025-10-30,"BB","4","Broken beak","Feed","Auto-|Unsuccessful|None",51,NA,209.479,477.078,55,NA,14.6076695038643,6.91710789430659,NA,NA
+2025-10-30,"BB","4","Broken beak","Feed","Auto-|Unknown|None",45,NA,209.479,477.078,45,NA,12.8891201504685,5.65945191352357,NA,NA
+2025-10-30,"BB","4","Broken beak","Foraging","",5,209.479,209.479,477.078,6,240.359,NA,NA,100,50.3814889808375
+2025-05-30,"BB","1","No focal subject","Close proximity","Mutual|Mutual",4,49.88,NA,NA,9,168.2,NA,NA,NA,NA
+2025-05-30,"BB","1","No focal subject","Unclear video","",2,4.32,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","1","Broken beak","Alert","",3,3.024,92.703,822.986,6,16.144,NA,NA,3.26203035500469,1.96163725749891
+2025-05-30,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",2,NA,92.703,822.986,22,NA,1.29445649008123,1.60391549795501,NA,NA
+2025-05-30,"BB","1","Broken beak","Foraging","",4,89.679,92.703,822.986,28,746.378,NA,NA,96.7379696449953,90.6914576918684
+2025-05-30,"BB","1","Other crow #1","Feed","Auto-|Successful|None",2,NA,49.88,230.66,7,NA,2.40577385725742,1.82086187462065,NA,NA
+2025-05-30,"BB","1","Other crow #1","Foraging","",4,49.88,49.88,230.66,18,187,NA,NA,100,81.0717072747767
+2025-05-30,"BB","2","No focal subject","Close proximity","Mutual|Mutual",2,31.08,NA,NA,9,168.2,NA,NA,NA,NA
+2025-05-30,"BB","2","No focal subject","Unclear video","",1,2.8,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","2","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,180.624,822.986,22,NA,0.996545309593409,1.60391549795501,NA,NA
+2025-05-30,"BB","2","Broken beak","Feed","Auto-|Successful|None",3,NA,180.624,822.986,7,NA,0.996545309593409,0.510336749349321,NA,NA
+2025-05-30,"BB","2","Broken beak","Feed","Auto-|Unknown|None",12,NA,180.624,822.986,39,NA,3.98618123837364,2.84330474637479,NA,NA
+2025-05-30,"BB","2","Broken beak","Foraging","",2,180.624,180.624,822.986,28,746.378,NA,NA,100,90.6914576918684
+2025-05-30,"BB","2","Other crow #1","Feed","Auto-|Successful|None",4,NA,31.08,230.66,7,NA,7.72200772200772,1.82086187462065,NA,NA
+2025-05-30,"BB","2","Other crow #1","Feed","Auto-|Unknown|None",4,NA,31.08,230.66,12,NA,7.72200772200772,3.12147749934969,NA,NA
+2025-05-30,"BB","2","Other crow #1","Foraging","",2,31.08,31.08,230.66,18,187,NA,NA,100,81.0717072747767
+2025-05-30,"BB","3","No focal subject","Unclear video","",2,4.78,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","3","Broken beak","Alert","",1,3.32,156.56,822.986,6,16.144,NA,NA,2.12059274399591,1.96163725749891
+2025-05-30,"BB","3","Broken beak","Feed","Auto-|Unsuccessful|None",2,NA,156.56,822.986,22,NA,0.766479305058763,1.60391549795501,NA,NA
+2025-05-30,"BB","3","Broken beak","Feed","Auto-|Unknown|None",5,NA,156.56,822.986,39,NA,1.91619826264691,2.84330474637479,NA,NA
+2025-05-30,"BB","3","Broken beak","Foraging","",3,153.24,156.56,822.986,28,746.378,NA,NA,97.8794072560041,90.6914576918684
+2025-05-30,"BB","4","No focal subject","Unclear video","",6,14.623,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","4","Broken beak","Feed","Auto-|Successful|None",1,NA,51.479,822.986,7,NA,1.16552380582373,0.510336749349321,NA,NA
+2025-05-30,"BB","4","Broken beak","Feed","Auto-|Unknown|None",1,NA,51.479,822.986,39,NA,1.16552380582373,2.84330474637479,NA,NA
+2025-05-30,"BB","4","Broken beak","Foraging","",5,51.479,51.479,822.986,28,746.378,NA,NA,100,90.6914576918684
+2025-05-30,"BB","4","Other crow #1","Feed","Auto-|Unknown|None",1,NA,1.16,230.66,12,NA,51.7241379310345,3.12147749934969,NA,NA
+2025-05-30,"BB","4","Other crow #1","Foraging","",1,1.16,1.16,230.66,18,187,NA,NA,100,81.0717072747767
+2025-05-30,"BB","5","No focal subject","Close proximity","Mutual|Mutual",2,80.12,NA,NA,9,168.2,NA,NA,NA,NA
+2025-05-30,"BB","5","No focal subject","Begging session","Broken beak,Other crow #1,Other crow #2",1,11,NA,NA,1,11,NA,NA,NA,NA
+2025-05-30,"BB","5","No focal subject","Unclear video","",1,6.6,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","5","Broken beak","Feed","Auto-|Unsuccessful|None",4,NA,117.256,822.986,22,NA,2.04680357508358,1.60391549795501,NA,NA
+2025-05-30,"BB","5","Broken beak","Feed","Auto-|Unknown|None",12,NA,117.256,822.986,39,NA,6.14041072525073,2.84330474637479,NA,NA
+2025-05-30,"BB","5","Broken beak","Feed","Auto-|Successful|None",3,NA,117.256,822.986,7,NA,1.53510268131268,0.510336749349321,NA,NA
+2025-05-30,"BB","5","Broken beak","Foraging","",2,106.256,117.256,822.986,28,746.378,NA,NA,90.6188169475336,90.6914576918684
+2025-05-30,"BB","5","Broken beak","Beg call","",2,NA,117.256,822.986,2,NA,1.02340178754179,0.145810499814092,NA,NA
+2025-05-30,"BB","5","Broken beak","Wing flutter","",4,NA,117.256,822.986,8,NA,2.04680357508358,0.583241999256366,NA,NA
+2025-05-30,"BB","5","Broken beak","Open mouth","",1,NA,117.256,822.986,2,NA,0.511700893770894,0.145810499814092,NA,NA
+2025-05-30,"BB","5","Other crow #1","Alert","",1,1.64,85.04,230.66,2,2.56,NA,NA,1.92850423330198,1.10985866643545
+2025-05-30,"BB","5","Other crow #1","Feed","Auto-|Unknown|None",5,NA,85.04,230.66,12,NA,3.5277516462841,3.12147749934969,NA,NA
+2025-05-30,"BB","5","Other crow #1","Feed","Auto-|Successful|None",1,NA,85.04,230.66,7,NA,0.70555032925682,1.82086187462065,NA,NA
+2025-05-30,"BB","5","Other crow #1","Feed","Allo-|Successful|Broken beak",1,NA,85.04,230.66,2,NA,0.70555032925682,0.520246249891615,NA,NA
+2025-05-30,"BB","5","Other crow #1","Foraging","",4,72.4,85.04,230.66,18,187,NA,NA,85.1364063969897,81.0717072747767
+2025-05-30,"BB","5","Other crow #2","Alert","",1,4.96,40.76,40.76,1,4.96,NA,NA,12.1687929342493,12.1687929342493
+2025-05-30,"BB","5","Other crow #2","Feed","Auto-|Unknown|None",2,NA,40.76,40.76,2,NA,2.94406280667321,2.94406280667321,NA,NA
+2025-05-30,"BB","5","Other crow #2","Feed","Auto-|Successful|None",1,NA,40.76,40.76,1,NA,1.4720314033366,1.4720314033366,NA,NA
+2025-05-30,"BB","5","Other crow #2","Foraging","",3,24.8,40.76,40.76,3,24.8,NA,NA,60.8439646712463,60.8439646712463
+2025-05-30,"BB","6","No focal subject","Close proximity","None|None",1,1.48,NA,NA,4,33.4,NA,NA,NA,NA
+2025-05-30,"BB","6","No focal subject","Close proximity","Other crow #1|Broken beak",1,17.12,NA,NA,1,17.12,NA,NA,NA,NA
+2025-05-30,"BB","6","No focal subject","Unclear video","",2,2.32,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","6","Broken beak","Brief flight","",1,1.92,100,822.986,2,3.48,NA,NA,1.92,0.422850449460866
+2025-05-30,"BB","6","Broken beak","Feed","Auto-|Unknown|None",6,NA,100,822.986,39,NA,3.6,2.84330474637479,NA,NA
+2025-05-30,"BB","6","Broken beak","Feed","Auto-|Unsuccessful|None",8,NA,100,822.986,22,NA,4.8,1.60391549795501,NA,NA
+2025-05-30,"BB","6","Broken beak","Foraging","",3,80.96,100,822.986,28,746.378,NA,NA,80.96,90.6914576918684
+2025-05-30,"BB","6","Broken beak","Resting","",1,17.12,100,822.986,2,32.104,NA,NA,17.12,3.90091690502633
+2025-05-30,"BB","6","Other crow #1","Foraging","",1,1.48,21.54,230.66,18,187,NA,NA,6.87093779015785,81.0717072747767
+2025-05-30,"BB","6","Other crow #1","Resting","",1,20.06,21.54,230.66,1,20.06,NA,NA,93.1290622098421,8.6967831440215
+2025-05-30,"BB","7","No focal subject","Close proximity","None|None",3,31.92,NA,NA,4,33.4,NA,NA,NA,NA
+2025-05-30,"BB","7","No focal subject","Close proximity","Mutual|Mutual",1,7.12,NA,NA,9,168.2,NA,NA,NA,NA
+2025-05-30,"BB","7","No focal subject","Close proximity","Broken beak|Other crow #1",1,6.52,NA,NA,1,6.52,NA,NA,NA,NA
+2025-05-30,"BB","7","No focal subject","Begging session","Broken beak,Other crow #1",1,10.04,NA,NA,1,10.04,NA,NA,NA,NA
+2025-05-30,"BB","7","No focal subject","Unclear video","",4,19.48,NA,NA,18,54.923,NA,NA,NA,NA
+2025-05-30,"BB","7","Broken beak","Preen","Auto-|Broken beak",1,3.84,124.364,822.986,1,3.84,NA,NA,3.08771026985301,0.466593599405093
+2025-05-30,"BB","7","Broken beak","Brief flight","",1,1.56,124.364,822.986,2,3.48,NA,NA,1.25438229712779,0.422850449460866
+2025-05-30,"BB","7","Broken beak","Alert","",2,9.8,124.364,822.986,6,16.144,NA,NA,7.88009391785404,1.96163725749891
+2025-05-30,"BB","7","Broken beak","Feed","Auto-|Unsuccessful|None",3,NA,124.364,822.986,22,NA,1.4473641889936,1.60391549795501,NA,NA
+2025-05-30,"BB","7","Broken beak","Feed","Auto-|Unknown|None",3,NA,124.364,822.986,39,NA,1.4473641889936,2.84330474637479,NA,NA
+2025-05-30,"BB","7","Broken beak","Foraging","",9,84.14,124.364,822.986,28,746.378,NA,NA,67.6562349232897,90.6914576918684
+2025-05-30,"BB","7","Broken beak","Resting","",1,14.984,124.364,822.986,2,32.104,NA,NA,12.0485027821556,3.90091690502633
+2025-05-30,"BB","7","Broken beak","Wing flutter","",4,NA,124.364,822.986,8,NA,1.92981891865813,0.583241999256366,NA,NA
+2025-05-30,"BB","7","Broken beak","Open mouth","",1,NA,124.364,822.986,2,NA,0.482454729664533,0.145810499814092,NA,NA
+2025-05-30,"BB","7","Other crow #1","Alert","",1,0.92,41.96,230.66,2,2.56,NA,NA,2.19256434699714,1.10985866643545
+2025-05-30,"BB","7","Other crow #1","Feed","Allo-|Successful|Broken beak",1,NA,41.96,230.66,2,NA,1.42993326978074,0.520246249891615,NA,NA
+2025-05-30,"BB","7","Other crow #1","Feed","Auto-|Unknown|None",2,NA,41.96,230.66,12,NA,2.85986653956149,3.12147749934969,NA,NA
+2025-05-30,"BB","7","Other crow #1","Foraging","",6,31,41.96,230.66,18,187,NA,NA,73.8798856053384,81.0717072747767
+2025-07-30,"BB","1","No focal subject","Close proximity","Mutual|Mutual",6,92.239,NA,NA,6,92.239,NA,NA,NA,NA
+2025-07-30,"BB","1","No focal subject","Unclear video","",11,57.859,NA,NA,11,57.859,NA,NA,NA,NA
+2025-07-30,"BB","1","Broken beak","Preen","Auto-|None",4,84.039,273.357,273.357,4,84.039,NA,NA,30.7433136886928,30.7433136886928
+2025-07-30,"BB","1","Broken beak","Brief flight","",1,12,273.357,273.357,1,12,NA,NA,4.38986380447547,4.38986380447547
+2025-07-30,"BB","1","Broken beak","Feed","Auto-|Unknown|None",13,NA,273.357,273.357,13,NA,2.85341147290905,2.85341147290905,NA,NA
+2025-07-30,"BB","1","Broken beak","Feed","Auto-|Successful|None",1,NA,273.357,273.357,1,NA,0.219493190223773,0.219493190223773,NA,NA
+2025-07-30,"BB","1","Broken beak","Foraging","",5,91.279,273.357,273.357,5,91.279,NA,NA,33.3918648507263,33.3918648507263
+2025-07-30,"BB","1","Broken beak","Resting","",3,86.039,273.357,273.357,3,86.039,NA,NA,31.4749576561054,31.4749576561054
+2025-07-30,"BB","1","Other crow #1","Feed","Auto-|Unknown|None",8,NA,95.24,95.24,8,NA,5.03989920201596,5.03989920201596,NA,NA
+2025-07-30,"BB","1","Other crow #1","Feed","Auto-|Successful|None",6,NA,95.24,95.24,6,NA,3.77992440151197,3.77992440151197,NA,NA
+2025-07-30,"BB","1","Other crow #1","Foraging","",8,95.24,95.24,95.24,8,95.24,NA,NA,100,100
+2025-07-30,"BB","1","Other crow #2","Feed","Auto-|Unknown|None",8,NA,83.879,83.879,8,NA,5.72252888088795,5.72252888088795,NA,NA
+2025-07-30,"BB","1","Other crow #2","Feed","Auto-|Successful|None",5,NA,83.879,83.879,5,NA,3.57658055055497,3.57658055055497,NA,NA
+2025-07-30,"BB","1","Other crow #2","Foraging","",5,83.879,83.879,83.879,5,83.879,NA,NA,100,100
+2025-07-30,"BB","1","Other crow #3","Feed","Auto-|Unknown|None",4,NA,90.358,90.358,4,NA,2.65610128599571,2.65610128599571,NA,NA
+2025-07-30,"BB","1","Other crow #3","Feed","Auto-|Successful|None",1,NA,90.358,90.358,1,NA,0.664025321498926,0.664025321498926,NA,NA
+2025-07-30,"BB","1","Other crow #3","Foraging","",8,90.358,90.358,90.358,8,90.358,NA,NA,100,100
+2025-07-30,"BB","1","Other crow #4","Feed","Auto-|Unknown|None",1,NA,10.8,10.8,1,NA,5.55555555555556,5.55555555555556,NA,NA
+2025-07-30,"BB","1","Other crow #4","Foraging","",1,10.8,10.8,10.8,1,10.8,NA,NA,100,100
+2025-10-31,"C","1","No focal subject","Close proximity","Other crow #1|Other crow #2",2,82.4,NA,NA,2,82.4,NA,NA,NA,NA
+2025-10-31,"C","1","No focal subject","Close proximity","Mutual|Mutual",1,101.2,NA,NA,1,101.2,NA,NA,NA,NA
+2025-10-31,"C","1","No focal subject","Within 5m","Mutual|Mutual",1,11.76,NA,NA,1,11.76,NA,NA,NA,NA
+2025-10-31,"C","1","No focal subject","Unclear video","",6,46.784,NA,NA,11,52.624,NA,NA,NA,NA
+2025-10-31,"C","1","Other crow #1","Vocal","",3,NA,200.2,635.196,3,NA,0.899100899100899,0.283377099352011,NA,NA
+2025-10-31,"C","1","Other crow #1","Feed","Auto-|Unknown|None",9,NA,200.2,635.196,58,NA,2.6973026973027,5.47862392080555,NA,NA
+2025-10-31,"C","1","Other crow #1","Feed","Auto-|Successful|None",1,NA,200.2,635.196,21,NA,0.2997002997003,1.98363969546408,NA,NA
+2025-10-31,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",5,NA,200.2,635.196,29,NA,1.4985014985015,2.73931196040277,NA,NA
+2025-10-31,"C","1","Other crow #1","Foraging","",6,130.68,200.2,635.196,11,565.676,NA,NA,65.2747252747253,89.0553466961379
+2025-10-31,"C","1","Other crow #1","Resting","",1,69.52,200.2,635.196,1,69.52,NA,NA,34.7252747252747,10.9446533038621
+2025-10-31,"C","1","Other crow #2","Brief flight","",3,5.759,326.799,326.799,3,5.759,NA,NA,1.76224529450825,1.76224529450825
+2025-10-31,"C","1","Other crow #2","Feed","Auto-|Unknown|None",40,NA,326.799,326.799,40,NA,7.34396372081922,7.34396372081922,NA,NA
+2025-10-31,"C","1","Other crow #2","Feed","Auto-|Unsuccessful|None",3,NA,326.799,326.799,3,NA,0.550797279061441,0.550797279061441,NA,NA
+2025-10-31,"C","1","Other crow #2","Feed","Auto-|Successful|None",2,NA,326.799,326.799,2,NA,0.367198186040961,0.367198186040961,NA,NA
+2025-10-31,"C","1","Other crow #2","Foraging","",9,295,326.799,326.799,9,295,NA,NA,90.2695540684029,90.2695540684029
+2025-10-31,"C","1","Other crow #2","Resting","",1,26.04,326.799,326.799,1,26.04,NA,NA,7.96820063708885,7.96820063708885
+2025-10-31,"C","2","No focal subject","Unclear video","",5,5.84,NA,NA,11,52.624,NA,NA,NA,NA
+2025-10-31,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",24,NA,434.996,635.196,29,NA,3.31037526781855,2.73931196040277,NA,NA
+2025-10-31,"C","2","Other crow #1","Feed","Auto-|Unknown|None",49,NA,434.996,635.196,58,NA,6.75868283846288,5.47862392080555,NA,NA
+2025-10-31,"C","2","Other crow #1","Feed","Auto-|Successful|None",20,NA,434.996,635.196,21,NA,2.75864605651546,1.98363969546408,NA,NA
+2025-10-31,"C","2","Other crow #1","Foraging","",5,434.996,434.996,635.196,11,565.676,NA,NA,100,89.0553466961379
+2025-10-31,"C","2","Other crow #1","Unclear video","",1,0.34,434.996,635.196,1,0.34,NA,NA,0.0781616382679381,0.0535267854331576
+2025-05-05,"C","1","No focal subject","Unclear video","",5,50.869,NA,NA,13,77.626,NA,NA,NA,NA
+2025-05-05,"C","1","Other crow #1","Feed","Auto-|Unknown|None",7,NA,71.04,678.192,55,NA,5.91216216216216,4.86587868922075,NA,NA
+2025-05-05,"C","1","Other crow #1","Feed","Auto-|Successful|None",6,NA,71.04,678.192,28,NA,5.06756756756757,2.47717460542147,NA,NA
+2025-05-05,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,71.04,678.192,54,NA,2.53378378378378,4.77740816759856,NA,NA
+2025-05-05,"C","1","Other crow #1","Foraging","",4,71.04,71.04,678.192,12,673.552,NA,NA,100,99.3158279661217
+2025-05-05,"C","2","No focal subject","Close proximity","Mutual|Mutual",2,38.92,NA,NA,2,38.92,NA,NA,NA,NA
+2025-05-05,"C","2","No focal subject","Close proximity","Other crow #1|Broken beak",1,1.241,NA,NA,1,1.241,NA,NA,NA,NA
+2025-05-05,"C","2","No focal subject","Close proximity","Broken beak|Other crow #1",1,4.6,NA,NA,1,4.6,NA,NA,NA,NA
+2025-05-05,"C","2","No focal subject","Unclear video","",8,26.757,NA,NA,13,77.626,NA,NA,NA,NA
+2025-05-05,"C","2","Broken beak","Feed","Auto-|Successful|None",4,NA,46.04,46.04,4,NA,5.2128583840139,5.2128583840139,NA,NA
+2025-05-05,"C","2","Broken beak","Feed","Auto-|Unknown|None",9,NA,46.04,46.04,9,NA,11.7289313640313,11.7289313640313,NA,NA
+2025-05-05,"C","2","Broken beak","Feed","Auto-|Unsuccessful|None",1,NA,46.04,46.04,1,NA,1.30321459600348,1.30321459600348,NA,NA
+2025-05-05,"C","2","Broken beak","Foraging","",5,46.04,46.04,46.04,5,46.04,NA,NA,100,100
+2025-05-05,"C","2","Other crow #1","Preen","Auto-|None",2,4.64,607.152,678.192,2,4.64,NA,NA,0.76422378580652,0.684172033878312
+2025-05-05,"C","2","Other crow #1","Feed","Auto-|Unknown|None",48,NA,607.152,678.192,55,NA,4.74345798086805,4.86587868922075,NA,NA
+2025-05-05,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",51,NA,607.152,678.192,54,NA,5.03992410467231,4.77740816759856,NA,NA
+2025-05-05,"C","2","Other crow #1","Feed","Auto-|Successful|None",22,NA,607.152,678.192,28,NA,2.17408490789786,2.47717460542147,NA,NA
+2025-05-05,"C","2","Other crow #1","Foraging","",8,602.512,607.152,678.192,12,673.552,NA,NA,99.2357762141935,99.3158279661217
+2025-11-06,"BB","1","No focal subject","Unclear video","",20,52.224,NA,NA,32,93.827,NA,NA,NA,NA
+2025-11-06,"BB","1","Broken beak","Preen","Auto-|None",1,45.6,877.358,1536.558,20,403.84,NA,NA,5.19742226092427,26.2821188656725
+2025-11-06,"BB","1","Broken beak","Brief flight","",1,5.88,877.358,1536.558,3,9.52,NA,NA,0.670193923119183,0.619566589741487
+2025-11-06,"BB","1","Broken beak","Alert","",8,17.759,877.358,1536.558,20,105.159,NA,NA,2.02414521780163,6.84380283725053
+2025-11-06,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",144,NA,877.358,1536.558,148,NA,9.84774744175126,5.77915054296681,NA,NA
+2025-11-06,"BB","1","Broken beak","Feed","Auto-|Unknown|None",46,NA,877.358,1536.558,51,NA,3.14580821055943,1.99146403845478,NA,NA
+2025-11-06,"BB","1","Broken beak","Feed","Auto-|Successful|None",59,NA,877.358,1536.558,65,NA,4.03484096571753,2.53814044116786,NA,NA
+2025-11-06,"BB","1","Broken beak","Foraging","",21,808.119,877.358,1536.558,26,856.039,NA,NA,92.1082385981549,55.711466797869
+2025-11-06,"BB","1","Other crow #1","Foraging","",2,18.96,18.96,200.44,7,192.36,NA,NA,100,95.9688684893235
+2025-11-06,"BB","2","No focal subject","Unclear video","",6,7.58,NA,NA,32,93.827,NA,NA,NA,NA
+2025-11-06,"BB","2","Broken beak","Preen","Auto-|None",19,358.24,637.6,1536.558,20,403.84,NA,NA,56.1856963613551,26.2821188656725
+2025-11-06,"BB","2","Broken beak","Brief flight","",2,3.64,637.6,1536.558,3,9.52,NA,NA,0.570890840652447,0.619566589741487
+2025-11-06,"BB","2","Broken beak","Alert","",12,87.4,637.6,1536.558,20,105.159,NA,NA,13.7076537013802,6.84380283725053
+2025-11-06,"BB","2","Broken beak","Feed","Auto-|Unknown|None",3,NA,637.6,1536.558,51,NA,0.282308657465496,1.99146403845478,NA,NA
+2025-11-06,"BB","2","Broken beak","Foraging","",3,26.32,637.6,1536.558,26,856.039,NA,NA,4.12797992471769,55.711466797869
+2025-11-06,"BB","2","Broken beak","Resting","",3,162,637.6,1536.558,3,162,NA,NA,25.4077791718946,10.5430449094665
+2025-11-06,"C","1","No focal subject","Close proximity","Other crow #1|Broken beak",1,6.44,NA,NA,1,6.44,NA,NA,NA,NA
+2025-11-06,"C","1","No focal subject","Within 5m","Other crow #2|Other crow #1",1,7.84,NA,NA,1,7.84,NA,NA,NA,NA
+2025-11-06,"C","1","No focal subject","Unclear video","",6,34.023,NA,NA,32,93.827,NA,NA,NA,NA
+2025-11-06,"C","1","Broken beak","Feed","Auto-|Unknown|None",2,NA,21.6,1536.558,51,NA,5.55555555555556,1.99146403845478,NA,NA
+2025-11-06,"C","1","Broken beak","Feed","Auto-|Successful|None",6,NA,21.6,1536.558,65,NA,16.6666666666667,2.53814044116786,NA,NA
+2025-11-06,"C","1","Broken beak","Feed","Auto-|Unsuccessful|None",4,NA,21.6,1536.558,148,NA,11.1111111111111,5.77915054296681,NA,NA
+2025-11-06,"C","1","Broken beak","Foraging","",2,21.6,21.6,1536.558,26,856.039,NA,NA,100,55.711466797869
+2025-11-06,"C","1","Other crow #1","Alert","",2,8.08,181.48,200.44,2,8.08,NA,NA,4.45228124311219,4.03113151067651
+2025-11-06,"C","1","Other crow #1","Vocal","",2,NA,181.48,200.44,2,NA,0.661229887590919,0.598682897625225,NA,NA
+2025-11-06,"C","1","Other crow #1","Feed","Auto-|Successful|None",9,NA,181.48,200.44,9,NA,2.97553449415914,2.69407303931351,NA,NA
+2025-11-06,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",3,NA,181.48,200.44,3,NA,0.991844831386379,0.898024346437837,NA,NA
+2025-11-06,"C","1","Other crow #1","Feed","Auto-|Unknown|None",2,NA,181.48,200.44,2,NA,0.661229887590919,0.598682897625225,NA,NA
+2025-11-06,"C","1","Other crow #1","Foraging","",5,173.4,181.48,200.44,7,192.36,NA,NA,95.5477187568878,95.9688684893235
+2025-11-06,"C","1","Other crow #2","Feed","Auto-|Successful|None",2,NA,11.56,11.56,2,NA,10.3806228373702,10.3806228373702,NA,NA
+2025-11-06,"C","1","Other crow #2","Feed","Auto-|Unknown|None",1,NA,11.56,11.56,1,NA,5.19031141868512,5.19031141868512,NA,NA
+2025-11-06,"C","1","Other crow #2","Foraging","",2,11.56,11.56,11.56,2,11.56,NA,NA,100,100
+2025-05-08,"BB","1","No focal subject","Unclear video","",1,2.48,NA,NA,1,2.48,NA,NA,NA,NA
+2025-05-08,"BB","1","Broken beak","Alert","",1,5.64,45.92,45.92,1,5.64,NA,NA,12.2822299651568,12.2822299651568
+2025-05-08,"BB","1","Broken beak","Feed","Auto-|Successful|None",3,NA,45.92,45.92,3,NA,3.9198606271777,3.9198606271777,NA,NA
+2025-05-08,"BB","1","Broken beak","Feed","Auto-|Unsuccessful|None",5,NA,45.92,45.92,5,NA,6.53310104529617,6.53310104529617,NA,NA
+2025-05-08,"BB","1","Broken beak","Feed","Auto-|Unknown|None",1,NA,45.92,45.92,1,NA,1.30662020905923,1.30662020905923,NA,NA
+2025-05-08,"BB","1","Broken beak","Foraging","",1,40.28,45.92,45.92,1,40.28,NA,NA,87.7177700348432,87.7177700348432
+2025-10-09,"C","1","No focal subject","Unclear video","",14,149.944,NA,NA,59,222.323,NA,NA,NA,NA
+2025-10-09,"C","1","Other crow #1","Feed","Auto-|Successful|None",6,NA,121.838,603.007,116,NA,2.95474318357163,11.5421545686866,NA,NA
+2025-10-09,"C","1","Other crow #1","Feed","Auto-|Unknown|None",3,NA,121.838,603.007,8,NA,1.47737159178581,0.796010659909421,NA,NA
+2025-10-09,"C","1","Other crow #1","Feed","Auto-|Unsuccessful|None",1,NA,121.838,603.007,5,NA,0.492457197261938,0.497506662443388,NA,NA
+2025-10-09,"C","1","Other crow #1","Foraging","",13,101.158,121.838,603.007,62,568.847,NA,NA,83.0266419343719,94.3350574703113
+2025-10-09,"C","1","Other crow #1","Resting","",1,20.68,121.838,603.007,1,20.68,NA,NA,16.9733580656281,3.42947925977642
+2025-10-09,"C","1","Other crow #2","Resting","",2,8.32,8.32,8.32,2,8.32,NA,NA,100,100
+2025-10-09,"C","2","No focal subject","Unclear video","",25,42.14,NA,NA,59,222.323,NA,NA,NA,NA
+2025-10-09,"C","2","Other crow #1","Alert","",1,2.24,216.151,603.007,3,13.48,NA,NA,1.03631257778127,2.23546326991229
+2025-10-09,"C","2","Other crow #1","Feed","Auto-|Unknown|None",1,NA,216.151,603.007,8,NA,0.277583726191412,0.796010659909421,NA,NA
+2025-10-09,"C","2","Other crow #1","Feed","Auto-|Successful|None",103,NA,216.151,603.007,116,NA,28.5911237977155,11.5421545686866,NA,NA
+2025-10-09,"C","2","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,216.151,603.007,5,NA,0.555167452382825,0.497506662443388,NA,NA
+2025-10-09,"C","2","Other crow #1","Foraging","",26,213.911,216.151,603.007,62,568.847,NA,NA,98.9636874222187,94.3350574703113
+2025-10-09,"C","3","No focal subject","Unclear video","",20,30.239,NA,NA,59,222.323,NA,NA,NA,NA
+2025-10-09,"C","3","Broken beak","Feed","Auto-|Unknown|None",3,NA,72.16,72.16,3,NA,2.49445676274945,2.49445676274945,NA,NA
+2025-10-09,"C","3","Broken beak","Foraging","",6,72.16,72.16,72.16,6,72.16,NA,NA,100,100
+2025-10-09,"C","3","Other crow #1","Alert","",2,11.24,265.018,603.007,3,13.48,NA,NA,4.24122135100257,2.23546326991229
+2025-10-09,"C","3","Other crow #1","Feed","Auto-|Successful|None",7,NA,265.018,603.007,116,NA,1.58479801371982,11.5421545686866,NA,NA
+2025-10-09,"C","3","Other crow #1","Feed","Auto-|Unknown|None",4,NA,265.018,603.007,8,NA,0.905598864982756,0.796010659909421,NA,NA
+2025-10-09,"C","3","Other crow #1","Feed","Auto-|Unsuccessful|None",2,NA,265.018,603.007,5,NA,0.452799432491378,0.497506662443388,NA,NA
+2025-10-09,"C","3","Other crow #1","Foraging","",23,253.778,265.018,603.007,62,568.847,NA,NA,95.7587786489974,94.3350574703113
