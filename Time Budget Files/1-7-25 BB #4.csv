@@ -1,0 +1,8 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,No focal subject,Unclear video,,3,34.742,11.581,8.502,24.981,35.327,37.7
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,Broken beak,Alert,Broken beak,1,9.04,9.04,NA,NA,NA,9.8
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,Broken beak,Alert,Broken beak,1,9.04,9.04,NA,NA,NA,9.8
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,Broken beak,Feed,Auto-|Unknown,2,NA,NA,NA,36.92,NA,NA
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,Broken beak,Foraging,Broken beak,3,48.44,16.147,19.655,5.48,5.035,52.5
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,Broken beak,Alert,Broken beak,1,9.04,9.04,NA,NA,NA,9.8
+1-7-25 BB #4,2025-12-3014:19:42.748,,58,81,4,(no record),(no record),no,ground,0.000,92.224,92.224,Broken beak,Alert,Broken beak,1,9.04,9.04,NA,NA,NA,9.8

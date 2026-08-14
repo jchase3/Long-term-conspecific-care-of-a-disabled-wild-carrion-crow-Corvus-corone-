@@ -1,0 +1,48 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,No focal subject,Close proximity,Mutual|Mutual,2,76.36,38.18,29.444,195.96,NA,5.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,No focal subject,Close proximity,Other crow #2|Broken beak,1,193.639,193.639,NA,NA,NA,14.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,No focal subject,Close proximity,Other crow #1|Broken beak,2,65.24,32.62,8.118,17.16,NA,4.8
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,No focal subject,Within 5m,Mutual|Mutual,2,111.798,55.899,64.064,1.241,NA,8.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,No focal subject,Begging session,"Broken beak,Other crow #1",4,38.24,9.56,8.467,61.373,22.509,2.8
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,No focal subject,Unclear video,,17,48.4,2.847,2.447,81.345,108.421,3.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Broken beak,Feed,Auto-|Unknown|None,1,NA,NA,NA,NA,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Broken beak,Foraging,Broken beak,5,39.839,7.968,11.025,56.65,36.371,2.9
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Broken beak,Resting,Broken beak,4,16.118,4.029,5.012,48.161,20.75,1.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Broken beak,Present head,Broken beak,4,38.242,9.561,8.467,61.373,22.508,2.8
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Auto-|None,4,22.24,5.56,2.582,319.8,495.456,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Allo-|Broken beak,3,90.2,30.067,18.479,34.48,8.712,6.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Auto-|None,4,22.24,5.56,2.582,319.8,495.456,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Allo-|Broken beak,3,90.2,30.067,18.479,34.48,8.712,6.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Alert,Other crow #1,6,21.439,3.573,3.18,191.736,228.478,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Alert,Other crow #1,6,21.439,3.573,3.18,191.736,228.478,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Feed,Auto-|Unknown|None,5,NA,NA,NA,222.37,289.172,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,192.98,25.371,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Feed,Auto-|Successful|None,7,NA,NA,NA,64.913,103.356,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Foraging,Other crow #1,23,537.636,23.375,28.938,37.353,73.623,39.5
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Resting,Other crow #1,8,605.719,75.715,31.222,65.029,70.92,44.5
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Open mouth,Other crow #1,1,NA,NA,NA,NA,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Auto-|None,4,22.24,5.56,2.582,319.8,495.456,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Allo-|Broken beak,3,90.2,30.067,18.479,34.48,8.712,6.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Auto-|None,4,22.24,5.56,2.582,319.8,495.456,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Preen,Allo-|Broken beak,3,90.2,30.067,18.479,34.48,8.712,6.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Alert,Other crow #1,6,21.439,3.573,3.18,191.736,228.478,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Alert,Other crow #1,6,21.439,3.573,3.18,191.736,228.478,1.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Auto-|None,4,70.84,17.71,18.61,39.533,12.902,5.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Allo-|Broken beak,2,8.56,4.28,3.338,20.84,NA,0.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Auto-|None,4,70.84,17.71,18.61,39.533,12.902,5.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Allo-|Broken beak,2,8.56,4.28,3.338,20.84,NA,0.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Alert,Other crow #2,1,7.08,7.08,NA,NA,NA,0.5
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Alert,Other crow #2,1,7.08,7.08,NA,NA,NA,0.5
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Feed,Auto-|Unknown|None,2,NA,NA,NA,0.52,NA,NA
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Foraging,Other crow #2,6,73.639,12.273,9.735,21.84,26.315,5.4
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Resting,Other crow #2,1,30.28,30.28,NA,NA,NA,2.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Auto-|None,4,70.84,17.71,18.61,39.533,12.902,5.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Allo-|Broken beak,2,8.56,4.28,3.338,20.84,NA,0.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Auto-|None,4,70.84,17.71,18.61,39.533,12.902,5.2
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Preen,Allo-|Broken beak,2,8.56,4.28,3.338,20.84,NA,0.6
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Alert,Other crow #2,1,7.08,7.08,NA,NA,NA,0.5
+22-7-25 C #1,02:51.3,,65,73,13,cloudy,soft,no,ground,Full observation,Full observation,1361.6,Other crow #2,Alert,Other crow #2,1,7.08,7.08,NA,NA,NA,0.5

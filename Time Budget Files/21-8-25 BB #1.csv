@@ -1,0 +1,19 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,No focal subject,Unclear video,,11,10.504,0.955,1.136,61.468,126.364,1.5
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Preen,Auto-,1,2.36,2.36,NA,NA,NA,0.3
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Preen,Auto-,1,2.36,2.36,NA,NA,NA,0.3
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Alert,Broken beak,2,15.52,7.76,3.903,164.92,NA,2.2
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Alert,Broken beak,2,15.52,7.76,3.903,164.92,NA,2.2
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Feed,Auto-|Unsuccessful,19,NA,NA,NA,31.711,104.995,NA
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Feed,Auto-|Unknown,13,NA,NA,NA,44.583,104.731,NA
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Feed,Auto-|Successful,3,NA,NA,NA,188.34,249.665,NA
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Foraging,Broken beak,20,265.76,13.288,18.352,20.413,35.062,37.4
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Resting,Broken beak,8,416.28,52.035,39.266,23.28,25.448,58.6
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Preen,Auto-,1,2.36,2.36,NA,NA,NA,0.3
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Preen,Auto-,1,2.36,2.36,NA,NA,NA,0.3
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Alert,Broken beak,2,15.52,7.76,3.903,164.92,NA,2.2
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Alert,Broken beak,2,15.52,7.76,3.903,164.92,NA,2.2
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+21-8-25 BB #1,2026-01-0109:02:11.002,,55,79,2,cloudy,average,yes,ground,0.000,710.464,710.464,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,9 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,No focal subject,Close proximity,Mutual|Mutual,1,47.48,47.48,NA,NA,NA,91.5
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,No focal subject,Unclear video,,1,4.28,4.28,NA,NA,NA,8.2
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,Broken beak,Feed,Auto-|Unknown,1,NA,NA,NA,NA,NA,NA
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,Broken beak,Foraging,Broken beak,1,45.48,45.48,NA,NA,NA,87.7
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,Other crow #1,Feed,Auto-|Unknown,1,NA,NA,NA,NA,NA,NA
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,Other crow #1,Foraging,Other crow #1,1,47.48,47.48,NA,NA,NA,91.5
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,Other crow #2,Feed,Auto-|Unknown,1,NA,NA,NA,NA,NA,NA
+10-7-25 BB #2,2025-12-3016:05:32.770,,64,82,8,sunny,(no record),no,ground,0.000,51.880,51.880,Other crow #2,Foraging,Other crow #2,1,25.8,25.8,NA,NA,NA,49.7

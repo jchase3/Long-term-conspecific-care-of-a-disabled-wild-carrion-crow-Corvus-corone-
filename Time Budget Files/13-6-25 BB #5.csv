@@ -1,0 +1,7 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+13-6-25 BB #5,2026-01-1008:08:57.079,,68,68,15,(no record),(no record),no,tree,0.000,59.520,59.520,No focal subject,Close proximity,None|None,1,21.8,21.8,NA,NA,NA,36.6
+13-6-25 BB #5,2026-01-1008:08:57.079,,68,68,15,(no record),(no record),no,tree,0.000,59.520,59.520,No focal subject,Begging session,"Broken beak,Other crow #1",1,26.2,26.2,NA,NA,NA,44.0
+13-6-25 BB #5,2026-01-1008:08:57.079,,68,68,15,(no record),(no record),no,tree,0.000,59.520,59.520,No focal subject,Unclear video,,2,33.2,16.6,23.25,26.2,NA,55.8
+13-6-25 BB #5,2026-01-1008:08:57.079,,68,68,15,(no record),(no record),no,tree,0.000,59.520,59.520,Broken beak,Beg call,Broken beak,7,NA,NA,NA,3.567,3.322,NA
+13-6-25 BB #5,2026-01-1008:08:57.079,,68,68,15,(no record),(no record),no,tree,0.000,59.520,59.520,Broken beak,Wing flutter,Broken beak,4,NA,NA,NA,3.933,3.164,NA
+13-6-25 BB #5,2026-01-1008:08:57.079,,68,68,15,(no record),(no record),no,tree,0.000,59.520,59.520,Other crow #1,Feed,Allo-|Unknown|Broken beak,1,NA,NA,NA,NA,NA,NA

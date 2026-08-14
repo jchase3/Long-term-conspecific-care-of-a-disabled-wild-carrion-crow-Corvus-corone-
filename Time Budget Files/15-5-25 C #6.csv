@@ -1,0 +1,5 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+15-5-25 C #6,2026-01-0311:00:57.432,,66,46,11,sunny,(no record),no,ground,0.000,166.140,166.140,No focal subject,Unclear video,,2,3.26,1.63,1.966,52.48,NA,2.0
+15-5-25 C #6,2026-01-0311:00:57.432,,66,46,11,sunny,(no record),no,ground,0.000,166.140,166.140,Other crow #1,Feed,Auto-|Unknown,9,NA,NA,NA,17.955,22.523,NA
+15-5-25 C #6,2026-01-0311:00:57.432,,66,46,11,sunny,(no record),no,ground,0.000,166.140,166.140,Other crow #1,Feed,Auto-|Successful,18,NA,NA,NA,8.127,3.977,NA
+15-5-25 C #6,2026-01-0311:00:57.432,,66,46,11,sunny,(no record),no,ground,0.000,166.140,166.140,Other crow #1,Foraging,Other crow #1,2,162.88,81.44,40.956,0.24,NA,98.0

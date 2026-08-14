@@ -1,0 +1,16 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,No focal subject,Close proximity,Mutual|Mutual,1,0.76,0.76,NA,NA,NA,0.6
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,No focal subject,Unclear video,,6,23.519,3.92,4.701,17.864,28.021,17.5
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Broken beak,Feed,Auto-|Successful,1,NA,NA,NA,NA,NA,NA
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Broken beak,Foraging,Broken beak,3,3.68,1.227,0.446,16.82,6.025,2.7
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Alert,Other crow #1,1,5.16,5.16,NA,NA,NA,3.8
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Alert,Other crow #1,1,5.16,5.16,NA,NA,NA,3.8
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Feed,Auto-|Successful,2,NA,NA,NA,4.76,NA,NA
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Foraging,Other crow #1,6,61.68,10.28,10.458,14.304,20.257,45.9
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Resting,Other crow #1,1,42.44,42.44,NA,NA,NA,31.6
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Alert,Other crow #1,1,5.16,5.16,NA,NA,NA,3.8
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Alert,Other crow #1,1,5.16,5.16,NA,NA,NA,3.8
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+1-7-25 C #9,2025-12-2916:04:23.947,,58,81,4,(no record),(no record),no,ground,0.000,134.400,134.400,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA

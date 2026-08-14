@@ -1,0 +1,10 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,No focal subject,Unclear video,,4,10.2,2.55,3.075,18.373,5.873,4.4
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Alert,Other crow #1,1,7.08,7.08,NA,NA,NA,3.0
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Alert,Other crow #1,1,7.08,7.08,NA,NA,NA,3.0
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Feed,Auto-|Unknown,21,NA,NA,NA,10.702,11.213,NA
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Feed,Auto-|Successful,16,NA,NA,NA,9.549,7.79,NA
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Feed,Auto-|Unsuccessful,1,NA,NA,NA,NA,NA,NA
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Foraging,Other crow #1,6,215.104,35.851,37.916,3.456,3.346,92.6
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Alert,Other crow #1,1,7.08,7.08,NA,NA,NA,3.0
+15-5-25 C #5,2026-01-0307:53:58.131,,66,46,11,sunny,(no record),no,ground,0.000,232.384,232.384,Other crow #1,Alert,Other crow #1,1,7.08,7.08,NA,NA,NA,3.0

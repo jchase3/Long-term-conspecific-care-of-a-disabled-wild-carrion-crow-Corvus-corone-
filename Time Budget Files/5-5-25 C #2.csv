@@ -1,0 +1,17 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,No focal subject,Close proximity,Mutual|Mutual,2,38.92,19.46,14.849,8.24,NA,6.1
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,No focal subject,Close proximity,Other crow #1|Broken beak,1,1.241,1.241,NA,NA,NA,0.2
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,No focal subject,Close proximity,Broken beak|Other crow #1,1,4.6,4.6,NA,NA,NA,0.7
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,No focal subject,Unclear video,,8,26.757,3.345,2.043,86.966,70.459,4.2
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Broken beak,Feed,Auto-|Successful|None,4,NA,NA,NA,38.107,32.407,NA
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Broken beak,Feed,Auto-|Unknown|None,9,NA,NA,NA,13.625,27.966,NA
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Broken beak,Feed,Auto-|Unsuccessful|None,1,NA,NA,NA,NA,NA,NA
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Broken beak,Foraging,Broken beak,5,46.04,9.208,12.002,21.84,30.564,7.2
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Preen,Auto-|None,2,4.64,2.32,0.509,21.32,NA,0.7
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Preen,Auto-|None,2,4.64,2.32,0.509,21.32,NA,0.7
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Feed,Auto-|Unknown|None,48,NA,NA,NA,12.7,15.989,NA
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Feed,Auto-|Unsuccessful|None,51,NA,NA,NA,9.512,10.425,NA
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Feed,Auto-|Successful|None,22,NA,NA,NA,21.545,22.975,NA
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Foraging,Other crow #1,8,602.512,75.314,64.045,3.281,2.379,94.8
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Preen,Auto-|None,2,4.64,2.32,0.509,21.32,NA,0.7
+5-5-25 C #2,2026-01-1814:03:48.431,,,,,(no record),(no record),no,ground,0.000,635.520,635.520,Other crow #1,Preen,Auto-|None,2,4.64,2.32,0.509,21.32,NA,0.7

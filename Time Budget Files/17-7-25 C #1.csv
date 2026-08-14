@@ -1,0 +1,61 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Close proximity,Other crow #2|Broken beak,3,413.118,137.706,118.316,2.28,0.226,11.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Close proximity,Mutual|Mutual,4,59.238,14.81,8.124,459.161,525.469,1.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Close proximity,None|None,2,84.44,42.22,1.612,190.68,NA,2.4
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Close proximity,Broken beak|Other crow #1,1,7.2,7.2,NA,NA,NA,0.2
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Within 5m,Mutual|Mutual,4,210.48,52.62,24.171,623.227,542.027,6
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Within 5m,Other crow #1|Other crow #2,1,102.759,102.759,NA,NA,NA,2.9
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Within 5m,Other crow #2|Broken beak,1,3.4,3.4,NA,NA,NA,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Within 5m,Broken beak|Other crow #1,1,60.76,60.76,NA,NA,NA,1.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Within 5m,None|None,32,405.193,12.662,12.232,25.897,77.331,11.5
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Within 5m,Other crow #2|Other crow #1,1,16.92,16.92,NA,NA,NA,0.5
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Begging session,"Broken beak,Other crow #2",10,215.156,21.516,14.81,19.556,5.748,6.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,No focal subject,Unclear video,,90,127.428,1.416,2.005,38.033,50.944,3.6
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Alert,Broken beak,4,4.24,1.06,0.37,693.12,1157.476,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Alert,Broken beak,4,4.24,1.06,0.37,693.12,1157.476,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Feed,Auto-|Unknown|None,50,NA,NA,NA,42.989,167.303,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Feed,Auto-|Successful|None,5,NA,NA,NA,522.74,919.834,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Feed,Auto-|Unsuccessful|None,1,NA,NA,NA,NA,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Foraging,Broken beak,43,502.36,11.683,21.853,39.43,110.847,14.3
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Resting,Broken beak,2,27.32,13.66,8.061,318.96,NA,0.8
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Open mouth,Broken beak,46,NA,NA,NA,8.845,8.495,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Present head,Broken beak,12,125.8,10.483,9.037,24.124,11.641,3.6
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Alert,Broken beak,4,4.24,1.06,0.37,693.12,1157.476,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Broken beak,Alert,Broken beak,4,4.24,1.06,0.37,693.12,1157.476,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Preen,Auto-|None,4,32.48,8.12,6.577,194.6,335.221,0.9
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Preen,Auto-|None,4,32.48,8.12,6.577,194.6,335.221,0.9
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Brief flight,Other crow #1,1,10.68,10.68,NA,NA,NA,0.3
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Brief flight,Other crow #1,1,10.68,10.68,NA,NA,NA,0.3
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Alert,Other crow #1,58,184.72,3.185,2.89,54.992,172.794,5.2
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Alert,Other crow #1,58,184.72,3.185,2.89,54.992,172.794,5.2
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Feed,Auto-|Unknown|None,137,NA,NA,NA,25.318,100.332,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Feed,Auto-|Successful|None,77,NA,NA,NA,44.732,197.559,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Feed,Auto-|Unsuccessful|None,7,NA,NA,NA,109.347,110.992,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Foraging,Other crow #1,129,2105.239,16.32,24.358,11.054,70.913,59.8
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Resting,Other crow #1,12,607.08,50.59,34.911,43.404,131.36,17.2
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Open mouth,Other crow #1,5,NA,NA,NA,110.65,70.791,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Preen,Auto-|None,4,32.48,8.12,6.577,194.6,335.221,0.9
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Preen,Auto-|None,4,32.48,8.12,6.577,194.6,335.221,0.9
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Brief flight,Other crow #1,1,10.68,10.68,NA,NA,NA,0.3
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Brief flight,Other crow #1,1,10.68,10.68,NA,NA,NA,0.3
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Alert,Other crow #1,58,184.72,3.185,2.89,54.992,172.794,5.2
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Alert,Other crow #1,58,184.72,3.185,2.89,54.992,172.794,5.2
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #1,Vocal,Other crow #1,1,NA,NA,NA,NA,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Preen,Allo-|Broken beak,6,59.52,9.92,5.939,50.456,29.533,1.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Preen,Allo-|Broken beak,6,59.52,9.92,5.939,50.456,29.533,1.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Alert,Other crow #2,3,4.62,1.54,0.86,855.65,302.797,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Alert,Other crow #2,3,4.62,1.54,0.86,855.65,302.797,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Feed,Auto-|Successful|None,2,NA,NA,NA,45.96,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Feed,Auto-|Unknown|None,7,NA,NA,NA,304.413,453.012,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Foraging,Other crow #2,37,487.2,13.168,17.989,51.368,132.839,13.8
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Resting,Other crow #2,2,45.84,22.92,7.354,245.52,NA,1.3
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Open mouth,Other crow #2,1,NA,NA,NA,NA,NA,NA
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Preen,Allo-|Broken beak,6,59.52,9.92,5.939,50.456,29.533,1.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Preen,Allo-|Broken beak,6,59.52,9.92,5.939,50.456,29.533,1.7
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Alert,Other crow #2,3,4.62,1.54,0.86,855.65,302.797,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #2,Alert,Other crow #2,3,4.62,1.54,0.86,855.65,302.797,0.1
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #3,Foraging,Other crow #1,2,1,0.5,0.311,1.08,NA,0
+17-7-25 C #1,23:40.0,,61,89,3,sunny,(no record),no,ground,Full observation,Full observation,3522.72,Other crow #3,Foraging,Other crow #3,5,19.16,3.832,5.858,0.67,0.268,0.5

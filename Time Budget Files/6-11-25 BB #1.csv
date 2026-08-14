@@ -1,0 +1,19 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,No focal subject,Unclear video,,20,52.224,2.611,2.496,46.484,53.543,5.5
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Preen,Auto-|None,1,45.6,45.6,NA,NA,NA,4.8
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Preen,Auto-|None,1,45.6,45.6,NA,NA,NA,4.8
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Brief flight,Broken beak,1,5.88,5.88,NA,NA,NA,0.6
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Brief flight,Broken beak,1,5.88,5.88,NA,NA,NA,0.6
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Alert,Broken beak,8,17.759,2.22,1.082,102.269,157.429,1.9
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Alert,Broken beak,8,17.759,2.22,1.082,102.269,157.429,1.9
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Feed,Auto-|Unsuccessful|None,144,NA,NA,NA,5.727,8.344,NA
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Feed,Auto-|Unknown|None,46,NA,NA,NA,18.458,33.021,NA
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Feed,Auto-|Successful|None,59,NA,NA,NA,12.771,25.772,NA
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Foraging,Broken beak,21,808.119,38.482,46.287,2.848,4.294,85.2
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Preen,Auto-|None,1,45.6,45.6,NA,NA,NA,4.8
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Preen,Auto-|None,1,45.6,45.6,NA,NA,NA,4.8
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Brief flight,Broken beak,1,5.88,5.88,NA,NA,NA,0.6
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Brief flight,Broken beak,1,5.88,5.88,NA,NA,NA,0.6
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Alert,Broken beak,8,17.759,2.22,1.082,102.269,157.429,1.9
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Broken beak,Alert,Broken beak,8,17.759,2.22,1.082,102.269,157.429,1.9
+6-11-25 BB #1,24:12.7,,56,98,5,cloudy,very soft,no,ground,Full observation,Full observation,948.544,Other crow #1,Foraging,Other crow #1,2,18.96,9.48,5.148,1.72,NA,2

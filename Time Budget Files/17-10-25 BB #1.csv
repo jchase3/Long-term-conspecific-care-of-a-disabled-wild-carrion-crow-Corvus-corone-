@@ -1,0 +1,5 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+17-10-25 BB #1,2025-12-3014:37:34.915,,47,90,1,cloudy,hard,no,ground,0.000,54.300,54.300,No focal subject,Unclear video,,6,16.617,2.769,4.214,7.537,8.332,30.6
+17-10-25 BB #1,2025-12-3014:37:34.915,,47,90,1,cloudy,hard,no,ground,0.000,54.300,54.300,Broken beak,Feed,Auto-|Unknown,6,NA,NA,NA,4.456,6.544,NA
+17-10-25 BB #1,2025-12-3014:37:34.915,,47,90,1,cloudy,hard,no,ground,0.000,54.300,54.300,Broken beak,Foraging,Broken beak,3,25.24,8.413,11.254,5.86,7.608,46.5
+17-10-25 BB #1,2025-12-3014:37:34.915,,47,90,1,cloudy,hard,no,ground,0.000,54.300,54.300,Other crow #1,Foraging,Other crow #1,4,16.28,4.07,3.534,0.707,0.205,30.0

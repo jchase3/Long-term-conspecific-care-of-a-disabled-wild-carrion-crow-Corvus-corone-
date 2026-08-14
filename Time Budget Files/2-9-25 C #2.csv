@@ -1,0 +1,13 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,No focal subject,Unclear video,,7,47.715,6.816,3.969,32.167,24.814,16.9
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Preen,Auto-|None,1,4.12,4.12,NA,NA,NA,1.5
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Preen,Auto-|None,1,4.12,4.12,NA,NA,NA,1.5
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Alert,Other crow #1,1,7.8,7.8,NA,NA,NA,2.8
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Alert,Other crow #1,1,7.8,7.8,NA,NA,NA,2.8
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Feed,Auto-|Unknown|None,3,NA,NA,NA,94.06,56.653,NA
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Feed,Auto-|Successful|None,1,NA,NA,NA,NA,NA,NA
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Foraging,Other crow #1,8,222.599,27.825,21.44,5.566,3.003,78.9
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Preen,Auto-|None,1,4.12,4.12,NA,NA,NA,1.5
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Preen,Auto-|None,1,4.12,4.12,NA,NA,NA,1.5
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Alert,Other crow #1,1,7.8,7.8,NA,NA,NA,2.8
+2-9-25 C #2,2026-01-0919:08:15.859,,56,86,9,cloudy,soft,yes,ground,0.000,282.240,282.240,Other crow #1,Alert,Other crow #1,1,7.8,7.8,NA,NA,NA,2.8

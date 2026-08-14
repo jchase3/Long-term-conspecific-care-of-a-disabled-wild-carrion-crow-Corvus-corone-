@@ -1,0 +1,8 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,No focal subject,Close proximity,Mutual|Mutual,2,35.559,17.78,12.869,0.521,NA,93.8
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,No focal subject,Unclear video,,2,2.36,1.18,0.933,26.88,NA,6.2
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,Broken beak,Feed,Auto-|Unknown,5,NA,NA,NA,4.02,3.138,NA
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,Broken beak,Foraging,Broken beak,4,26.92,6.73,8.271,3.053,4.632,71.0
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,Other crow #1,Feed,Auto-|Unknown,3,NA,NA,NA,16.6,13.18,NA
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,Other crow #1,Foraging,Other crow #1,2,35.56,17.78,12.869,0.52,NA,93.8
+1-7-25 C #2,2025-12-2907:48:54.567,,58,81,4,(no record),(no record),no,ground,0.000,37.920,37.920,Other crow #2,Resting,Other crow #2,1,11.6,11.6,NA,NA,NA,30.6

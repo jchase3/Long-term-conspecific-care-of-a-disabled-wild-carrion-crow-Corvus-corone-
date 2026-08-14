@@ -1,0 +1,14 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,No focal subject,Close proximity,Mutual|Mutual,2,15.04,7.52,6.223,125.92,NA,8.7
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,No focal subject,Unclear video,,4,137.235,34.309,26.587,7.107,2.676,79.2
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Broken beak,Brief flight,Broken beak,1,1.04,1.04,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Broken beak,Brief flight,Broken beak,1,1.04,1.04,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Broken beak,Foraging,Broken beak,3,15.398,5.133,2.983,63.481,88.303,8.9
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Broken beak,Brief flight,Broken beak,1,1.04,1.04,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Broken beak,Brief flight,Broken beak,1,1.04,1.04,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Other crow #1,Brief flight,Other crow #1,1,1.12,1.12,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Other crow #1,Brief flight,Other crow #1,1,1.12,1.12,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Other crow #1,Feed,Auto-|Successful,1,NA,NA,NA,NA,NA,NA
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Other crow #1,Foraging,Other crow #1,4,27.72,6.93,2.213,36.293,32.197,16.0
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Other crow #1,Brief flight,Other crow #1,1,1.12,1.12,NA,NA,NA,0.6
+10-6-25 BB #1,2026-01-0405:02:20.143,,65,46,9,(no record),(no record),no,ground,0.000,173.280,173.280,Other crow #1,Brief flight,Other crow #1,1,1.12,1.12,NA,NA,NA,0.6

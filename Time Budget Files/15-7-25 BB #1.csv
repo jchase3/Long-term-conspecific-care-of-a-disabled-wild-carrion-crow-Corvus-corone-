@@ -1,0 +1,11 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,No focal subject,Close proximity,None|None,1,5.199,5.199,NA,NA,NA,7.4
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,No focal subject,Unclear video,,4,34.839,8.71,11.111,10.187,6.163,49.3
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Alert,Broken beak,1,1.88,1.88,NA,NA,NA,2.7
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Alert,Broken beak,1,1.88,1.88,NA,NA,NA,2.7
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Feed,Auto-|Unknown,4,NA,NA,NA,8.267,7.084,NA
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Feed,Auto-|Successful,2,NA,NA,NA,5.96,NA,NA
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Foraging,Broken beak,4,33.88,8.47,5.576,4.107,4.066,48.0
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Alert,Broken beak,1,1.88,1.88,NA,NA,NA,2.7
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Broken beak,Alert,Broken beak,1,1.88,1.88,NA,NA,NA,2.7
+15-7-25 BB #1,2025-12-3117:48:47.024,,60,77,9,cloudy,(no record),no,ground,0.000,70.600,70.600,Other crow #1,Foraging,Other crow #1,1,5.2,5.2,NA,NA,NA,7.4

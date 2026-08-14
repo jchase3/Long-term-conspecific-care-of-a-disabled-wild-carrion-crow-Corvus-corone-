@@ -1,0 +1,7 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+16-9-25 BB #1,2026-01-0214:09:32.207,,49,90,6,partly cloudy,very soft,no,ground,0.000,55.680,55.680,No focal subject,Unclear video,,1,7.04,7.04,NA,NA,NA,12.6
+16-9-25 BB #1,2026-01-0214:09:32.207,,49,90,6,partly cloudy,very soft,no,ground,0.000,55.680,55.680,Broken beak,Alert,Broken beak,2,12.6,6.3,6.93,28.44,NA,22.6
+16-9-25 BB #1,2026-01-0214:09:32.207,,49,90,6,partly cloudy,very soft,no,ground,0.000,55.680,55.680,Broken beak,Alert,Broken beak,2,12.6,6.3,6.93,28.44,NA,22.6
+16-9-25 BB #1,2026-01-0214:09:32.207,,49,90,6,partly cloudy,very soft,no,ground,0.000,55.680,55.680,Broken beak,Foraging,Broken beak,2,35.96,17.98,14.793,1.4,NA,64.6
+16-9-25 BB #1,2026-01-0214:09:32.207,,49,90,6,partly cloudy,very soft,no,ground,0.000,55.680,55.680,Broken beak,Alert,Broken beak,2,12.6,6.3,6.93,28.44,NA,22.6
+16-9-25 BB #1,2026-01-0214:09:32.207,,49,90,6,partly cloudy,very soft,no,ground,0.000,55.680,55.680,Broken beak,Alert,Broken beak,2,12.6,6.3,6.93,28.44,NA,22.6

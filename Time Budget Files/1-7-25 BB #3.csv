@@ -1,0 +1,25 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,No focal subject,Close proximity,Other crow #1|Broken beak,4,143.959,35.99,31.825,99.947,144.017,20.1
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,No focal subject,Close proximity,Broken beak|Other crow #1,1,29.8,29.8,NA,NA,NA,4.2
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,No focal subject,Close proximity,Mutual|Mutual,1,7.64,7.64,NA,NA,NA,1.1
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,No focal subject,Unclear video,,22,127.579,5.799,10.472,21.728,31.618,17.8
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Brief flight,Broken beak,1,4.6,4.6,NA,NA,NA,0.6
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Brief flight,Broken beak,1,4.6,4.6,NA,NA,NA,0.6
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Alert,Broken beak,2,8.88,4.44,4.639,109.28,NA,1.2
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Alert,Broken beak,2,8.88,4.44,4.639,109.28,NA,1.2
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Feed,Auto-|Unknown,31,NA,NA,NA,20.281,28.136,NA
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Feed,Auto-|Successful,2,NA,NA,NA,341.44,NA,NA
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Foraging,Broken beak,25,558.4,22.336,26.846,6.352,10.648,77.8
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Open mouth,Broken beak,1,NA,NA,NA,NA,NA,NA
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Brief flight,Broken beak,1,4.6,4.6,NA,NA,NA,0.6
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Brief flight,Broken beak,1,4.6,4.6,NA,NA,NA,0.6
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Alert,Broken beak,2,8.88,4.44,4.639,109.28,NA,1.2
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Broken beak,Alert,Broken beak,2,8.88,4.44,4.639,109.28,NA,1.2
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #1,Alert,Other crow #1,1,0.24,0.24,NA,NA,NA,0.0
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #1,Alert,Other crow #1,1,0.24,0.24,NA,NA,NA,0.0
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #1,Feed,Auto-|Unknown,10,NA,NA,NA,40.204,49.543,NA
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #1,Foraging,Other crow #1,9,102.96,11.44,8.55,33.83,52.73,14.3
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #1,Alert,Other crow #1,1,0.24,0.24,NA,NA,NA,0.0
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #1,Alert,Other crow #1,1,0.24,0.24,NA,NA,NA,0.0
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #2,Feed,Auto-|Unknown,4,NA,NA,NA,19.307,12.236,NA
+1-7-25 BB #3,2025-12-3011:37:06.275,,58,81,4,(no record),(no record),no,ground,0.000,717.640,717.640,Other crow #2,Foraging,Other crow #2,2,63.4,31.7,17.395,4.96,NA,8.8

@@ -1,0 +1,31 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,No focal subject,Within 5m,Other crow #1|Other crow #2,1,598.4,598.4,NA,NA,NA,21.2
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,No focal subject,Unclear video,,20,103.72,5.186,5.687,141.499,301.769,3.7
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Preen,Auto-|None,14,274.48,19.606,26.715,166.345,224.718,9.7
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Preen,Auto-|None,14,274.48,19.606,26.715,166.345,224.718,9.7
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Alert,Other crow #1,21,149.598,7.124,3.586,127.476,387.503,5.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Alert,Other crow #1,21,149.598,7.124,3.586,127.476,387.503,5.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Feed,Auto-|Unknown|None,5,NA,NA,NA,92.34,114.993,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,109.36,3.224,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Feed,Auto-|Successful|None,4,NA,NA,NA,69.173,32.336,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Foraging,Other crow #1,34,312.518,9.192,9.446,76.202,257.07,11.1
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Resting,Other crow #1,19,1925.757,101.356,109.623,31.696,53.191,68.1
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Wing flutter,Other crow #1,5,NA,NA,NA,291.22,351.856,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Open mouth,Other crow #1,2,NA,NA,NA,91.36,NA,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Preen,Auto-|None,14,274.48,19.606,26.715,166.345,224.718,9.7
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Preen,Auto-|None,14,274.48,19.606,26.715,166.345,224.718,9.7
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Alert,Other crow #1,21,149.598,7.124,3.586,127.476,387.503,5.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #1,Alert,Other crow #1,21,149.598,7.124,3.586,127.476,387.503,5.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Preen,Auto-|None,1,8.96,8.96,NA,NA,NA,0.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Preen,Auto-|None,1,8.96,8.96,NA,NA,NA,0.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Alert,Other crow #2,9,96.76,10.751,6.682,56.01,34.382,3.4
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Alert,Other crow #2,9,96.76,10.751,6.682,56.01,34.382,3.4
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Feed,Auto-|Unknown|None,32,NA,NA,NA,21.617,36.422,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Feed,Auto-|Successful|None,6,NA,NA,NA,105.128,122.034,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Feed,Auto-|Unsuccessful|None,2,NA,NA,NA,0.8,NA,NA
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Foraging,Other crow #2,17,403.559,23.739,34.416,19.413,11.544,14.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Resting,Other crow #2,7,181.48,25.926,4.338,54.613,58.27,6.4
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Preen,Auto-|None,1,8.96,8.96,NA,NA,NA,0.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Preen,Auto-|None,1,8.96,8.96,NA,NA,NA,0.3
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Alert,Other crow #2,9,96.76,10.751,6.682,56.01,34.382,3.4
+12-8-25 C #1,2026-01-0811:05:55.665,,62,97,1,sunny,average,yes,ground,0.000,2827.240,2827.240,Other crow #2,Alert,Other crow #2,9,96.76,10.751,6.682,56.01,34.382,3.4

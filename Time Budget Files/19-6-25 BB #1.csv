@@ -1,0 +1,14 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,No focal subject,Unclear video,,6,11.9,1.983,1.623,26.952,53.015,7.6
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Preen,Auto-|None,2,7.2,3.6,1.64,65.64,NA,4.6
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Preen,Auto-|None,2,7.2,3.6,1.64,65.64,NA,4.6
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Alert,Broken beak,2,24.12,12.06,10.097,94.08,NA,15.4
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Alert,Broken beak,2,24.12,12.06,10.097,94.08,NA,15.4
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Feed,Auto-|Successful|None,6,NA,NA,NA,10.136,5.112,NA
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Feed,Auto-|Unknown|None,6,NA,NA,NA,12.576,12.972,NA
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,22.14,8.514,NA
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Foraging,Broken beak,7,113.679,16.24,20.417,5.707,7.006,72.4
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Preen,Auto-|None,2,7.2,3.6,1.64,65.64,NA,4.6
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Preen,Auto-|None,2,7.2,3.6,1.64,65.64,NA,4.6
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Alert,Broken beak,2,24.12,12.06,10.097,94.08,NA,15.4
+19-6-25 BB #1,2026-01-0812:41:32.704,,72,57,7,(no record),(no record),no,ground,0.000,157.000,157.000,Broken beak,Alert,Broken beak,2,24.12,12.06,10.097,94.08,NA,15.4

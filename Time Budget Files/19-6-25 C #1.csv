@@ -1,0 +1,15 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,No focal subject,Close proximity,Other crow #1|Broken beak,1,0.2,0.2,NA,NA,NA,0.5
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,No focal subject,Unclear video,,6,6.518,1.086,1.941,1.312,2.289,16.0
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Broken beak,Preen,Auto-,2,4.44,2.22,2.857,0.44,NA,10.9
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Broken beak,Preen,Auto-,2,4.44,2.22,2.857,0.44,NA,10.9
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Broken beak,Foraging,Broken beak,6,1.74,0.29,0.2,7.764,10.91,4.3
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Broken beak,Preen,Auto-,2,4.44,2.22,2.857,0.44,NA,10.9
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Broken beak,Preen,Auto-,2,4.44,2.22,2.857,0.44,NA,10.9
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Preen,Auto-,1,5.04,5.04,NA,NA,NA,12.4
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Preen,Auto-,1,5.04,5.04,NA,NA,NA,12.4
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Feed,Auto-|Unknown,1,NA,NA,NA,NA,NA,NA
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Foraging,Other crow #1,2,5.6,2.8,3.338,0.44,NA,13.7
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Resting,Other crow #1,1,17.52,17.52,NA,NA,NA,42.9
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Preen,Auto-,1,5.04,5.04,NA,NA,NA,12.4
+19-6-25 C #1,2025-12-2820:55:17.814,,72,57,7,(no record),(no record),no,ground,0.000,40.800,40.800,Other crow #1,Preen,Auto-,1,5.04,5.04,NA,NA,NA,12.4

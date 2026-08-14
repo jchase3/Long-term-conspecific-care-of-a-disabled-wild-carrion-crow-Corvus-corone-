@@ -1,0 +1,31 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,No focal subject,Close proximity,Broken beak|Other crow #1,1,24.6,24.6,NA,NA,NA,16.6
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,No focal subject,Close proximity,Other crow #1|Broken beak,1,57.84,57.84,NA,NA,NA,39.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Alert,Broken beak,1,16.88,16.88,NA,NA,NA,11.4
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Alert,Broken beak,1,16.88,16.88,NA,NA,NA,11.4
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Feed,Auto-|Unknown|None,2,NA,NA,NA,14.56,NA,NA
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,4.86,3.932,NA
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Feed,Auto-|Successful|None,3,NA,NA,NA,5.14,3.649,NA
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Foraging,Broken beak,3,74.04,24.68,14.17,9.84,9.956,49.9
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Alert,Broken beak,1,16.88,16.88,NA,NA,NA,11.4
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Broken beak,Alert,Broken beak,1,16.88,16.88,NA,NA,NA,11.4
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Brief flight,Other crow #1,1,4.0,4.0,NA,NA,NA,2.7
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Brief flight,Other crow #1,1,4.0,4.0,NA,NA,NA,2.7
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Alert,Other crow #1,1,5.96,5.96,NA,NA,NA,4.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Alert,Other crow #1,1,5.96,5.96,NA,NA,NA,4.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Foraging,Other crow #1,2,11.44,5.72,4.469,5.96,NA,7.7
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Resting,Other crow #1,2,98.559,49.279,11.087,4.0,NA,66.4
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Brief flight,Other crow #1,1,4.0,4.0,NA,NA,NA,2.7
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Brief flight,Other crow #1,1,4.0,4.0,NA,NA,NA,2.7
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Alert,Other crow #1,1,5.96,5.96,NA,NA,NA,4.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #1,Alert,Other crow #1,1,5.96,5.96,NA,NA,NA,4.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Brief flight,Other crow #2,2,3.0,1.5,0.764,29.76,NA,2.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Brief flight,Other crow #2,2,3.0,1.5,0.764,29.76,NA,2.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Alert,Other crow #2,1,9.0,9.0,NA,NA,NA,6.1
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Alert,Other crow #2,1,9.0,9.0,NA,NA,NA,6.1
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Foraging,Other crow #2,1,7.08,7.08,NA,NA,NA,4.8
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Resting,Other crow #2,1,29.76,29.76,NA,NA,NA,20.1
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Brief flight,Other crow #2,2,3.0,1.5,0.764,29.76,NA,2.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Brief flight,Other crow #2,2,3.0,1.5,0.764,29.76,NA,2.0
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Alert,Other crow #2,1,9.0,9.0,NA,NA,NA,6.1
+10-6-25 C #1,2026-01-0611:18:32.605,,65,46,9,(no record),(no record),no,ground,0.000,148.360,148.360,Other crow #2,Alert,Other crow #2,1,9.0,9.0,NA,NA,NA,6.1

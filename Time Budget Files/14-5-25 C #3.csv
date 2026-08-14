@@ -1,0 +1,10 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,No focal subject,Unclear video,,4,11.44,2.86,5.007,2.6,3.851,13.5
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Alert,Other crow #1,1,1.28,1.28,NA,NA,NA,1.5
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Alert,Other crow #1,1,1.28,1.28,NA,NA,NA,1.5
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Feed,Auto-|Successful,35,NA,NA,NA,2.209,3.064,NA
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Feed,Auto-|Unknown,7,NA,NA,NA,9.793,9.655,NA
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Feed,Auto-|Unsuccessful,1,NA,NA,NA,NA,NA,NA
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Foraging,Other crow #1,5,69.44,13.888,24.421,2.86,5.007,82.2
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Alert,Other crow #1,1,1.28,1.28,NA,NA,NA,1.5
+14-5-25 C #3,2025-12-2207:25:45.649,,55,65,9,cloudy,(no record),no,ground,0.000,84.480,84.480,Other crow #1,Alert,Other crow #1,1,1.28,1.28,NA,NA,NA,1.5

@@ -1,0 +1,28 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,No focal subject,Close proximity,Other crow #1|Broken beak,6,61.88,10.313,13.912,24.704,29.39,15.0
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,No focal subject,Unclear video,,15,49.828,3.322,4.431,23.586,24.328,12.1
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Brief flight,Broken beak,1,0.159,0.159,NA,NA,NA,0.0
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Brief flight,Broken beak,1,0.159,0.159,NA,NA,NA,0.0
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Alert,Broken beak,1,0.96,0.96,NA,NA,NA,0.2
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Alert,Broken beak,1,0.96,0.96,NA,NA,NA,0.2
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Feed,Auto-|Unknown|None,4,NA,NA,NA,44.0,35.248,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Feed,Auto-|Unsuccessful|None,3,NA,NA,NA,31.6,43.954,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Foraging,Broken beak,6,33.717,5.62,4.243,19.793,13.598,8.2
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Resting,Broken beak,2,2.439,1.219,0.368,91.32,NA,0.6
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Begging session,"Broken beak,Other crow #1",9,49.114,5.457,3.817,17.081,24.679,11.9
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Beg call,Broken beak,7,NA,NA,NA,16.88,30.0,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Wing flutter,Broken beak,45,NA,NA,NA,4.12,13.045,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Open mouth,Broken beak,17,NA,NA,NA,11.335,21.455,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Brief flight,Broken beak,1,0.159,0.159,NA,NA,NA,0.0
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Brief flight,Broken beak,1,0.159,0.159,NA,NA,NA,0.0
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Alert,Broken beak,1,0.96,0.96,NA,NA,NA,0.2
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Broken beak,Alert,Broken beak,1,0.96,0.96,NA,NA,NA,0.2
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Alert,Other crow #1,1,1.36,1.36,NA,NA,NA,0.3
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Alert,Other crow #1,1,1.36,1.36,NA,NA,NA,0.3
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Feed,Auto-|Successful|None,50,NA,NA,NA,7.922,11.49,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Feed,Auto-|Unsuccessful|None,9,NA,NA,NA,45.08,36.521,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Feed,Auto-|Unknown|None,21,NA,NA,NA,17.766,16.607,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Feed,Allo-|Successful|Broken beak,1,NA,NA,NA,NA,NA,NA
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Foraging,Other crow #1,15,348.348,23.223,23.286,4.118,9.682,84.5
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Alert,Other crow #1,1,1.36,1.36,NA,NA,NA,0.3
+14-5-25 C #2,2025-12-1111:49:20.659,JC Inter-Rater Reliability Testing,66,46,11,sunny,(no record),no,ground,0.000,412.320,412.320,Other crow #1,Alert,Other crow #1,1,1.36,1.36,NA,NA,NA,0.3

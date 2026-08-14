@@ -1,0 +1,17 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,No focal subject,Unclear video,,6,7.58,1.263,0.87,92.032,38.679,1.2
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Preen,Auto-|None,19,358.24,18.855,16.688,12.662,22.467,55.7
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Preen,Auto-|None,19,358.24,18.855,16.688,12.662,22.467,55.7
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Brief flight,Broken beak,2,3.64,1.82,1.216,3.72,NA,0.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Brief flight,Broken beak,2,3.64,1.82,1.216,3.72,NA,0.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Alert,Broken beak,12,87.4,7.283,5.137,38.505,40.572,13.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Alert,Broken beak,12,87.4,7.283,5.137,38.505,40.572,13.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Feed,Auto-|Unknown|None,3,NA,NA,NA,0.34,0.255,NA
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Foraging,Broken beak,3,26.32,8.773,3.235,198.24,274.753,4.1
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Resting,Broken beak,3,162.0,54.0,22.683,199.04,0.226,25.2
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Preen,Auto-|None,19,358.24,18.855,16.688,12.662,22.467,55.7
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Preen,Auto-|None,19,358.24,18.855,16.688,12.662,22.467,55.7
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Brief flight,Broken beak,2,3.64,1.82,1.216,3.72,NA,0.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Brief flight,Broken beak,2,3.64,1.82,1.216,3.72,NA,0.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Alert,Broken beak,12,87.4,7.283,5.137,38.505,40.572,13.6
+6-11-25 BB #2,2026-01-1416:43:07.412,,56,98,5,cloudy,very soft,no,tree,0.000,643.260,643.260,Broken beak,Alert,Broken beak,12,87.4,7.283,5.137,38.505,40.572,13.6

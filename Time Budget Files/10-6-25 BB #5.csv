@@ -1,0 +1,37 @@
+Observation id,Observation date,Description,Temperature,Humidity,Wind,Weather,Ground softness,Ladder trap,Primary location,Time budget start,Time budget stop,Time budget duration,Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,No focal subject,Close proximity,Mutual|Mutual,7,118.118,16.874,13.663,21.113,29.032,10.7
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,No focal subject,Close proximity,Other crow #1|Broken beak,4,81.96,20.49,11.226,130.213,117.371,7.4
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,No focal subject,Close proximity,Broken beak|Other crow #1,1,23.12,23.12,NA,NA,NA,2.1
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,No focal subject,Begging session,"Broken beak,Other crow #1",1,21.88,21.88,NA,NA,NA,2.0
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,No focal subject,Unclear video,,14,20.956,1.497,1.794,78.086,71.179,1.9
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Preen,Auto-,3,3.64,1.213,0.841,12.84,11.766,0.3
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Preen,Auto-,3,3.64,1.213,0.841,12.84,11.766,0.3
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Brief flight,Broken beak,1,4.64,4.64,NA,NA,NA,0.4
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Brief flight,Broken beak,1,4.64,4.64,NA,NA,NA,0.4
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Alert,Broken beak,8,50.16,6.27,8.449,119.869,136.488,4.5
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Alert,Broken beak,8,50.16,6.27,8.449,119.869,136.488,4.5
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Feed,Auto-|Unknown,36,NA,NA,NA,27.934,36.723,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Feed,Auto-|Unsuccessful,40,NA,NA,NA,23.568,27.47,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Feed,Auto-|Successful,25,NA,NA,NA,32.393,42.181,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Foraging,Broken beak,25,998.637,39.945,46.322,4.047,7.611,90.5
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Beg call,Broken beak,5,NA,NA,NA,3.53,3.538,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Wing flutter,Broken beak,16,NA,NA,NA,1.077,1.713,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Open mouth,Broken beak,6,NA,NA,NA,3.192,2.113,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Preen,Auto-,3,3.64,1.213,0.841,12.84,11.766,0.3
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Preen,Auto-,3,3.64,1.213,0.841,12.84,11.766,0.3
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Brief flight,Broken beak,1,4.64,4.64,NA,NA,NA,0.4
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Brief flight,Broken beak,1,4.64,4.64,NA,NA,NA,0.4
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Alert,Broken beak,8,50.16,6.27,8.449,119.869,136.488,4.5
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Alert,Broken beak,8,50.16,6.27,8.449,119.869,136.488,4.5
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Broken beak,Vocal,Broken beak,1,NA,NA,NA,NA,NA,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Alert,Other crow #1,2,12.84,6.42,5.006,622.6,NA,1.2
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Alert,Other crow #1,2,12.84,6.42,5.006,622.6,NA,1.2
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Feed,Auto-|Successful,10,NA,NA,NA,32.324,32.962,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Feed,Auto-|Unknown,3,NA,NA,NA,44.9,41.946,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Feed,Allo-|Successful|Broken beak,3,NA,NA,NA,6.52,1.075,NA
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Foraging,Other crow #1,15,204.039,13.603,9.489,31.229,62.664,18.5
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Alert,Other crow #1,2,12.84,6.42,5.006,622.6,NA,1.2
+10-6-25 BB #5,2026-01-0413:31:36.522,,65,46,9,(no record),(no record),no,ground,0.000,1103.040,1103.040,Other crow #1,Alert,Other crow #1,2,12.84,6.42,5.006,622.6,NA,1.2
