@@ -5,7 +5,8 @@ library(ggpubr) #combine plots for publication
 library(ggsignif) #significance bars
 library(emmeans) #check correlation
 library(car) #for type-II anovas
-library(MASS) #for negative binomial glms
+library(MASS) #for negative binomial glmms
+library(lme4) #for other glmms
 library(tidyverse)
 library(png) #to read png files
 library(grid) #to convert images to ggplot objects
