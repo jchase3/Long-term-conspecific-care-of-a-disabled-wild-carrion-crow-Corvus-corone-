@@ -828,6 +828,8 @@ nb_model <- glm.nb(
 cor(sc_all_sessions_beg_AF$Session_length, sc_all_sessions_beg_AF$Video_duration, 
     use = "complete.obs")
 #not correlated (Pearson = 0.190261)
+cor.test(sc_all_sessions_beg_AF$Session_length, sc_all_sessions_beg_AF$Video_duration, 
+          method = "pearson")
 
 #6. Summary
 summary(nb_model)
