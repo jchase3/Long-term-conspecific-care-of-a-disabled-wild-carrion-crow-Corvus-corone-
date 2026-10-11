@@ -9,6 +9,7 @@ library(lme4) #for other glmms
 library(tidyverse)
 library(png) #to read png files
 library(grid) #to convert images to ggplot objects
+library(MuMIn) #for AICc
 
 
 setwd('______/Time Budget Files')
@@ -322,7 +323,7 @@ rm(day_visible, time_vis_group, Time_visible, vid_visible, make_visible_df, sum_
 #1. Make sub-data frame (if needed)
 #2. Fit GLM
 #3. Check model for overdispersion, adjust model type if needed
-#4. Compare AICs using drop1(), reduce models
+#4. Reduce models using drop1() F-test or Chisq, if have interaction term
 #5. Check for correlation (if needed)
 #6. Get summary of GLM results
 #7. Anova to test for significance
@@ -391,7 +392,7 @@ autofeed_success <- glm(cbind(Successful, Unsuccessful) ~ Group*Date,
                         data = collapsed_total_autofeeds_by_day,
                         family = quasibinomial)
 
-#4. Reduce using drop1()
+#4. Reduce
 drop1(autofeed_success, test = "F") #Group:Date not significant (p = 0.5162)
 autofeed_success <- glm(cbind(Successful, Unsuccessful) ~ Group + Date,
                         data = collapsed_total_autofeeds_by_day,
@@ -477,11 +478,11 @@ overdisp_fun(percent_time_foraging) #overdispersed (ratio = 223.3369)
 percent_time_foraging <- glm(Percent_foraging ~ Group*Date, data = foraging, 
                              weights = Day_visible, family = quasibinomial)
 
-#4. Reduce using drop1()
+#4. Reduce
 drop1(percent_time_foraging, test = "F") #Group:Date not significant (p=0.4717)
 percent_time_foraging <- glm(Percent_foraging ~ Group+Date, data = foraging, 
                              weights = Day_visible, family = quasibinomial)
-drop1(percent_time_foraging, test = "F") #neither significant
+drop1(percent_time_foraging, test = "F") #neither significant -> still keep to report effects
 
 #5. Check for correlation - n/a
 
@@ -528,7 +529,7 @@ overdisp_fun(autofeed_rate) #overdispersed (ratio = 48.76534)
 autofeed_rate <- glm(Day_auto_tries ~ Group*Date + offset(log(Day_visible)),
                      data = All_autofeeds, family = quasipoisson)
 
-#4. Reduce using drop1()
+#4. Reduce
 drop1(autofeed_rate, test="Chisq") #Group:Date not significant (p=0.2251)
 autofeed_rate <- glm(Day_auto_tries ~ Group + Date + offset(log(Day_visible)),
                      data = All_autofeeds, family = quasipoisson)
@@ -613,7 +614,7 @@ overdisp_fun(percent_time_autopreening) #overdispersed (ratio = 100.8779)
 percent_time_autopreening <- glm(Percent_autopreening ~ Group, data = autopreening, 
                                  weights = Day_visible, family = quasibinomial)
 
-#4. Reduce using drop1() - n/a
+#4. Reduce - n/a
 
 #5. Check for correlation - n/a
 
@@ -811,7 +812,7 @@ nb_beg_poly2 <- glm.nb(
   Begging_sessions ~ poly(Date_sc, 2) + Session_length_sc + Video_duration_sc,
   data = sc_all_sessions_beg_AF)
 
-#compare AICs - nb_beg_poly2 has lower AIC
+#compare AICc - nb_beg_poly2 has lower AICc
 AIC(nb_beg, nb_beg_poly2)
 
 #rename model (nb_beg_poly2) for final stats/plots
@@ -822,7 +823,7 @@ nb_model <- glm.nb(
 
 #3. Check for overdispersion - n/a
 
-#4. Reduce using drop1() - n/a
+#4. Reduce - n/a
 
 #5. Check for correlation (session length and video duration)
 cor(sc_all_sessions_beg_AF$Session_length, sc_all_sessions_beg_AF$Video_duration, 
